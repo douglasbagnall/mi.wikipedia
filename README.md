@@ -1,8 +1,14 @@
 # A corpus of Māori text from Wikpedia
 
-http://mi.wikpedia.org is the Māori wikipedia and is a readily
-available source of modern written Māori by many authors on many
-topics. It is probably of variable quality.
+This corpus is derived from http://mi.wikpedia.org which is the Māori
+wikipedia and is a readily available source of modern written Māori by
+many authors on many topics. The language and information is probably
+of variable quality.
+
+The text is by various authors, as listed at http://mi.wikpedia.org,
+and is [CC-BY-SA licensed](https://creativecommons.org/licenses/by-sa/3.0/).
+
+The associated bits of software are GPLv3 licensed.
 
 ## Steps to reproduce
 
