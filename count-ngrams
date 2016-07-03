@@ -19,13 +19,16 @@ def possible_n_grams(n, state='v'):
     total += 10 * possible_n_grams(n - 1, 'v')
     return total
 
-def generate_n_grams(n, prefix=''):
+def generate_n_grams(n, prefix='', macrons=False):
     """Estimate the number of possible n-grams, very roughly."""
     # let's assume there are two states, vowel and consonant.
     if n <= 0:
         return [prefix]
 
-    chars = 'aeiouāēīōū'
+    chars = 'aeiou'
+    if macrons:
+        chars += 'āēīōū'
+
     if prefix == '' or prefix[-1] in 'aeiouāēīōū':
         chars += 'fhkmnŋprtw'
 
@@ -64,10 +67,17 @@ def normalise_text(text, diphthongs):
     text = re.sub(r'ng', 'ŋ', text)
     text = re.sub(r'wh', 'f', text)
     text = remove_english(text)
+    text = demacronise(text)
     if diphthongs:
         for k, v in DIPHTHONGS.items():
             text = re.sub(k, v, text)
     return text
+
+
+def demacronise(text):
+    return text.replace('ā', 'aa').replace('ē', 'ee')\
+                                  .replace('ī', 'ii')\
+                                  .replace('ō', 'oo').replace('ū', 'uu')
 
 
 def count_ngrams(text, n, diphthongs=False):
