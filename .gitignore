@@ -1,0 +1,5 @@
+*.py[co]
+/.emacs*
+*.[oadi]
+*.so
+*~
