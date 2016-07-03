@@ -46,13 +46,32 @@ def remove_english(text):
         good_words.append(word)
     return ' '.join(good_words)
 
-def count_ngrams(text, n):
+DIPHTHONGS = {
+    'ae': 'æ',
+    'ai': 'ȧ',
+    'ao': 'å',
+    'au': 'ä',
+    'oi': 'ȯ',
+    'oe': 'œ',
+    'ou': 'ö'
+}
+
+
+def normalise_text(text, diphthongs):
     text = unicodedata.normalize('NFC', text)
     text = text.lower()
     text = re.sub(r'[^\wāēōūī]+', ' ', text)
     text = re.sub(r'ng', 'ŋ', text)
     text = re.sub(r'wh', 'f', text)
     text = remove_english(text)
+    if diphthongs:
+        for k, v in DIPHTHONGS.items():
+            text = re.sub(k, v, text)
+    return text
+
+
+def count_ngrams(text, n, diphthongs=False):
+    text = normalise_text(text, diphthongs)
     texts = [text[i:] for i in range(n)]
     ngrams = Counter(''.join(x) for x in zip(*texts) if ' ' not in x)
     return ngrams
@@ -63,7 +82,7 @@ def main():
     f = open(fn)
     s = f.read()
     f.close()
-    ngrams = count_ngrams(s, 2)
+    ngrams = count_ngrams(s, 2, True)
     print(ngrams.most_common(1000))
     print(len(ngrams))
 
