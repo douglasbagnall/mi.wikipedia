@@ -22,8 +22,6 @@ def possible_n_grams(n, state='v'):
 def generate_n_grams(n, prefix=''):
     """Estimate the number of possible n-grams, very roughly."""
     # let's assume there are two states, vowel and consonant.
-    #vowels = 10     # a e i o u ā ē ī ō ū
-    #consonants = 10 # h k m n ng p r t w wh
     if n <= 0:
         return [prefix]
 
