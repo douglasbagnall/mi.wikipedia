@@ -17,7 +17,6 @@ def possible_n_grams(n, state='v'):
     if state == 'v':
         total += 10 * possible_n_grams(n - 1, 'c')
     total += 10 * possible_n_grams(n - 1, 'v')
-    
     return total
 
 def generate_n_grams(n, prefix=''):
@@ -27,7 +26,7 @@ def generate_n_grams(n, prefix=''):
     #consonants = 10 # h k m n ng p r t w wh
     if n <= 0:
         return [prefix]
-    
+
     chars = 'aeiouāēīōū'
     if prefix == '' or prefix[-1] in 'aeiouāēīōū':
         chars += 'fhkmnŋprtw'
@@ -79,5 +78,5 @@ def main():
     missing = set(possible) - common
     print ("These bigrams occur less than 3 times in %s" % fn)
     print(sorted(missing))
-    
+
 main()
