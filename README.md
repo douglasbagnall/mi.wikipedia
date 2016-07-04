@@ -48,3 +48,8 @@ Remove the `<doc>` tags:
 
     grep -vP '</?doc.*>' mi-wp-min-500.txt > mi-wp-min-500-text-only.txt
 
+## count-ngrams and notes
+
+The `count-ngrams` script calculates some very simple statistics about
+the n-grams that occur in the corpus, while the `notes` directory
+contains examples of its output. Use `count-ngrams --help`.
