@@ -50,8 +50,8 @@
   613  apa   apa
   611  tua   tua
   601  ira   ira
-  587  tae   tae
   587  mai   mai
+  587  tae   tae
   582  aor   aor
   580  aro   aro
   561  ore   ore
@@ -79,8 +79,8 @@
   436  apu   apu
   432  era   era
   431  eŋa   enga
-  424  reo   reo
   424  iwa   iwa
+  424  reo   reo
   419  ene   ene
   419  aar   aar
   418  aua   aua
@@ -104,21 +104,21 @@
   367  roh   roh
   366  koo   koo
   363  ote   ote
-  359  ŋar   ngar
   359  uat   uat
+  359  ŋar   ngar
   356  ŋit   ngit
   352  roa   roa
   352  naa   naa
   348  toŋ   tong
   346  ŋoa   ngoa
   345  iŋo   ingo
-  342  eke   eke
   342  tia   tia
+  342  eke   eke
   341  oha   oha
   339  ohe   ohe
-  337  iri   iri
-  337  one   one
   337  una   una
+  337  one   one
+  337  iri   iri
   335  aur   aur
   333  oki   oki
   330  ohi   ohi
@@ -128,8 +128,8 @@
   318  kei   kei
   315  hau   hau
   314  rua   rua
-  314  puu   puu
   314  haa   haa
+  314  puu   puu
   312  iki   iki
   311  upo   upo
   310  uru   uru
@@ -137,8 +137,8 @@
   306  anu   anu
   305  ina   ina
   303  kah   kah
-  302  ait   ait
   302  hei   hei
+  302  ait   ait
   299  aut   aut
   297  por   por
   296  ate   ate
@@ -149,8 +149,8 @@
   283  kua   kua
   279  tou   tou
   279  kap   kap
-  274  iro   iro
   274  ora   ora
+  274  iro   iro
   273  rot   rot
   271  rak   rak
   268  aau   aau
@@ -160,17 +160,17 @@
   261  afi   awhi
   259  noa   noa
   258  rik   rik
-  257  kii   kii
   257  mak   mak
+  257  kii   kii
   256  wak   wak
-  254  air   air
   254  mar   mar
   254  fit   whit
-  252  rei   rei
+  254  air   air
   252  tar   tar
-  250  aot   aot
+  252  rei   rei
   250  rah   rah
   250  tap   tap
+  250  aot   aot
   248  oma   oma
   247  otu   otu
   245  hin   hin
@@ -197,18 +197,18 @@
   222  auŋ   aung
   220  tam   tam
   220  aui   aui
-  217  aaf   aawh
   217  raw   raw
+  217  aaf   aawh
   216  hua   hua
   214  ako   ako
-  211  tat   tat
   211  aru   aru
   211  oot   oot
+  211  tat   tat
   211  iha   iha
   204  poo   poo
-  199  toa   toa
-  199  kam   kam
   199  her   her
+  199  kam   kam
+  199  toa   toa
   198  tur   tur
   198  par   par
   197  aia   aia
@@ -219,19 +219,19 @@
   190  put   put
   185  tin   tin
   183  itu   itu
-  181  oan   oan
   181  ota   ota
-  180  aea   aea
+  181  oan   oan
   180  ain   ain
+  180  aea   aea
   180  pun   pun
   180  ker   ker
   179  kom   kom
   178  uku   uku
   178  oti   oti
   177  ihi   ihi
-  174  tek   tek
-  174  mot   mot
   174  aai   aai
+  174  mot   mot
+  174  tek   tek
   173  kir   kir
   172  toh   toh
   171  eer   eer
@@ -241,61 +241,61 @@
   168  uhi   uhi
   168  hit   hit
   166  rit   rit
-  165  far   whar
   165  ete   ete
+  165  far   whar
   164  aum   aum
   162  wan   wan
+  159  kot   kot
   159  uur   uur
   159  pak   pak
-  159  kot   kot
-  157  ret   ret
   157  tan   tan
-  152  nat   nat
+  157  ret   ret
   152  mit   mit
+  152  nat   nat
   151  ohu   ohu
   150  pou   pou
-  149  eir   eir
-  149  omi   omi
   149  ini   ini
+  149  omi   omi
   149  amu   amu
+  149  eir   eir
   148  hur   hur
-  147  ria   ria
   147  aaŋ   aang
-  146  opu   opu
+  147  ria   ria
   146  eri   eri
+  146  opu   opu
   144  iho   iho
   143  aiŋ   aing
-  142  hui   hui
-  142  ten   ten
   142  tuh   tuh
   142  ono   ono
+  142  ten   ten
+  142  hui   hui
   141  hak   hak
   140  ran   ran
   140  ehi   ehi
-  139  fai   whai
   139  ruŋ   rung
-  138  ima   ima
+  139  fai   whai
   138  ehe   ehe
-  137  kaŋ   kang
+  138  ima   ima
   137  rom   rom
-  136  hor   hor
+  137  kaŋ   kang
   136  koi   koi
+  136  hor   hor
   135  oŋo   ongo
   133  pae   pae
-  132  mou   mou
-  132  rat   rat
-  132  ema   ema
   132  oke   oke
+  132  rat   rat
+  132  mou   mou
+  132  ema   ema
   131  faŋ   whang
   130  kit   kit
-  129  nak   nak
   129  uka   uka
+  129  nak   nak
   127  tor   tor
   126  tuk   tuk
   126  aho   aho
-  125  wii   wii
-  125  ure   ure
   125  tet   tet
+  125  ure   ure
+  125  wii   wii
   124  pua   pua
   122  aik   aik
   121  aih   aih
@@ -309,29 +309,29 @@
   113  rir   rir
   112  haw   haw
   112  wah   wah
-  111  teh   teh
   111  oit   oit
-  111  hoi   hoi
   111  ito   ito
+  111  hoi   hoi
+  111  teh   teh
+  110  rem   rem
   110  tup   tup
   110  hap   hap
-  110  rem   rem
   109  eto   eto
   108  ame   ame
   108  ŋan   ngan
   107  nau   nau
   107  ani   ani
+  103  rae   rae
+  103  hai   hai
   103  nam   nam
   103  mua   mua
-  103  rae   rae
   103  oop   oop
-  103  hai   hai
-  101  ahe   ahe
-  101  mer   mer
-  101  mur   mur
   101  kaw   kaw
-  100  apo   apo
+  101  ahe   ahe
+  101  mur   mur
+  101  mer   mer
   100  mok   mok
+  100  apo   apo
    99  huŋ   hung
    97  koh   koh
    96  rap   rap
@@ -341,65 +341,65 @@
    92  weh   weh
    91  hon   hon
    90  naw   naw
-   88  opi   opi
-   88  mut   mut
    88  uha   uha
+   88  mut   mut
+   88  opi   opi
    87  amo   amo
    87  pat   pat
    87  tei   tei
-   86  hoo   hoo
    86  oun   oun
+   86  hoo   hoo
    85  aku   aku
    85  ram   ram
-   84  kin   kin
    84  eti   eti
+   84  kin   kin
    83  rai   rai
    82  uut   uut
-   80  ian   ian
    80  roo   roo
+   80  ian   ian
    79  wae   wae
    79  pir   pir
+   76  koa   koa
+   76  oru   oru
    76  tii   tii
    76  nan   nan
    76  taf   tawh
-   76  koa   koa
-   76  oru   oru
-   75  wat   wat
-   75  kop   kop
    75  aip   aip
    75  hou   hou
-   74  uti   uti
-   74  oka   oka
+   75  wat   wat
+   75  kop   kop
    74  rek   rek
-   73  ena   ena
+   74  oka   oka
+   74  uti   uti
    73  hiŋ   hing
+   73  iŋi   ingi
    73  ofe   owhe
    73  fer   wher
    73  kon   kon
-   73  iŋi   ingi
+   73  ena   ena
    72  ket   ket
    72  iiŋ   iing
-   71  kak   kak
    71  unu   unu
    71  uaa   uaa
+   71  kak   kak
    69  afa   awha
    69  ipu   ipu
    69  puh   puh
    68  uro   uro
-   67  kan   kan
    67  ŋah   ngah
-   67  api   api
    67  ŋia   ngia
-   65  uiŋ   uing
-   65  pee   pee
+   67  api   api
+   67  kan   kan
    65  hio   hio
+   65  pee   pee
    65  ipa   ipa
+   65  uiŋ   uing
+   64  rof   rowh
    64  kea   kea
    64  aeŋ   aeng
-   64  rof   rowh
-   63  uup   uup
-   63  iko   iko
    63  iiw   iiw
+   63  iko   iko
+   63  uup   uup
    63  fir   whir
    63  rea   rea
    62  awe   awe
@@ -407,34 +407,34 @@
    62  hik   hik
    60  ŋon   ngon
    60  uki   uki
-   59  pot   pot
    59  omo   omo
-   59  koŋ   kong
+   59  pot   pot
    59  rop   rop
+   59  koŋ   kong
+   58  hoa   hoa
    58  fan   whan
    58  pea   pea
-   58  hoa   hoa
-   57  uum   uum
    57  afe   awhe
-   57  ifa   iwha
+   57  uum   uum
    57  iat   iat
-   56  nih   nih
+   57  ifa   iwha
    56  noŋ   nong
-   55  naŋ   nang
+   56  nih   nih
    55  mih   mih
-   54  ŋai   ngai
+   55  naŋ   nang
    54  aif   aiwh
-   53  ami   ami
-   53  per   per
-   53  pik   pik
-   53  aim   aim
+   54  ŋai   ngai
    53  aun   aun
+   53  pik   pik
+   53  ami   ami
+   53  aim   aim
+   53  per   per
    52  hot   hot
-   52  kup   kup
+   52  iih   iih
    52  tit   tit
    52  hee   hee
+   52  kup   kup
    52  rih   rih
-   52  iih   iih
    51  oni   oni
    51  inu   inu
    50  hir   hir
@@ -443,936 +443,936 @@
    48  min   min
    48  ire   ire
    48  reh   reh
-   47  rin   rin
    47  auk   auk
-   47  ŋap   ngap
    47  moe   moe
-   46  maŋ   mang
-   46  ufa   uwha
+   47  rin   rin
+   47  ŋap   ngap
    46  uak   uak
+   46  ufa   uwha
+   46  maŋ   mang
    46  han   han
    45  uir   uir
-   45  mon   mon
-   45  mem   mem
    45  ook   ook
-   45  uit   uit
+   45  mon   mon
    45  kuu   kuu
+   45  uit   uit
+   45  mem   mem
+   43  pur   pur
+   43  pih   pih
+   43  eit   eit
+   43  ruu   ruu
+   43  mom   mom
    43  ape   ape
    43  rur   rur
-   43  pih   pih
-   43  pur   pur
-   43  mom   mom
-   43  ruu   ruu
-   43  eit   eit
-   42  ior   ior
-   42  ihu   ihu
-   42  pen   pen
    42  nek   nek
+   42  ior   ior
+   42  pen   pen
+   42  ihu   ihu
    41  heŋ   heng
    41  hut   hut
    40  hat   hat
-   39  iao   iao
-   39  nia   nia
-   39  kek   kek
    39  iot   iot
    39  our   our
    39  aoa   aoa
+   39  kek   kek
+   39  iao   iao
    39  iar   iar
+   39  nia   nia
    38  reŋ   reng
-   38  rim   rim
-   38  uuf   uuwh
    38  ihe   ihe
-   37  oom   oom
+   38  uuf   uuwh
+   38  rim   rim
    37  eme   eme
+   37  oom   oom
    37  tao   tao
-   36  pah   pah
    36  ifi   iwhi
-   36  tuŋ   tung
-   36  uke   uke
    36  ion   ion
+   36  uke   uke
+   36  tuŋ   tung
+   36  pah   pah
+   35  uia   uia
+   35  hom   hom
+   35  ror   ror
    35  kiŋ   king
    35  nah   nah
    35  pon   pon
    35  tim   tim
-   35  hom   hom
-   35  uia   uia
-   35  ror   ror
+   34  kaf   kawh
    34  rio   rio
+   34  iak   iak
+   34  rew   rew
    34  iia   iia
    34  riŋ   ring
-   34  rew   rew
    34  uau   uau
-   34  iak   iak
-   34  kaf   kawh
    33  opo   opo
-   33  fat   what
-   33  heo   heo
-   33  pek   pek
-   33  tut   tut
-   33  teŋ   teng
-   33  ehu   ehu
-   33  iir   iir
    33  war   war
-   32  auh   auh
-   32  kui   kui
-   32  tip   tip
+   33  fat   what
+   33  pek   pek
+   33  heo   heo
+   33  ehu   ehu
+   33  teŋ   teng
+   33  tut   tut
+   33  iir   iir
    32  tun   tun
-   32  upe   upe
-   32  iim   iim
+   32  kui   kui
    32  uni   uni
+   32  tip   tip
+   32  iim   iim
+   32  imi   imi
    32  rip   rip
    32  ipo   ipo
-   32  imi   imi
-   31  tum   tum
-   31  ufe   uwhe
+   32  upe   upe
+   32  auh   auh
    31  aae   aae
    31  eoi   eoi
+   31  tum   tum
+   31  ufe   uwhe
    31  hea   hea
    30  uuw   uuw
    30  uam   uam
-   30  mao   mao
    30  ike   ike
-   30  keŋ   keng
    30  pan   pan
+   30  mao   mao
+   30  keŋ   keng
    30  hii   hii
-   29  fin   whin
-   29  ipi   ipi
-   29  pia   pia
-   29  ron   ron
    29  nar   nar
+   29  pia   pia
+   29  fin   whin
+   29  ron   ron
    29  kao   kao
+   29  ipi   ipi
    28  roi   roi
-   28  nen   nen
    28  oat   oat
-   28  epa   epa
+   28  nen   nen
    28  iaa   iaa
-   27  nit   nit
+   28  epa   epa
    27  wer   wer
-   27  uun   uun
-   27  uih   uih
+   27  uhe   uhe
+   27  moh   moh
+   27  aŋo   ango
    27  aoŋ   aong
    27  uuh   uuh
-   27  uhe   uhe
-   27  aŋo   ango
-   27  moh   moh
-   26  ŋak   ngak
-   26  hip   hip
-   26  ewa   ewa
+   27  uun   uun
+   27  uih   uih
+   27  nit   nit
    26  mir   mir
+   26  ewa   ewa
    26  opa   opa
    26  niu   niu
-   25  hop   hop
-   25  nun   nun
+   26  hip   hip
+   26  ŋak   ngak
    25  rok   rok
-   25  ope   ope
-   25  uah   uah
-   25  pao   pao
-   25  iit   iit
    25  aet   aet
+   25  hop   hop
+   25  uah   uah
+   25  iit   iit
+   25  pao   pao
+   25  ope   ope
    25  new   new
-   24  kut   kut
-   24  nii   nii
-   24  emu   emu
-   24  etu   etu
+   25  nun   nun
    24  uhu   uhu
+   24  nii   nii
+   24  kut   kut
+   24  emu   emu
    24  wik   wik
-   23  aii   aii
-   23  eki   eki
+   24  etu   etu
+   23  uua   uua
    23  ooi   ooi
+   23  uwe   uwe
+   23  aii   aii
    23  rut   rut
    23  hoŋ   hong
-   23  uua   uua
-   23  ruk   ruk
-   23  uwe   uwe
    23  rii   rii
    23  kih   kih
-   22  auu   auu
-   22  uor   uor
-   22  rao   rao
-   22  faf   whawh
-   22  iah   iah
-   22  paŋ   pang
+   23  ruk   ruk
+   23  eki   eki
    22  poa   poa
+   22  auu   auu
+   22  paŋ   pang
+   22  uor   uor
+   22  faf   whawh
    22  kok   kok
+   22  iah   iah
    22  iam   iam
+   22  rao   rao
    22  oaŋ   oang
-   21  ipe   ipe
-   21  ren   ren
    21  oar   oar
-   21  uuk   uuk
-   21  oof   oowh
-   21  umu   umu
-   21  emo   emo
-   21  eru   eru
-   21  nai   nai
+   21  ipe   ipe
    21  iap   iap
-   21  ŋik   ngik
-   21  huk   huk
    21  tih   tih
-   21  nio   nio
+   21  oof   oowh
    21  pet   pet
-   21  uho   uho
+   21  uuk   uuk
+   21  nai   nai
+   21  nio   nio
+   21  umu   umu
+   21  eru   eru
    21  mek   mek
+   21  ren   ren
+   21  huk   huk
+   21  ŋik   ngik
+   21  uho   uho
+   21  emo   emo
    20  iku   iku
-   19  pau   pau
    19  iru   iru
-   19  poi   poi
    19  huu   huu
    19  umo   umo
+   19  pau   pau
+   19  poi   poi
    19  top   top
    18  fek   whek
    18  ruh   ruh
+   18  fif   whiwh
    18  imo   imo
    18  fia   whia
-   18  fif   whiwh
-   17  emi   emi
-   17  eih   eih
    17  eeh   eeh
-   17  tot   tot
    17  uaf   uawh
-   17  neh   neh
-   17  aŋu   angu
-   17  oua   oua
    17  uin   uin
+   17  tot   tot
+   17  emi   emi
+   17  aŋu   angu
+   17  neh   neh
    17  ŋoi   ngoi
-   16  ofa   owha
+   17  oua   oua
+   17  eih   eih
    16  heu   heu
-   16  uwa   uwa
-   16  auo   auo
-   16  meh   meh
+   16  hoe   hoe
    16  tom   tom
+   16  auo   auo
+   16  oea   oea
+   16  ofa   owha
+   16  uwa   uwa
    16  neŋ   neng
+   16  ŋih   ngih
+   16  meh   meh
    16  wee   wee
    16  tuf   tuwh
+   16  puŋ   pung
    16  aiw   aiw
    16  noi   noi
-   16  ŋih   ngih
-   16  hoe   hoe
-   16  puŋ   pung
-   16  oea   oea
    16  eni   eni
-   15  hao   hao
    15  ome   ome
-   15  uŋi   ungi
-   15  efa   ewha
-   15  taw   taw
    15  kum   kum
-   15  uŋu   ungu
+   15  hao   hao
    15  ken   ken
-   14  kun   kun
-   14  mia   mia
-   14  nut   nut
-   14  ewi   ewi
-   14  ham   ham
+   15  uŋu   ungu
+   15  uŋi   ungi
+   15  taw   taw
+   15  efa   ewha
    14  uuŋ   uung
+   14  ewi   ewi
    14  aew   aew
+   14  ham   ham
    14  huf   huwh
-   13  ree   ree
-   13  pui   pui
-   13  hoh   hoh
-   13  iin   iin
-   13  him   him
-   13  not   not
-   13  epi   epi
-   13  ooŋ   oong
-   13  wir   wir
-   13  kuk   kuk
-   13  wet   wet
+   14  nut   nut
+   14  mia   mia
+   14  kun   kun
    13  ŋur   ngur
-   13  mae   mae
-   13  het   het
-   13  hem   hem
-   13  eem   eem
-   13  aeh   aeh
-   13  aue   aue
-   13  ewe   ewe
+   13  ree   ree
+   13  kuk   kuk
+   13  ooŋ   oong
    13  nem   nem
+   13  eem   eem
+   13  het   het
+   13  him   him
+   13  wir   wir
+   13  wet   wet
+   13  not   not
+   13  iin   iin
+   13  aue   aue
+   13  epi   epi
+   13  ewe   ewe
+   13  hoh   hoh
+   13  hem   hem
+   13  aeh   aeh
+   13  pui   pui
+   13  mae   mae
+   12  oŋi   ongi
+   12  win   win
    12  fae   whae
    12  ife   iwhe
    12  ŋom   ngom
-   12  win   win
-   12  wao   wao
-   12  peh   peh
-   12  oŋi   ongi
-   12  oir   oir
-   12  eat   eat
-   12  pep   pep
    12  epo   epo
+   12  oir   oir
    12  ein   ein
-   11  aio   aio
-   11  ŋut   ngut
-   11  ŋoŋ   ngong
-   11  kio   kio
-   11  eur   eur
-   11  mup   mup
-   11  wen   wen
-   11  kae   kae
+   12  pep   pep
+   12  peh   peh
+   12  wao   wao
+   12  eat   eat
    11  raf   rawh
-   11  nap   nap
-   11  tif   tiwh
+   11  ŋoŋ   ngong
+   11  eur   eur
    11  eep   eep
-   11  awi   awi
-   11  ŋaŋ   ngang
    11  ŋoh   ngoh
-   10  uii   uii
-   10  uap   uap
-   10  oou   oou
-   10  eŋi   engi
-   10  tem   tem
-   10  ofi   owhi
-   10  iaŋ   iang
-   10  maw   maw
-   10  wea   wea
-   10  ŋuŋ   ngung
-   10  hen   hen
-   10  pei   pei
-   10  ume   ume
-   10  ooa   ooa
+   11  tif   tiwh
+   11  wen   wen
+   11  ŋaŋ   ngang
+   11  awi   awi
+   11  nap   nap
+   11  mup   mup
+   11  kio   kio
+   11  aio   aio
+   11  kae   kae
+   11  ŋut   ngut
    10  ime   ime
-   10  mor   mor
-   10  iik   iik
+   10  ofi   owhi
+   10  oou   oou
    10  poh   poh
-   10  tep   tep
-   10  ŋam   ngam
-   10  hah   hah
    10  eon   eon
+   10  eŋi   engi
+   10  hah   hah
+   10  iik   iik
+   10  uap   uap
+   10  iaŋ   iang
+   10  tep   tep
+   10  uii   uii
+   10  ooa   ooa
+   10  tem   tem
+   10  wea   wea
+   10  ŋam   ngam
+   10  hen   hen
+   10  ume   ume
+   10  maw   maw
+   10  ŋuŋ   ngung
+   10  pei   pei
    10  mii   mii
-    9  nuu   nuu
+   10  mor   mor
     9  uko   uko
-    9  rum   rum
-    9  neo   neo
     9  ŋaw   ngaw
     9  pup   pup
+    9  neo   neo
+    9  iur   iur
+    9  fet   whet
     9  rui   rui
-    9  hum   hum
     9  pii   pii
     9  uai   uai
-    9  iur   iur
-    9  ier   ier
     9  hun   hun
-    9  fet   whet
+    9  nuu   nuu
     9  huh   huh
+    9  hum   hum
+    9  rum   rum
+    9  ier   ier
+    8  mep   mep
+    8  kim   kim
+    8  peŋ   peng
     8  mim   mim
     8  kuh   kuh
-    8  kim   kim
-    8  iip   iip
-    8  toe   toe
-    8  ŋio   ngio
     8  met   met
+    8  toe   toe
     8  uao   uao
-    8  tiŋ   ting
-    8  keo   keo
-    8  riu   riu
-    8  aoh   aoh
-    8  peŋ   peng
-    8  kou   kou
-    8  nor   nor
-    8  mep   mep
-    8  rep   rep
-    8  net   net
-    8  owa   owa
-    8  eko   eko
-    8  ŋoo   ngoo
-    8  une   une
-    8  wit   wit
+    8  ŋio   ngio
     8  oik   oik
-    7  oih   oih
-    7  eiŋ   eing
-    7  for   whor
-    7  nao   nao
-    7  koe   koe
+    8  kou   kou
+    8  riu   riu
+    8  nor   nor
+    8  wit   wit
+    8  eko   eko
+    8  owa   owa
+    8  rep   rep
+    8  une   une
+    8  tiŋ   ting
+    8  iip   iip
+    8  aoh   aoh
+    8  ŋoo   ngoo
+    8  keo   keo
+    8  net   net
     7  rou   rou
-    7  nep   nep
-    7  kik   kik
-    7  uem   uem
-    7  auf   auwh
-    7  euh   euh
-    7  kip   kip
-    7  oeŋ   oeng
-    7  pip   pip
-    7  oku   oku
-    7  eku   eku
     7  rif   riwh
-    7  pin   pin
-    7  epu   epu
-    7  nim   nim
-    7  mee   mee
     7  mei   mei
+    7  eku   eku
+    7  mee   mee
     7  uer   uer
-    6  wek   wek
-    6  uan   uan
-    6  oum   oum
-    6  aom   aom
-    6  mio   mio
-    6  run   run
-    6  puo   puo
-    6  kof   kowh
-    6  riw   riw
-    6  mop   mop
-    6  nif   niwh
-    6  uui   uui
-    6  epe   epe
-    6  nuh   nuh
+    7  kik   kik
+    7  epu   epu
+    7  kip   kip
+    7  pip   pip
+    7  oih   oih
+    7  auf   auwh
+    7  nep   nep
+    7  nim   nim
+    7  nao   nao
+    7  euh   euh
+    7  pin   pin
+    7  oku   oku
+    7  uem   uem
+    7  oeŋ   oeng
+    7  for   whor
+    7  eiŋ   eing
+    7  koe   koe
+    6  ŋao   ngao
     6  iii   iii
-    6  uaŋ   uang
-    6  aek   aek
+    6  uui   uui
+    6  uan   uan
+    6  puo   puo
+    6  mop   mop
+    6  eie   eie
+    6  oum   oum
+    6  riw   riw
+    6  wek   wek
+    6  epe   epe
     6  ŋor   ngor
     6  fau   whau
-    6  ŋao   ngao
-    6  eho   eho
-    6  eie   eie
     6  fio   whio
-    5  ouh   ouh
-    5  imu   imu
-    5  hiw   hiw
-    5  pam   pam
-    5  uiw   uiw
-    5  oau   oau
-    5  eeŋ   eeng
-    5  aiu   aiu
-    5  ref   rewh
-    5  eip   eip
-    5  ŋee   ngee
-    5  pop   pop
-    5  umi   umi
-    5  uae   uae
-    5  how   how
-    5  waw   waw
-    5  weŋ   weng
-    5  fiu   whiu
-    5  uaw   uaw
-    5  upi   upi
-    5  moŋ   mong
-    5  piw   piw
-    5  ŋun   ngun
-    5  hue   hue
-    5  muk   muk
-    5  oer   oer
-    5  aep   aep
-    5  oin   oin
-    5  kem   kem
-    5  tef   tewh
+    6  nif   niwh
+    6  mio   mio
+    6  eho   eho
+    6  nuh   nuh
+    6  aek   aek
+    6  kof   kowh
+    6  run   run
+    6  aom   aom
+    6  uaŋ   uang
     5  ŋau   ngau
+    5  hue   hue
+    5  weŋ   weng
+    5  kem   kem
+    5  aiu   aiu
+    5  muk   muk
+    5  umi   umi
+    5  upi   upi
+    5  piw   piw
+    5  ouh   ouh
+    5  how   how
+    5  oer   oer
+    5  ŋee   ngee
+    5  moŋ   mong
+    5  ref   rewh
+    5  ŋun   ngun
+    5  uae   uae
+    5  fiu   whiu
+    5  eip   eip
+    5  imu   imu
+    5  uiw   uiw
+    5  oin   oin
+    5  hiw   hiw
+    5  eeŋ   eeng
+    5  oau   oau
+    5  pop   pop
+    5  uaw   uaw
+    5  waw   waw
+    5  pam   pam
+    5  aep   aep
+    5  tef   tewh
+    4  hup   hup
+    4  uea   uea
+    4  non   non
+    4  fea   whea
+    4  mik   mik
+    4  omu   omu
+    4  hie   hie
+    4  ŋif   ngiwh
+    4  iua   iua
+    4  row   row
+    4  aop   aop
+    4  ŋae   ngae
+    4  ŋer   nger
     4  niw   niw
+    4  men   men
+    4  pue   pue
+    4  aof   aowh
+    4  iwe   iwe
+    4  kiu   kiu
+    4  eia   eia
+    4  ean   ean
+    4  oip   oip
+    4  waŋ   wang
+    4  oŋe   onge
+    4  oah   oah
+    4  rup   rup
+    4  nip   nip
+    4  eef   eewh
+    4  nie   nie
+    4  owi   owi
+    4  ŋip   ngip
     4  oai   oai
     4  oao   oao
-    4  men   men
-    4  waŋ   wang
-    4  oah   oah
-    4  eok   eok
-    4  eia   eia
-    4  aof   aowh
-    4  rup   rup
-    4  iua   iua
-    4  pue   pue
-    4  ŋer   nger
     4  ner   ner
-    4  ŋif   ngiwh
-    4  hie   hie
-    4  num   num
-    4  ŋip   ngip
-    4  kiu   kiu
-    4  ean   ean
-    4  ŋae   ngae
-    4  mik   mik
-    4  owi   owi
-    4  oŋe   onge
-    4  nie   nie
-    4  row   row
     4  nin   nin
+    4  eok   eok
+    4  num   num
     4  iuu   iuu
-    4  non   non
-    4  iwe   iwe
-    4  nip   nip
-    4  hup   hup
-    4  aop   aop
-    4  eef   eewh
-    4  oip   oip
-    4  fea   whea
-    4  uea   uea
-    4  omu   omu
-    3  hep   hep
-    3  teu   teu
-    3  eek   eek
-    3  oeh   oeh
-    3  mam   mam
-    3  iai   iai
-    3  roe   roe
-    3  huo   huo
-    3  pum   pum
+    3  oet   oet
     3  hih   hih
+    3  aok   aok
+    3  aeo   aeo
+    3  hep   hep
+    3  fiŋ   whing
     3  rie   rie
-    3  nou   nou
+    3  ŋim   ngim
     3  iue   iue
+    3  iif   iiwh
+    3  kuŋ   kung
+    3  tiu   tiu
+    3  tuw   tuw
+    3  owe   owe
     3  eaŋ   eang
     3  eao   eao
-    3  fiŋ   whing
-    3  eor   eor
-    3  wei   wei
-    3  tuw   tuw
-    3  oet   oet
-    3  aok   aok
+    3  teu   teu
     3  pim   pim
+    3  oeh   oeh
     3  tui   tui
-    3  eoŋ   eong
-    3  aeo   aeo
-    3  uen   uen
-    3  owe   owe
-    3  nik   nik
-    3  nue   nue
-    3  wem   wem
-    3  ŋim   ngim
     3  aou   aou
-    3  iif   iiwh
-    3  tiu   tiu
-    3  kuŋ   kung
-    2  uip   uip
-    2  fot   whot
-    2  eui   eui
-    2  ŋin   ngin
+    3  mam   mam
+    3  uen   uen
+    3  wei   wei
+    3  wem   wem
+    3  eoŋ   eong
+    3  nue   nue
+    3  iai   iai
+    3  nik   nik
+    3  nou   nou
+    3  huo   huo
+    3  roe   roe
+    3  eek   eek
+    3  eor   eor
+    3  pum   pum
     2  uon   uon
-    2  oow   oow
-    2  aŋe   ange
-    2  fao   whao
-    2  kie   kie
-    2  auw   auw
-    2  oim   oim
-    2  nop   nop
-    2  ŋiu   ngiu
-    2  ŋof   ngowh
-    2  fut   whut
-    2  aoo   aoo
-    2  ŋii   ngii
-    2  uok   uok
-    2  tow   tow
-    2  eiu   eiu
-    2  fik   whik
-    2  waf   wawh
-    2  iut   iut
-    2  eik   eik
-    2  ŋiw   ngiw
-    2  foa   whoa
-    2  kuo   kuo
-    2  ufi   uwhi
-    2  eue   eue
-    2  paw   paw
-    2  eei   eei
-    2  oak   oak
-    2  aie   aie
-    2  pom   pom
-    2  uik   uik
-    2  meo   meo
-    2  nea   nea
-    2  noe   noe
-    2  eot   eot
-    2  iop   iop
-    2  uue   uue
     2  ŋuu   nguu
-    2  uoo   uoo
-    2  iom   iom
-    2  wew   wew
-    2  wap   wap
-    2  ruf   ruwh
+    2  ŋin   ngin
+    2  iut   iut
+    2  iop   iop
+    2  fut   whut
+    2  noe   noe
+    2  aŋe   ange
+    2  eui   eui
+    2  ŋof   ngowh
+    2  pom   pom
+    2  paw   paw
+    2  eik   eik
+    2  uip   uip
     2  kuw   kuw
+    2  auw   auw
+    2  aie   aie
+    2  meo   meo
     2  iuk   iuk
+    2  wap   wap
+    2  fao   whao
+    2  aoo   aoo
     2  afo   awho
-    2  ueŋ   ueng
-    2  feu   wheu
+    2  ruf   ruwh
+    2  eot   eot
+    2  oak   oak
+    2  oow   oow
+    2  foa   whoa
+    2  eiu   eiu
+    2  fot   whot
+    2  ufi   uwhi
+    2  fik   whik
+    2  eei   eei
+    2  uoo   uoo
+    2  nop   nop
+    2  waf   wawh
+    2  ŋiu   ngiu
+    2  kuo   kuo
+    2  uok   uok
+    2  oim   oim
+    2  nea   nea
+    2  tow   tow
+    2  iom   iom
+    2  eue   eue
     2  mue   mue
-    1  huw   huw
-    1  tew   tew
-    1  map   map
-    1  kow   kow
-    1  iie   iie
-    1  hew   hew
-    1  hif   hiwh
-    1  oif   oiwh
-    1  euk   euk
-    1  eŋo   engo
-    1  paf   pawh
-    1  wio   wio
-    1  aem   aem
-    1  oaw   oaw
-    1  haf   hawh
-    1  uuo   uuo
-    1  oam   oam
-    1  wia   wia
-    1  aei   aei
-    1  mui   mui
-    1  oŋu   ongu
+    2  ŋiw   ngiw
+    2  kie   kie
+    2  ueŋ   ueng
+    2  ŋii   ngii
+    2  uue   uue
+    2  feu   wheu
+    2  wew   wew
+    2  uik   uik
+    1  iof   iowh
+    1  foŋ   whong
     1  nuŋ   nung
-    1  uio   uio
-    1  wih   wih
+    1  oaa   oaa
+    1  woo   woo
+    1  kew   kew
+    1  aem   aem
+    1  huw   huw
+    1  eak   eak
+    1  feo   wheo
+    1  ifo   iwho
+    1  fof   whowh
+    1  wiŋ   wing
+    1  oif   oiwh
+    1  fii   whii
+    1  oaw   oaw
+    1  wio   wio
     1  iep   iep
-    1  iek   iek
-    1  eŋu   engu
-    1  ueh   ueh
+    1  iie   iie
+    1  iaw   iaw
+    1  fuk   whuk
     1  mip   mip
     1  eah   eah
-    1  ioh   ioh
-    1  wau   wau
-    1  fuk   whuk
-    1  ofo   owho
-    1  eif   eiwh
-    1  iof   iowh
-    1  iuŋ   iung
-    1  iet   iet
-    1  uiu   uiu
-    1  ifo   iwho
-    1  neu   neu
-    1  puw   puw
-    1  pie   pie
-    1  woo   woo
-    1  fem   whem
-    1  oio   oio
-    1  teo   teo
-    1  ŋaf   ngawh
-    1  iow   iow
-    1  peu   peu
-    1  fof   whowh
-    1  piu   piu
-    1  fon   whon
-    1  feo   wheo
-    1  niŋ   ning
-    1  fou   whou
-    1  iui   iui
-    1  muu   muu
-    1  iaw   iaw
+    1  eŋo   engo
     1  heh   heh
-    1  nom   nom
-    1  fii   whii
-    1  eak   eak
-    1  oem   oem
-    1  eim   eim
-    1  ŋui   ngui
-    1  tio   tio
-    1  nuf   nuwh
-    1  oaa   oaa
-    1  nok   nok
-    1  ouf   ouwh
-    1  foŋ   whong
-    1  iok   iok
     1  ioi   ioi
-    1  kew   kew
+    1  aei   aei
+    1  iow   iow
+    1  ouf   ouwh
+    1  hew   hew
     1  rue   rue
-    1  efe   ewhe
-    1  wiŋ   wing
+    1  paf   pawh
+    1  wau   wau
+    1  fon   whon
+    1  fem   whem
+    1  iet   iet
+    1  map   map
+    1  uuo   uuo
+    1  puw   puw
+    1  eim   eim
+    1  ueh   ueh
+    1  nok   nok
+    1  niŋ   ning
+    1  neu   neu
+    1  fou   whou
+    1  ioh   ioh
+    1  iok   iok
+    1  ŋaf   ngawh
+    1  teo   teo
+    1  eŋu   engu
+    1  pie   pie
+    1  nom   nom
+    1  oio   oio
+    1  wih   wih
+    1  uiu   uiu
+    1  nuf   nuwh
+    1  oam   oam
+    1  muu   muu
+    1  uio   uio
+    1  wia   wia
     1  piŋ   ping
+    1  oem   oem
+    1  efe   ewhe
+    1  hif   hiwh
+    1  mui   mui
+    1  haf   hawh
+    1  eif   eiwh
+    1  ŋui   ngui
+    1  euk   euk
+    1  peu   peu
+    1  piu   piu
     1  miŋ   ming
+    1  oŋu   ongu
+    1  kow   kow
+    1  tio   tio
+    1  iek   iek
+    1  iuŋ   iung
+    1  tew   tew
+    1  ofo   owho
+    1  iui   iui
 Total 3-grams: 1061
 
 These 3-grams do not occur in mi-wp-min-500-text-only.txt
-aaa aaa
-aee aee
-aef aewh
-aen aen
-aeu aeu
-afu awhu
-aoe aoe
-aoi aoi
-aow aow
-awo awo
-awu awu
-eaa eaa
-eae eae
-eaf eawh
-eai eai
-eam eam
-eap eap
-eau eau
-eaw eaw
-eea eea
-eee eee
-eeo eeo
-eeu eeu
-eew eew
-efi ewhi
-efo ewho
-efu ewhu
-eii eii
-eio eio
-eiw eiw
-eno eno
-eoa eoa
-eoe eoe
-eof eowh
-eoh eoh
-eom eom
-eoo eoo
-eop eop
-eou eou
-eow eow
-eua eua
-euf euwh
-eum eum
-eun eun
-euo euo
-eup eup
-eut eut
-euu euu
-euw euw
-euŋ eung
-ewo ewo
-ewu ewu
-eŋe enge
-fah whah
-fam wham
-fap whap
-faw whaw
-fee whee
-fef whewh
-feh wheh
-fei whei
-fep whep
-few whew
-feŋ wheng
-fie whie
-fih whih
-fim whim
-fip whip
-fiw whiw
-foe whoe
-foh whoh
-foi whoi
-fok whok
-fom whom
-foo whoo
-fop whop
-fow whow
-fua whua
-fue whue
-fuf whuwh
-fuh whuh
-fui whui
-fum whum
-fun whun
-fuo whuo
-fup whup
-fur whur
-fuu whuu
-fuw whuw
-fuŋ whung
-hef hewh
-hiu hiu
-hof howh
-iae iae
-iaf iawh
-iau iau
-iea iea
-iee iee
-ief iewh
-ieh ieh
-iei iei
-iem iem
-ien ien
-ieo ieo
-ieu ieu
-iew iew
-ieŋ ieng
-ifu iwhu
-iio iio
-iiu iiu
-ioa ioa
-ioe ioe
-ioo ioo
-iou iou
-ioŋ iong
-iuf iuwh
-iuh iuh
-ium ium
-iun iun
-iuo iuo
-iup iup
-iuw iuw
-iwo iwo
-iwu iwu
-iŋe inge
-iŋu ingu
-kef kewh
-kep kep
-keu keu
-kif kiwh
-kue kue
-kuf kuwh
-maf mawh
-mef mewh
-meu meu
-mew mew
-meŋ meng
-mie mie
-mif miwh
-miu miu
-miw miw
-mof mowh
-moi moi
-mow mow
-muf muwh
-muh muh
-mum mum
-mun mun
-muo muo
-muw muw
-muŋ mung
-nae nae
-naf nawh
-nee nee
-nef newh
-nir nir
-nof nowh
-now now
-nuo nuo
-nup nup
-nur nur
-nuw nuw
-oae oae
-oaf oawh
-oap oap
-oee oee
-oef oewh
-oei oei
-oek oek
-oen oen
-oeo oeo
-oep oep
-oeu oeu
-oew oew
-ofu owhu
-oie oie
-oii oii
-oiu oiu
-oiw oiw
-oiŋ oing
-ooe ooe
-ooo ooo
-oue oue
-oui oui
-ouk ouk
-ouo ouo
-oup oup
-ouu ouu
-ouw ouw
-ouŋ oung
-owo owo
-owu owu
-pef pewh
-pem pem
-peo peo
-pew pew
-pif piwh
-pio pio
-poe poe
-pof powh
-pow pow
-poŋ pong
-puf puwh
-reu reu
-ruo ruo
-ruw ruw
-tie tie
-tiw tiw
-tof towh
-tue tue
-tuo tuo
-uee uee
-uef uewh
-uei uei
-uek uek
-ueo ueo
-uep uep
-uet uet
-ueu ueu
-uew uew
-ufo uwho
-ufu uwhu
-uie uie
-uif uiwh
-uim uim
-uno uno
-uoa uoa
-uoe uoe
-uof uowh
-uoh uoh
-uoi uoi
-uom uom
-uop uop
-uot uot
-uou uou
-uow uow
-uoŋ uong
-uuu uuu
-uwi uwi
-uwo uwo
-uwu uwu
-uŋe unge
-uŋo ungo
-wam wam
-wef wewh
-weo weo
-wep wep
-weu weu
-wie wie
-wif wiwh
-wim wim
-wip wip
-wiu wiu
-wiw wiw
-woa woa
-woe woe
-wof wowh
-woh woh
-woi woi
-wok wok
-wom wom
-won won
-wop wop
-wor wor
-wot wot
-wou wou
-wow wow
-woŋ wong
-wua wua
-wue wue
-wuf wuwh
-wuh wuh
-wui wui
-wuk wuk
-wum wum
-wun wun
-wuo wuo
-wup wup
-wur wur
-wut wut
-wuu wuu
-wuw wuw
-wuŋ wung
-ŋea ngea
-ŋef ngewh
-ŋeh ngeh
-ŋei ngei
-ŋek ngek
-ŋem ngem
-ŋen ngen
-ŋeo ngeo
-ŋep ngep
-ŋet nget
-ŋeu ngeu
-ŋew ngew
-ŋeŋ ngeng
-ŋie ngie
-ŋir ngir
-ŋiŋ nging
-ŋoe ngoe
-ŋok ngok
-ŋop ngop
-ŋot ngot
-ŋou ngou
-ŋow ngow
-ŋua ngua
-ŋue ngue
-ŋuf nguwh
-ŋuh nguh
-ŋuk nguk
-ŋum ngum
-ŋuo nguo
-ŋup ngup
-ŋuw nguw
+       aaa   aaa
+       aee   aee
+       aef   aewh
+       aen   aen
+       aeu   aeu
+       afu   awhu
+       aoe   aoe
+       aoi   aoi
+       aow   aow
+       awo   awo
+       awu   awu
+       eaa   eaa
+       eae   eae
+       eaf   eawh
+       eai   eai
+       eam   eam
+       eap   eap
+       eau   eau
+       eaw   eaw
+       eea   eea
+       eee   eee
+       eeo   eeo
+       eeu   eeu
+       eew   eew
+       efi   ewhi
+       efo   ewho
+       efu   ewhu
+       eii   eii
+       eio   eio
+       eiw   eiw
+       eno   eno
+       eoa   eoa
+       eoe   eoe
+       eof   eowh
+       eoh   eoh
+       eom   eom
+       eoo   eoo
+       eop   eop
+       eou   eou
+       eow   eow
+       eua   eua
+       euf   euwh
+       eum   eum
+       eun   eun
+       euo   euo
+       eup   eup
+       eut   eut
+       euu   euu
+       euw   euw
+       euŋ   eung
+       ewo   ewo
+       ewu   ewu
+       eŋe   enge
+       fah   whah
+       fam   wham
+       fap   whap
+       faw   whaw
+       fee   whee
+       fef   whewh
+       feh   wheh
+       fei   whei
+       fep   whep
+       few   whew
+       feŋ   wheng
+       fie   whie
+       fih   whih
+       fim   whim
+       fip   whip
+       fiw   whiw
+       foe   whoe
+       foh   whoh
+       foi   whoi
+       fok   whok
+       fom   whom
+       foo   whoo
+       fop   whop
+       fow   whow
+       fua   whua
+       fue   whue
+       fuf   whuwh
+       fuh   whuh
+       fui   whui
+       fum   whum
+       fun   whun
+       fuo   whuo
+       fup   whup
+       fur   whur
+       fuu   whuu
+       fuw   whuw
+       fuŋ   whung
+       hef   hewh
+       hiu   hiu
+       hof   howh
+       iae   iae
+       iaf   iawh
+       iau   iau
+       iea   iea
+       iee   iee
+       ief   iewh
+       ieh   ieh
+       iei   iei
+       iem   iem
+       ien   ien
+       ieo   ieo
+       ieu   ieu
+       iew   iew
+       ieŋ   ieng
+       ifu   iwhu
+       iio   iio
+       iiu   iiu
+       ioa   ioa
+       ioe   ioe
+       ioo   ioo
+       iou   iou
+       ioŋ   iong
+       iuf   iuwh
+       iuh   iuh
+       ium   ium
+       iun   iun
+       iuo   iuo
+       iup   iup
+       iuw   iuw
+       iwo   iwo
+       iwu   iwu
+       iŋe   inge
+       iŋu   ingu
+       kef   kewh
+       kep   kep
+       keu   keu
+       kif   kiwh
+       kue   kue
+       kuf   kuwh
+       maf   mawh
+       mef   mewh
+       meu   meu
+       mew   mew
+       meŋ   meng
+       mie   mie
+       mif   miwh
+       miu   miu
+       miw   miw
+       mof   mowh
+       moi   moi
+       mow   mow
+       muf   muwh
+       muh   muh
+       mum   mum
+       mun   mun
+       muo   muo
+       muw   muw
+       muŋ   mung
+       nae   nae
+       naf   nawh
+       nee   nee
+       nef   newh
+       nir   nir
+       nof   nowh
+       now   now
+       nuo   nuo
+       nup   nup
+       nur   nur
+       nuw   nuw
+       oae   oae
+       oaf   oawh
+       oap   oap
+       oee   oee
+       oef   oewh
+       oei   oei
+       oek   oek
+       oen   oen
+       oeo   oeo
+       oep   oep
+       oeu   oeu
+       oew   oew
+       ofu   owhu
+       oie   oie
+       oii   oii
+       oiu   oiu
+       oiw   oiw
+       oiŋ   oing
+       ooe   ooe
+       ooo   ooo
+       oue   oue
+       oui   oui
+       ouk   ouk
+       ouo   ouo
+       oup   oup
+       ouu   ouu
+       ouw   ouw
+       ouŋ   oung
+       owo   owo
+       owu   owu
+       pef   pewh
+       pem   pem
+       peo   peo
+       pew   pew
+       pif   piwh
+       pio   pio
+       poe   poe
+       pof   powh
+       pow   pow
+       poŋ   pong
+       puf   puwh
+       reu   reu
+       ruo   ruo
+       ruw   ruw
+       tie   tie
+       tiw   tiw
+       tof   towh
+       tue   tue
+       tuo   tuo
+       uee   uee
+       uef   uewh
+       uei   uei
+       uek   uek
+       ueo   ueo
+       uep   uep
+       uet   uet
+       ueu   ueu
+       uew   uew
+       ufo   uwho
+       ufu   uwhu
+       uie   uie
+       uif   uiwh
+       uim   uim
+       uno   uno
+       uoa   uoa
+       uoe   uoe
+       uof   uowh
+       uoh   uoh
+       uoi   uoi
+       uom   uom
+       uop   uop
+       uot   uot
+       uou   uou
+       uow   uow
+       uoŋ   uong
+       uuu   uuu
+       uwi   uwi
+       uwo   uwo
+       uwu   uwu
+       uŋe   unge
+       uŋo   ungo
+       wam   wam
+       wef   wewh
+       weo   weo
+       wep   wep
+       weu   weu
+       wie   wie
+       wif   wiwh
+       wim   wim
+       wip   wip
+       wiu   wiu
+       wiw   wiw
+       woa   woa
+       woe   woe
+       wof   wowh
+       woh   woh
+       woi   woi
+       wok   wok
+       wom   wom
+       won   won
+       wop   wop
+       wor   wor
+       wot   wot
+       wou   wou
+       wow   wow
+       woŋ   wong
+       wua   wua
+       wue   wue
+       wuf   wuwh
+       wuh   wuh
+       wui   wui
+       wuk   wuk
+       wum   wum
+       wun   wun
+       wuo   wuo
+       wup   wup
+       wur   wur
+       wut   wut
+       wuu   wuu
+       wuw   wuw
+       wuŋ   wung
+       ŋea   ngea
+       ŋef   ngewh
+       ŋeh   ngeh
+       ŋei   ngei
+       ŋek   ngek
+       ŋem   ngem
+       ŋen   ngen
+       ŋeo   ngeo
+       ŋep   ngep
+       ŋet   nget
+       ŋeu   ngeu
+       ŋew   ngew
+       ŋeŋ   ngeng
+       ŋie   ngie
+       ŋir   ngir
+       ŋiŋ   nging
+       ŋoe   ngoe
+       ŋok   ngok
+       ŋop   ngop
+       ŋot   ngot
+       ŋou   ngou
+       ŋow   ngow
+       ŋua   ngua
+       ŋue   ngue
+       ŋuf   nguwh
+       ŋuh   nguh
+       ŋuk   nguk
+       ŋum   ngum
+       ŋuo   nguo
+       ŋup   ngup
+       ŋuw   nguw

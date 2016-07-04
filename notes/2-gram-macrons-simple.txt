@@ -58,11 +58,11 @@
   956  ru   ru
   950  ut   ut
   930  in   in
-  928  mo   mo
   928  pu   pu
+  928  mo   mo
   925  en   en
-  916  ik   ik
   916  wā   wā
+  916  ik   ik
   905  hu   hu
   866  mā   mā
   828  iw   iw
@@ -151,15 +151,15 @@
    75  rō   rō
    72  īŋ   īng
    65  pē   pē
-   63  ūp   ūp
    63  īw   īw
+   63  ūp   ūp
    60  tī   tī
    57  ūm   ūm
    56  ep   ep
    56  iu   iu
    55  ii   ii
-   52  uā   uā
    52  hē   hē
+   52  uā   uā
    50  īh   īh
    48  ŋu   ngu
    44  ōk   ōk
@@ -175,71 +175,129 @@
    30  īr   īr
    28  iā   iā
    28  hī   hī
-   27  ūn   ūn
    27  ūh   ūh
+   27  ūn   ūn
    25  uo   uo
    25  uu   uu
    24  nī   nī
-   23  ōi   ōi
    23  kū   kū
-   22  īa   īa
+   23  ōi   ōi
    22  ie   ie
-   21  ūk   ūk
+   22  īa   īa
    21  ōf   ōwh
+   21  ūk   ūk
    21  aū   aū
    19  hū   hū
-   17  rī   rī
    17  ēh   ēh
+   17  rī   rī
+   16  ūā   ūā
    16  wē   wē
    16  fo   who
-   16  ūā   ūā
-   14  ūŋ   ūng
    14  ow   ow
-   13  īn   īn
+   14  ūŋ   ūng
    13  ēm   ēm
+   13  īn   īn
    13  ōŋ   ōng
-   12  rē   rē
    12  ef   ewh
+   12  rē   rē
    11  īt   īt
-   10  mī   mī
-   10  āe   āe
-   10  ōa   ōa
-   10  ēp   ēp
    10  ōu   ōu
+   10  āe   āe
+   10  ēp   ēp
+   10  ōa   ōa
+   10  mī   mī
+    9  pī   pī
     9  nū   nū
     9  īk   īk
-    9  pī   pī
     9  uw   uw
     8  īp   īp
     8  uī   uī
     7  ūa   ūa
     7  mē   mē
-    6  ŋe   nge
-    6  īi   īi
     6  ŋō   ngō
-    5  ēŋ   ēng
+    6  īi   īi
+    6  ŋe   nge
     5  ŋē   ngē
+    5  ēŋ   ēng
     4  ēf   ēwh
-    4  iū   iū
     4  ūi   ūi
-    3  ee   ee
-    3  ēk   ēk
+    4  iū   iū
     3  fu   whu
+    3  ēk   ēk
+    3  ee   ee
     3  īf   īwh
-    2  uō   uō
-    2  ŋū   ngū
-    2  ūe   ūe
     2  ūī   ūī
-    2  ēi   ēi
-    2  ōw   ōw
+    2  ŋū   ngū
     2  aō   aō
+    2  ōw   ōw
+    2  ēi   ēi
+    2  ūe   ūe
+    2  uō   uō
     1  wo   wo
+    1  mū   mū
+    1  ŋī   ngī
+    1  ūo   ūo
     1  īe   īe
     1  fī   whī
-    1  ūo   ūo
-    1  ŋī   ngī
-    1  mū   mū
 Total 2-grams: 241
 
 These 2-grams do not occur in mi-wp-min-500-text-only.txt
-wu wu
+       aā   aā
+       aē   aē
+       aī   aī
+       eā   eā
+       eē   eē
+       eī   eī
+       eō   eō
+       eū   eū
+       fē   whē
+       fō   whō
+       fū   whū
+       iē   iē
+       iī   iī
+       iō   iō
+       nē   nē
+       oā   oā
+       oē   oē
+       oī   oī
+       oō   oō
+       oū   oū
+       uē   uē
+       uū   uū
+       wu   wu
+       wō   wō
+       wū   wū
+       āa   āa
+       āā   āā
+       āē   āē
+       āī   āī
+       āō   āō
+       āū   āū
+       ēa   ēa
+       ēe   ēe
+       ēo   ēo
+       ēu   ēu
+       ēw   ēw
+       ēā   ēā
+       ēē   ēē
+       ēī   ēī
+       ēō   ēō
+       ēū   ēū
+       īo   īo
+       īu   īu
+       īā   īā
+       īē   īē
+       īī   īī
+       īō   īō
+       īū   īū
+       ōe   ōe
+       ōo   ōo
+       ōā   ōā
+       ōē   ōē
+       ōī   ōī
+       ōō   ōō
+       ōū   ōū
+       ūu   ūu
+       ūē   ūē
+       ūō   ūō
+       ūū   ūū

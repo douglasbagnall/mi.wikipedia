@@ -6,6 +6,17 @@ import argparse
 import unicodedata
 from collections import Counter
 
+DIPHTHONGS = {
+    'ae': 'æ',
+    'ai': 'ȧ',
+    'ao': 'å',
+    'au': 'ä',
+    'oi': 'ȯ',
+    'oe': 'œ',
+    'ou': 'ö'
+}
+
+
 def possible_n_grams(n, state='v'):
     """Estimate the number of possible n-grams, very roughly."""
     # let's assume there are two states, vowel and consonant.
@@ -20,22 +31,25 @@ def possible_n_grams(n, state='v'):
     total += 10 * possible_n_grams(n - 1, 'v')
     return total
 
-def generate_n_grams(n, prefix='', macrons=False):
+def generate_n_grams(n, prefix, diphthongs, macrons):
     """Estimate the number of possible n-grams, very roughly."""
     # let's assume there are two states, vowel and consonant.
     if n <= 0:
         return [prefix]
 
     chars = 'aeiou'
+    if diphthongs:
+        chars += ''.join(DIPHTHONGS.values())
+
     if macrons:
         chars += 'āēīōū'
 
-    if prefix == '' or prefix[-1] in 'aeiouāēīōū':
+    if prefix == '' or prefix[-1] in chars:
         chars += 'fhkmnŋprtw'
 
     ngrams = []
     for c in chars:
-        ngrams.extend(generate_n_grams(n - 1, prefix + c))
+        ngrams.extend(generate_n_grams(n - 1, prefix + c, diphthongs, macrons))
     return ngrams
 
 def remove_english(text):
@@ -49,16 +63,6 @@ def remove_english(text):
             continue
         good_words.append(word)
     return ' '.join(good_words)
-
-DIPHTHONGS = {
-    'ae': 'æ',
-    'ai': 'ȧ',
-    'ao': 'å',
-    'au': 'ä',
-    'oi': 'ȯ',
-    'oe': 'œ',
-    'ou': 'ö'
-}
 
 
 def normalise_text(text, diphthongs, expand_macrons):
@@ -120,13 +124,14 @@ def main():
     print("Total %d-grams: %s" % (args.n_gram_size, len(ngrams)))
     print()
 
-    possible = generate_n_grams(args.n_gram_size)
+    possible = generate_n_grams(args.n_gram_size, '', args.diphthongs,
+                                args.expand_macrons)
 
     common = {k for k, v in ngrams.most_common() if v > 3}
     missing = set(possible) - set(ngrams)
     print ("These %d-grams do not occur in %s" %
            (args.n_gram_size, fn))
     for x in sorted(missing):
-        print(x, denormalise_text(x))
+        print("       %s   %s" % (x, denormalise_text(x)))
 
 main()

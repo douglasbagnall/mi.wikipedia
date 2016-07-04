@@ -116,13 +116,13 @@
    31  eu   eu
    28  uo   uo
    23  ie   ie
+   16  ef   ewh
    16  fo   who
    16  ow   ow
-   16  ef   ewh
    11  ŋe   nge
     3  fu   whu
     1  wo   wo
 Total 2-grams: 124
 
 These 2-grams do not occur in mi-wp-min-500-text-only.txt
-wu wu
+       wu   wu
