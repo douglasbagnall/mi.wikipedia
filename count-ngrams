@@ -2,6 +2,7 @@
 # Copyright Douglas Bagnall <douglas@halo.gen.nz> GPLv3
 import sys
 import re
+import argparse
 import unicodedata
 from collections import Counter
 
@@ -60,14 +61,15 @@ DIPHTHONGS = {
 }
 
 
-def normalise_text(text, diphthongs):
+def normalise_text(text, diphthongs, expand_macrons):
     text = unicodedata.normalize('NFC', text)
     text = text.lower()
     text = re.sub(r'[^\wāēōūī]+', ' ', text)
     text = re.sub(r'ng', 'ŋ', text)
     text = re.sub(r'wh', 'f', text)
     text = remove_english(text)
-    text = demacronise(text)
+    if expand_macrons:
+        text = demacronise(text)
     if diphthongs:
         for k, v in DIPHTHONGS.items():
             text = re.sub(k, v, text)
@@ -88,38 +90,47 @@ def demacronise(text):
                                   .replace('ō', 'oo').replace('ū', 'uu')
 
 
-def count_ngrams(text, n, diphthongs=False):
-    text = normalise_text(text, diphthongs)
+def count_ngrams(text, n):
     texts = [text[i:] for i in range(n)]
     ngrams = Counter(''.join(x) for x in zip(*texts) if ' ' not in x)
     return ngrams
 
 
 def main():
-    fn = sys.argv[1]
+    parser = argparse.ArgumentParser()
+    parser.add_argument('textfile', help="read text from this file")
+    parser.add_argument('-d', '--diphthongs', action='store_true',
+                        help="count diphthongs as single units")
+    parser.add_argument('-m', '--expand-macrons', action='store_true',
+                        help="convert macronised vowels into double vowels")
+    parser.add_argument('-n', '--n-gram-size', type=int, default=2,
+                        help="use n-grams of this size (default 2)")
+    args = parser.parse_args()
+
+    fn = args.textfile
     f = open(fn)
-    s = f.read()
+    raw = f.read()
     f.close()
-    ngrams = count_ngrams(s, 2, True)
-    for bigram, n in ngrams.most_common(1000):
+
+    text = normalise_text(raw, args.diphthongs, args.expand_macrons)
+
+    ngrams = count_ngrams(text, args.n_gram_size)
+    for bigram, n in ngrams.most_common():
         print("%5d  %s   %s" % (n, bigram, denormalise_text(bigram)))
-    print("Total diphthong-aware bigrams: %s" % len(ngrams))
+    print("Total %d-grams: %s" % (args.n_gram_size, len(ngrams)))
     print()
 
-    ngrams = count_ngrams(s, 2, False)
-    for bigram, n in ngrams.most_common(1000):
-        print("%5d  %s   %s" % (n, bigram, denormalise_text(bigram)))
-    print("Total simple bigrams: %s" % len(ngrams))
-
-    possible = generate_n_grams(2)
+    possible = generate_n_grams(args.n_gram_size)
 
     common = {k for k, v in ngrams.most_common() if v > 3}
     rare = set(possible) - common
     missing = rare - set(ngrams)
-    print ("These bigrams occur less than 3 times in %s" % fn)
+    print ("These %d-grams occur less than 3 times in %s" %
+           (args.n_gram_size, fn))
     for x in sorted(rare):
         print(x, denormalise_text(x))
-    print ("These bigrams do not occur in %s" % fn)
+    print ("These %d-grams do not occur in %s" %
+           (args.n_gram_size, fn))
     for x in sorted(missing):
         print(x, denormalise_text(x))
 
