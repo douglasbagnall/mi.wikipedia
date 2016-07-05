@@ -125,7 +125,7 @@ def main():
     print()
 
     possible = generate_n_grams(args.n_gram_size, '', args.diphthongs,
-                                args.expand_macrons)
+                                not args.expand_macrons)
 
     common = {k for k, v in ngrams.most_common() if v > 3}
     missing = set(possible) - set(ngrams)
