@@ -1,0 +1,140 @@
+#!/usr/bin/python
+
+import sys
+import os
+from alphabet import normalise_text
+import argparse
+from lxml import etree as ET
+
+
+DEST_DIR = os.path.join(os.path.dirname(__file__), 'books/all')
+XMLNS = '{http://www.w3.org/XML/1998/namespace}'
+TEINS = '{http://www.tei-c.org/ns/1.0}'
+
+
+def ns(s):
+    return s.format(xml=XMLNS, tei=TEINS)
+
+
+def get_metadata(tree, path):
+    el = tree.find(ns(path))
+    if el is None:
+        return "<unknown>"
+    return normalise_text(ET.tostring(el, method='text', encoding='utf8'),
+                          collapse_whitespace=1, real_caps=True,
+                          real_numbers=True)
+
+
+def clean_tree(tree):
+    """Remove things that don't make good text"""
+    for tag in ('table', 'note', 'figure'):
+        for el in tree.findall(ns('.//{tei}p//{tei}%s' % tag)):
+            del el[:]
+
+    find_choice = ET.ETXPath(ns("//{tei}choice"))
+    for c in find_choice(tree):
+        # pick one choice. the last (second) one is usually the
+        # <reg> one with hyphens removed.
+        del c[:-1]
+
+
+def extract_body_parts(bodyxml):
+    """Get the cleaned up text from an xml element"""
+    doc = []
+    find_text = ET.ETXPath(ns(".//{tei}p"
+                              "|.//{tei}head[@rend='run-in']"
+                              ))
+    prefix = ''
+    for p in find_text(bodyxml):
+        para = ET.tostring(p, method='text', encoding='utf8').strip()
+        if p.get('rend') == 'run-in':
+            prefix += para.strip() + ' '
+        else:
+            doc.append(normalise_text(prefix + para, collapse_whitespace=1,
+                                      real_caps=True))
+            prefix = ''
+
+    return normalise_text('\n\n'.join(doc), collapse_whitespace=2)
+
+
+def get_header_and_id(tree, suffix=''):
+    """get a header and id from an XML tree"""
+    title = get_metadata(tree, ".//{tei}name[@type='work']")
+    date = get_metadata(tree, './/{tei}sourceDesc//{tei}date[@when]')
+    author = get_metadata(tree, './/{tei}sourceDesc//{tei}author')
+
+    id = tree.getroot().attrib.get(ns('{xml}id')) + '-' + suffix
+
+    header = "title: %s (%s)\nauthor: %s\nid: %s\ndate: %s\n" % (title, suffix,
+                                                                 author,
+                                                                 id, date)
+
+    return header, id
+
+
+def extract_leaf_sections(fn):
+    """Write the text of all <div type='section'> elements that don't
+    contain other <div type='section'> elements."""
+    tree = ET.parse(fn)
+    clean_tree(tree)
+    find_sections = ET.ETXPath(ns("//{tei}text//{tei}div[@type='section']"))
+
+    for x in find_sections(tree):
+        if x.find(ns("{tei}div[@type='section']")):
+            print >> sys.stderr, "not a leaf"
+            continue
+        suffix = x.get('{http://www.w3.org/XML/1998/namespace}id')
+        body = extract_body_parts(x)
+        if body.strip() == '':
+            continue
+        header, id = get_header_and_id(tree, suffix)
+
+        destfn = os.path.join(DEST_DIR, id)
+        f = open(destfn, 'w')
+        print >> f, header
+        print >> f, body
+        f.close()
+
+
+def extract_body_and_header(fn):
+    tree = ET.parse(fn)
+    clean_tree(tree)
+    body_xml = tree.find(ns('//{tei}text'))
+    body = extract_body_parts(body_xml)
+    header, id = get_header_and_id(tree)
+    print >> sys.stderr, header
+
+    return header, body, id
+
+
+def write_clean_version(srcfn, destfn=None):
+    header, body, id = extract_body_and_header(srcfn)
+    if destfn is None:
+        destfn = os.path.join(DEST_DIR, id)
+    f = open(destfn, 'w')
+    print >> f, header
+    print >> f, body
+    f.close()
+
+
+def main():
+    global DEST_DIR
+    parser = argparse.ArgumentParser()
+    parser.add_argument('books', nargs='+',
+                        help="convert these xml files")
+    parser.add_argument('-S', '--by-leaf-section', action='store_true',
+                        help="convert each leaf section as separate file")
+    parser.add_argument('-d', '--dest-dir',
+                        help="write here instead of " + DEST_DIR)
+    args = parser.parse_args()
+    if args.dest_dir is not None:
+        DEST_DIR = args.dest_dir
+
+    if args.by_leaf_section:
+        for book in args.books:
+            extract_leaf_sections(book)
+    else:
+        for book in args.books:
+            write_clean_version(book)
+
+main()
