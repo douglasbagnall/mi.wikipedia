@@ -1,16 +1,27 @@
-# A corpus of Māori text from Wikpedia
+# A corpus of Māori text from Wikpedia and elsewhere
 
-This corpus is derived from http://mi.wikpedia.org which is the Māori
-wikipedia and is a readily available source of modern written Māori by
-many authors on many topics. The language and information is probably
-of variable quality.
+This is a small corpus derived from openly avaiable sources such as
+the [Māori wikipedia](https://mi.wikipedia.org),
+[Nga kōrero a Reweti Kohere Mā](
+http://nzetc.victoria.ac.nz//tm/scholarly/tei-TeoNgak.html), and
+[Te Ngutu Kura](http://www.taiuru.maori.nz/tnk/) spelling dictionary.
 
-The text is by various authors, as listed at http://mi.wikpedia.org,
-and is [CC-BY-SA licensed](https://creativecommons.org/licenses/by-sa/3.0/).
-
+All of the corpus is available under CC-BY-SA or compatible licenses.
 The associated bits of software are GPLv3 licensed.
 
 ## Steps to reproduce
+
+The next few paragraphs attempt to document how the corpus was
+compiled.
+
+### Wikipedia
+
+http://mi.wikipedia.org is a readily available source of modern
+written Māori by many authors on many topics. The language and
+information is probably of variable quality. The text is by many
+authors listed at the wikipedia itself, and is
+[CC-BY-SA licensed](https://creativecommons.org/licenses/by-sa/3.0/).
+
 
 1. Get a wikipedia dump file:
 
@@ -49,7 +60,7 @@ Remove the `<doc>` tags:
     grep -vP '</?doc.*>' mi-wp-min-500.txt > mi-wp-min-500-text-only.txt
 
 
-##  Nga kōrero a Reweti Kohere Mā
+###  Nga kōrero a Reweti Kohere Mā
 
 This one is quite simple, though it contains a number of English phrases.
 
@@ -58,7 +69,7 @@ wget http://nzetc.victoria.ac.nz//tm/scholarly/tei-TeoNgak.html
 ./extract-nzetc-text TeoNgak.xml > nga-kōrero-a-reweti-kohere-mā.txt
 ```
 
-## Te Ngutu Kura spelling dictionary
+### Te Ngutu Kura spelling dictionary
 
 This is a dictionary compiled by
 [Karaitiana Taiuru](http://www.taiuru.maori.nz/) and made available
