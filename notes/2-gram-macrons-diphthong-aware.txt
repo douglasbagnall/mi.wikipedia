@@ -1,394 +1,422 @@
-10498  te   te
- 5087  ki   ki
- 5029  ta   ta
- 4297  ŋa   nga
- 4168  ka   ka
- 3994  ra   ra
- 3710  ak   ak
- 3692  at   at
- 3664  ko   ko
- 3182  hi   hi
- 2922  aŋ   ang
- 2912  ah   ah
- 2899  na   na
- 2765  he   he
- 2731  ar   ar
- 2664  re   re
- 2629  ŋā   ngā
- 2420  ma   ma
- 2406  an   an
- 2338  ua   ua
- 2215  ri   ri
- 2211  tu   tu
- 2175  nu   nu
- 2062  to   to
- 2038  ia   ia
- 2015  ro   ro
- 1995  ne   ne
- 1911  ti   ti
- 1883  fa   wha
- 1881  ei   ei
- 1624  tä   tau
- 1605  ha   ha
- 1571  ke   ke
- 1546  oa   oa
- 1541  it   it
- 1450  or   or
- 1402  ui   ui
- 1251  er   er
- 1249  oh   oh
- 1236  rā   rā
- 1228  ur   ur
- 1221  me   me
- 1203  no   no
- 1171  ho   ho
- 1167  pa   pa
- 1146  ap   ap
- 1102  wa   wa
- 1098  tā   tā
- 1062  ku   ku
- 1042  ŋi   ngi
- 1039  on   on
-  986  ir   ir
-  973  ok   ok
-  956  ru   ru
-  928  pu   pu
-  925  en   en
-  916  wā   wā
-  905  hu   hu
-  883  ea   ea
-  866  mā   mā
-  828  ot   ot
-  821  ān   ān
-  812  iw   iw
-  805  am   am
-  800  āt   āt
-  789  ik   ik
-  789  āh   āh
-  755  nō   nō
-  749  mo   mo
-  745  in   in
-  739  fe   whe
-  735  tū   tū
-  713  iŋ   ing
-  711  āo   āo
-  695  wȧ   wai
-  688  tē   tē
-  684  aw   aw
-  655  ēt   ēt
-  627  oŋ   ong
-  621  kä   kau
-  617  kā   kā
-  595  ek   ek
-  587  mȧ   mai
-  587  tæ   tae
-  545  tȧ   tai
-  521  pā   pā
-  516  eh   eh
-  510  po   po
-  496  ŋo   ngo
-  483  ut   ut
-  480  wi   wi
-  462  et   et
-  461  mō   mō
-  457  rä   rau
-  450  eo   eo
-  448  mu   mu
-  435  ih   ih
-  433  om   om
-  412  fi   whi
-  380  kȧ   kai
-  379  äp   aup
-  371  ni   ni
-  368  eŋ   eng
-  367  ōn   ōn
-  358  kō   kō
-  356  pi   pi
-  355  āk   āk
-  353  mi   mi
-  347  ār   ār
-  345  uk   uk
-  342  nā   nā
-  325  ēn   ēn
-  322  tō   tō
-  316  uŋ   ung
-  315  hä   hau
-  314  pū   pū
-  303  hā   hā
-  301  ȧt   ait
-  299  ät   aut
-  289  ōh   ōh
-  288  är   aur
-  287  fā   whā
-  286  äa   aua
-  283  pe   pe
-  282  un   un
-  279  tö   tou
-  268  āu   āu
-  264  uh   uh
-  260  ōr   ōr
-  254  ȧr   air
-  254  kī   kī
-  250  åt   aot
-  238  mä   mau
-  236  ær   aer
-  235  ām   ām
-  231  hæ   hae
-  225  āw   āw
-  220  ȯa   oia
-  219  op   op
-  216  em   em
-  215  āf   āwh
-  215  aa   aa
-  214  äŋ   aung
-  201  pō   pō
-  201  ōt   ōt
-  196  up   up
-  193  we   we
-  180  ȧn   ain
-  179  æa   aea
-  174  af   awh
-  174  āi   āi
-  170  ēr   ēr
-  168  öt   out
-  160  äm   aum
-  159  ūr   ūr
-  153  io   io
-  150  pö   pou
-  147  āŋ   āng
-  139  fȧ   whai
-  136  kȯ   koi
-  133  pæ   pae
-  132  mö   mou
-  129  ip   ip
-  125  wī   wī
-  120  ȧh   aih
-  119  ȧk   aik
-  119  tȯ   toi
-  116  im   im
-  116  pȧ   pai
-  114  kē   kē
-  113  āp   āp
-  111  hȯ   hoi
-  111  ȯt   oit
-  109  ȧa   aia
-  107  nä   nau
-  103  hȧ   hai
-  103  ræ   rae
-  102  år   aor
-   95  ōp   ōp
-   90  of   owh
-   86  ön   oun
-   84  äi   aui
-   84  hō   hō
-   83  rȧ   rai
-   82  ūt   ūt
-   79  wæ   wae
-   77  um   um
-   75  rō   rō
-   75  hö   hou
-   75  ȧp   aip
-   72  īŋ   īng
-   65  pē   pē
-   64  ew   ew
-   63  æŋ   aeng
-   63  īw   īw
-   63  ūp   ūp
-   60  tī   tī
-   57  ūm   ūm
-   55  iu   iu
-   54  ŋȧ   ngai
-   54  ȧf   aiwh
-   53  ȧm   aim
-   53  än   aun
-   52  hē   hē
-   51  ep   ep
-   50  īh   īh
-   48  if   iwh
-   48  ŋu   ngu
-   47  mœ   moe
-   47  äk   auk
-   44  ōk   ōk
-   43  rū   rū
-   42  äā   auā
-   38  ūf   ūwh
-   38  ȧŋ   aing
-   37  tå   tao
-   36  ōm   ōm
-   35  oo   oo
-   33  ȧå   aiao
-   33  uf   uwh
-   32  äh   auh
-   32  īm   īm
-   32  ii   ii
-   31  eu   eu
-   31  eȯ   eoi
-   30  īr   īr
-   30  ūw   ūw
-   30  ör   our
-   29  kå   kao
-   29  åa   aoa
-   28  hī   hī
-   28  rȯ   roi
-   28  må   mao
-   27  åŋ   aong
-   27  ūn   ūn
-   27  ūh   ūh
-   25  på   pao
-   25  æt   aet
-   25  ue   ue
-   24  uu   uu
+20449  te   te
+10940  ki   ki
+10641  ta   ta
+10220  ŋa   nga
+10000  ka   ka
+ 7777  at   at
+ 7432  ak   ak
+ 7410  ra   ra
+ 7107  ko   ko
+ 6769  na   na
+ 6472  ar   ar
+ 6449  re   re
+ 6150  hi   hi
+ 5850  he   he
+ 5790  ah   ah
+ 5318  aŋ   ang
+ 5282  an   an
+ 5161  ma   ma
+ 4992  ti   ti
+ 4823  ri   ri
+ 4694  ua   ua
+ 4628  tu   tu
+ 4581  ei   ei
+ 4580  ro   ro
+ 4554  ia   ia
+ 4254  to   to
+ 4138  ne   ne
+ 3989  fa   wha
+ 3685  nu   nu
+ 3433  ke   ke
+ 3116  oa   oa
+ 3097  rā   rā
+ 3084  ŋā   ngā
+ 3034  ha   ha
+ 3005  ho   ho
+ 2912  it   it
+ 2840  or   or
+ 2761  er   er
+ 2650  ku   ku
+ 2636  no   no
+ 2619  tä   tau
+ 2428  pu   pu
+ 2385  me   me
+ 2262  ir   ir
+ 2222  hu   hu
+ 2211  oh   oh
+ 2209  ui   ui
+ 2205  āt   āt
+ 2205  ur   ur
+ 2167  pa   pa
+ 2155  ru   ru
+ 2121  ok   ok
+ 2074  in   in
+ 2071  wa   wa
+ 1988  ap   ap
+ 1928  on   on
+ 1918  am   am
+ 1879  tā   tā
+ 1848  ot   ot
+ 1793  ŋi   ngi
+ 1761  ea   ea
+ 1749  tē   tē
+ 1729  ik   ik
+ 1692  mo   mo
+ 1654  mā   mā
+ 1440  āh   āh
+ 1439  wā   wā
+ 1424  en   en
+ 1422  mȧ   mai
+ 1393  iŋ   ing
+ 1386  wȧ   wai
+ 1386  ān   ān
+ 1291  nō   nō
+ 1286  tū   tū
+ 1258  iw   iw
+ 1258  aw   aw
+ 1240  kā   kā
+ 1190  ēn   ēn
+ 1184  pā   pā
+ 1167  ut   ut
+ 1149  eh   eh
+ 1144  ēt   ēt
+ 1133  ih   ih
+ 1120  po   po
+ 1083  fe   whe
+ 1080  kä   kau
+ 1068  kō   kō
+ 1057  āk   āk
+ 1031  ŋo   ngo
+ 1010  ek   ek
+  995  wi   wi
+  982  uk   uk
+  981  et   et
+  971  ni   ni
+  969  kȧ   kai
+  966  tö   tou
+  909  oŋ   ong
+  909  mu   mu
+  904  ōn   ōn
+  862  ōr   ōr
+  852  år   aor
+  848  tæ   tae
+  805  ār   ār
+  797  tȧ   tai
+  794  pi   pi
+  790  pe   pe
+  783  rä   rau
+  781  fi   whi
+  764  uŋ   ung
+  756  hā   hā
+  755  tō   tō
+  740  āo   āo
+  714  eŋ   eng
+  698  hæ   hae
+  696  uh   uh
+  683  up   up
+  680  ær   aer
+  668  nā   nā
+  666  mi   mi
+  657  mō   mō
+  652  hä   hau
+  641  om   om
+  638  āu   āu
+  623  we   we
+  621  aa   aa
+  620  fā   whā
+  612  eo   eo
+  599  ȧt   ait
+  579  un   un
+  579  äa   aua
+  576  är   aur
+  536  ōh   ōh
+  518  må   mao
+  508  op   op
+  491  pū   pū
+  483  mä   mau
+  459  äp   aup
+  454  em   em
+  446  af   awh
+  437  pō   pō
+  423  ȧr   air
+  417  ät   aut
+  415  ēr   ēr
+  397  āŋ   āng
+  386  io   io
+  382  pȧ   pai
+  376  āw   āw
+  375  āi   āi
+  350  kī   kī
+  342  fȧ   whai
+  331  ip   ip
+  324  äŋ   aung
+  319  ām   ām
+  315  äm   aum
+  312  ii   ii
+  310  ȯa   oia
+  310  ūr   ūr
+  306  āf   āwh
+  301  ȧa   aia
+  301  kå   kao
+  299  åt   aot
+  289  ew   ew
+  287  āp   āp
+  287  ȧp   aip
+  283  ȧn   ain
+  283  ȧh   aih
+  280  öt   out
+  273  pī   pī
+  271  ōt   ōt
+  256  æa   aea
+  246  nä   nau
+  240  im   im
+  239  kē   kē
+  238  pö   pou
+  219  hē   hē
+  218  rö   rou
+  215  kȯ   koi
+  214  ep   ep
+  214  wæ   wae
+  210  pæ   pae
+  209  ȧk   aik
+  209  pē   pē
+  192  ræ   rae
+  190  tī   tī
+  186  hȯ   hoi
+  184  of   owh
+  183  mö   mou
+  173  ōk   ōk
+  172  rȧ   rai
+  172  īp   īp
+  167  um   um
+  162  kœ   koe
+  162  hȧ   hai
+  161  hō   hō
+  158  ūp   ūp
+  157  mœ   moe
+  152  ōp   ōp
+  152  ūt   ūt
+  152  if   iwh
+  151  æŋ   aeng
+  146  iu   iu
+  143  hö   hou
+  141  tȯ   toi
+  140  äk   auk
+  137  ŋȧ   ngai
+  134  wī   wī
+  130  tå   tao
+  124  ue   ue
+  122  kö   kou
+  120  rō   rō
+  118  ȯt   oit
+  111  īf   īwh
+  111  ör   our
+  110  īh   īh
+  110  ön   oun
+  106  ȧm   aim
+  104  ȧŋ   aing
+  103  īŋ   īng
+  102  hī   hī
+  101  uf   uwh
+   96  oo   oo
+   95  ūm   ūm
+   93  äi   aui
+   90  ŋu   ngu
+   84  ōm   ōm
+   82  äh   auh
+   80  än   aun
+   77  eȯ   eoi
+   76  rū   rū
+   75  ȧf   aiwh
+   74  ēh   ēh
+   74  åŋ   aong
+   71  īw   īw
+   70  hœ   hoe
+   68  īm   īm
+   66  äā   auā
+   62  mæ   mae
+   58  ūh   ūh
+   58  aæ   aae
+   58  ȯh   oih
+   58  æw   aew
+   57  īr   īr
+   55  kū   kū
+   53  eu   eu
+   53  ūf   ūwh
+   52  hū   hū
+   52  pä   pau
+   51  ie   ie
+   50  rȯ   roi
+   50  ōf   ōwh
+   48  æt   aet
+   48  rī   rī
+   47  ōu   ōu
+   46  īn   īn
+   45  mī   mī
+   44  ūw   ūw
+   43  pȯ   poi
+   42  ūŋ   ūng
+   42  ūk   ūk
+   42  uȧ   uai
+   41  på   pao
+   40  ōi   ōi
+   39  äe   aue
+   39  äf   auwh
+   39  ow   ow
+   38  ȧi   aii
+   38  ēŋ   ēng
+   38  rå   rao
+   37  nȯ   noi
+   37  īt   īt
+   37  öa   oua
+   37  hå   hao
+   36  ån   aon
+   34  ŋȯ   ngoi
+   34  ȧå   aiao
+   34  ȧo   aio
+   33  ūn   ūn
+   33  nȧ   nai
+   32  nū   nū
+   32  fo   who
+   32  ȧw   aiw
+   32  åa   aoa
+   31  œŋ   oeng
+   30  aū   aū
+   30  uä   uau
+   29  fä   whau
+   29  ūā   ūā
+   29  ŋe   nge
+   28  uu   uu
+   27  kæ   kae
+   27  æh   aeh
+   27  īa   īa
+   26  fæ   whae
+   26  œa   oea
+   25  rē   rē
+   25  ēk   ēk
+   24  ŋä   ngau
+   24  åp   aop
+   24  öm   oum
+   24  ȯk   oik
    24  nī   nī
-   23  ōi   ōi
-   23  ȧi   aii
-   23  kū   kū
-   22  īa   īa
-   22  rå   rao
-   21  nȧ   nai
-   21  ōf   ōwh
-   21  aū   aū
-   21  ūk   ūk
-   21  aæ   aae
-   20  ie   ie
-   19  pä   pau
-   19  pȯ   poi
-   19  hū   hū
-   17  rī   rī
-   17  ŋȯ   ngoi
-   17  iā   iā
-   17  ēh   ēh
-   17  öa   oua
-   16  ȧw   aiw
-   16  wē   wē
+   23  ök   ouk
+   23  œm   oem
+   23  uā   uā
+   23  wē   wē
+   22  ef   ewh
+   22  ēp   ēp
+   20  tœ   toe
+   20  īk   īk
+   18  oā   oā
+   18  ȯr   oir
+   18  iā   iā
+   17  æk   aek
+   17  äw   auw
    16  äo   auo
-   16  ūā   ūā
-   16  nȯ   noi
-   16  œa   oea
-   16  hœ   hoe
-   15  hå   hao
-   15  ån   aon
-   15  fo   who
-   14  ūŋ   ūng
-   14  æw   aew
-   14  ää   auau
-   14  ow   ow
-   13  ēm   ēm
-   13  mæ   mae
-   13  īn   īn
-   13  ōŋ   ōng
-   13  äe   aue
-   12  rē   rē
-   12  wå   wao
-   12  ȯr   oir
-   12  ef   ewh
-   12  fæ   whae
-   11  æh   aeh
+   16  uw   uw
+   16  ää   auau
+   15  ee   ee
+   14  iå   iao
+   14  ēm   ēm
+   14  åh   aoh
+   14  ōŋ   ōng
+   14  ūa   ūa
+   14  ŋå   ngao
+   14  uo   uo
+   14  åm   aom
+   14  wå   wao
+   13  uå   uao
+   13  ȯn   oin
+   13  åk   aok
+   13  ŋō   ngō
+   12  ēf   ēwh
+   12  āe   āe
+   12  få   whao
+   12  mȯ   moi
+   12  nœ   noe
    11  ȧā   aiā
-   11  ȧo   aio
-   11  uä   uau
-   11  kæ   kae
-   11  īt   īt
-   10  ēp   ēp
-   10  āe   āe
-   10  mī   mī
-   10  uā   uā
-   10  ōu   ōu
-    9  uȧ   uai
-    9  pī   pī
-    9  uo   uo
-    9  nū   nū
-    9  īk   īk
-    8  uå   uao
-    8  tœ   toe
-    8  kö   kou
-    8  īp   īp
-    8  ȯk   oik
-    7  mē   mē
+   10  oȧ   oai
+   10  œā   oeā
+   10  æp   aep
+    8  åf   aowh
+    8  nå   nao
+    8  mē   mē
+    8  ōa   ōa
+    7  ȯm   oim
+    7  ōä   ōau
+    7  œh   oeh
+    7  ȧū   aiū
+    7  œr   oer
+    7  ȧȧ   aiai
+    7  īi   īi
     7  uī   uī
-    7  äf   auwh
-    7  uw   uw
-    7  œŋ   oeng
-    7  nå   nao
-    7  ȯh   oih
-    7  ūa   ūa
-    7  kœ   koe
-    7  rö   rou
-    6  iå   iao
-    6  åh   aoh
-    6  æk   aek
-    6  ŋå   ngao
-    6  öm   oum
-    6  īi   īi
-    6  fä   whau
-    6  ŋō   ngō
-    6  ŋe   nge
-    6  åm   aom
+    6  öh   ouh
+    6  ȯp   oip
+    6  æn   aen
+    6  eā   eā
+    6  oå   oao
+    6  ūi   ūi
+    5  næ   nae
+    5  ȧä   aiau
     5  ŋē   ngē
-    5  ōa   ōa
-    5  ȯn   oin
-    5  öh   ouh
-    5  ōä   ōau
-    5  æp   aep
-    5  ēŋ   ēng
-    5  œr   oer
-    5  ŋä   ngau
-    4  ūi   ūi
-    4  äæ   auae
-    4  oå   oao
-    4  åf   aowh
-    4  ŋæ   ngae
-    4  åp   aop
-    4  ȯp   oip
-    4  ȧū   aiū
-    4  oȧ   oai
-    4  ēf   ēwh
-    3  ēk   ēk
-    3  fu   whu
-    3  œt   oet
-    3  åk   aok
-    3  nö   nou
-    3  rœ   roe
-    3  īf   īwh
-    3  eå   eao
-    3  œh   oeh
+    5  rœ   roe
+    5  œk   oek
+    5  äī   auī
+    5  ȯw   oiw
+    5  eå   eao
+    5  iȯ   ioi
+    5  ŋæ   ngae
+    5  öp   oup
+    5  äæ   auae
+    4  ȧu   aiu
+    4  ȯŋ   oing
+    4  œt   oet
+    4  ēi   ēi
+    4  æf   aewh
+    4  ōw   ōw
+    4  fu   whu
+    4  wo   wo
+    4  nö   nou
+    3  uæ   uae
+    3  fē   whē
     3  åu   aou
-    3  ee   ee
-    2  äw   auw
-    2  få   whao
-    2  iȧ   iai
-    2  ȯm   oim
-    2  ūī   ūī
-    2  aō   aō
-    2  ȧe   aie
+    3  ēw   ēw
+    3  æm   aem
+    3  mū   mū
+    3  äē   auē
+    3  iȧ   iai
+    3  æä   aeau
+    3  ŋū   ngū
     2  ūe   ūe
-    2  ēi   ēi
-    2  ōw   ōw
+    2  fī   whī
     2  uō   uō
-    2  ŋū   ngū
-    2  nœ   noe
-    1  uæ   uae
-    1  ȧȧ   aiai
-    1  mū   mū
-    1  öf   ouwh
-    1  æi   aei
-    1  īe   īe
+    2  oä   oau
+    2  ȧe   aie
+    2  wä   wau
+    2  nē   nē
+    2  īu   īu
+    2  aō   aō
+    2  ȯo   oio
+    2  ūī   ūī
     1  äu   auu
-    1  ūo   ūo
-    1  ȯf   oiwh
-    1  äī   auī
-    1  iȯ   ioi
-    1  ŋī   ngī
-    1  œm   oem
     1  fö   whou
-    1  wo   wo
-    1  ȧu   aiu
-    1  fī   whī
-    1  æm   aem
-    1  wä   wau
-    1  ȯo   oio
-Total 2-grams: 388
+    1  īe   īe
+    1  ŋī   ngī
+    1  æi   aei
+    1  ūo   ūo
+    1  œä   oeau
+    1  ūå   ūao
+    1  ōā   ōā
+    1  öf   ouwh
+    1  iū   iū
+    1  ȯf   oiwh
+    1  ȯe   oie
+    1  pœ   poe
+    1  åw   aow
+    1  öŋ   oung
+Total 2-grams: 416
 
-These 2-grams do not occur in mi-wp-min-500-text-only.txt
+These 2-grams do not occur in mi-wp-min-500-text-only.txt or nga-kōrero-a-reweti-kohere-mā.txt
        ae   ae
        ai   ai
        ao   ao
@@ -405,14 +433,12 @@ These 2-grams do not occur in mi-wp-min-500-text-only.txt
        eä   eau
        eæ   eae
        eö   eou
-       eā   eā
        eē   eē
        eī   eī
        eō   eō
        eœ   eoe
        eū   eū
        eȧ   eai
-       fē   whē
        fō   whō
        fœ   whoe
        fū   whū
@@ -424,24 +450,17 @@ These 2-grams do not occur in mi-wp-min-500-text-only.txt
        iī   iī
        iō   iō
        iœ   ioe
-       iū   iū
-       mȯ   moi
-       næ   nae
-       nē   nē
        oe   oe
        oi   oi
        ou   ou
-       oä   oau
        oæ   oae
        oö   oou
-       oā   oā
        oē   oē
        oī   oī
        oō   oō
        oœ   ooe
        oū   oū
        oȯ   ooi
-       pœ   poe
        uö   uou
        uē   uē
        uœ   uoe
@@ -455,7 +474,6 @@ These 2-grams do not occur in mi-wp-min-500-text-only.txt
        wȯ   woi
        äå   auao
        äö   auou
-       äē   auē
        äō   auō
        äœ   auoe
        äū   auū
@@ -464,7 +482,6 @@ These 2-grams do not occur in mi-wp-min-500-text-only.txt
        åe   aoe
        åi   aoi
        åo   aoo
-       åw   aow
        åä   aoau
        åå   aoao
        åæ   aoae
@@ -478,11 +495,8 @@ These 2-grams do not occur in mi-wp-min-500-text-only.txt
        åȧ   aoai
        åȯ   aooi
        æe   aee
-       æf   aewh
-       æn   aen
        æo   aeo
        æu   aeu
-       æä   aeau
        æå   aeao
        ææ   aeae
        æö   aeou
@@ -496,9 +510,7 @@ These 2-grams do not occur in mi-wp-min-500-text-only.txt
        æȯ   aeoi
        öe   oue
        öi   oui
-       ök   ouk
        öo   ouo
-       öp   oup
        öu   ouu
        öw   ouw
        öä   ouau
@@ -508,7 +520,6 @@ These 2-grams do not occur in mi-wp-min-500-text-only.txt
        öā   ouā
        öē   ouē
        öī   ouī
-       öŋ   oung
        öō   ouō
        öœ   ouoe
        öū   ouū
@@ -531,7 +542,6 @@ These 2-grams do not occur in mi-wp-min-500-text-only.txt
        ēe   ēe
        ēo   ēo
        ēu   ēu
-       ēw   ēw
        ēä   ēau
        ēå   ēao
        ēæ   ēae
@@ -545,7 +555,6 @@ These 2-grams do not occur in mi-wp-min-500-text-only.txt
        ēȧ   ēai
        ēȯ   ēoi
        īo   īo
-       īu   īu
        īä   īau
        īå   īao
        īæ   īae
@@ -565,7 +574,6 @@ These 2-grams do not occur in mi-wp-min-500-text-only.txt
        ōå   ōao
        ōæ   ōae
        ōö   ōou
-       ōā   ōā
        ōē   ōē
        ōī   ōī
        ōō   ōō
@@ -576,17 +584,14 @@ These 2-grams do not occur in mi-wp-min-500-text-only.txt
        œe   oee
        œf   oewh
        œi   oei
-       œk   oek
        œn   oen
        œo   oeo
        œp   oep
        œu   oeu
        œw   oew
-       œä   oeau
        œå   oeao
        œæ   oeae
        œö   oeou
-       œā   oeā
        œē   oeē
        œī   oeī
        œō   oeō
@@ -596,7 +601,6 @@ These 2-grams do not occur in mi-wp-min-500-text-only.txt
        œȯ   oeoi
        ūu   ūu
        ūä   ūau
-       ūå   ūao
        ūæ   ūae
        ūö   ūou
        ūē   ūē
@@ -605,7 +609,6 @@ These 2-grams do not occur in mi-wp-min-500-text-only.txt
        ūū   ūū
        ūȧ   ūai
        ūȯ   ūoi
-       ȧä   aiau
        ȧæ   aiae
        ȧö   aiou
        ȧē   aiē
@@ -613,10 +616,8 @@ These 2-grams do not occur in mi-wp-min-500-text-only.txt
        ȧō   aiō
        ȧœ   aioe
        ȧȯ   aioi
-       ȯe   oie
        ȯi   oii
        ȯu   oiu
-       ȯw   oiw
        ȯä   oiau
        ȯå   oiao
        ȯæ   oiae
@@ -624,7 +625,6 @@ These 2-grams do not occur in mi-wp-min-500-text-only.txt
        ȯā   oiā
        ȯē   oiē
        ȯī   oiī
-       ȯŋ   oing
        ȯō   oiō
        ȯœ   oioe
        ȯū   oiū
