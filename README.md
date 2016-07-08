@@ -48,6 +48,16 @@ Remove the `<doc>` tags:
 
     grep -vP '</?doc.*>' mi-wp-min-500.txt > mi-wp-min-500-text-only.txt
 
+
+##  Nga kōrero a Reweti Kohere Mā
+
+This one is quite simple, though it contains a number of English phrases.
+
+```
+wget -O TeoNgak.xml http://nzetc.victoria.ac.nz//tm/scholarly/tei-TeoNgak.html
+./extract-nzetc-text TeoNgak.xml > nga-kōrero-a-reweti-kohere-mā.txt
+```
+
 ## count-ngrams and notes
 
 The `count-ngrams` script calculates some very simple statistics about
