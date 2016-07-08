@@ -4,7 +4,7 @@
 import argparse
 from collections import Counter
 
-from reo import normalise_text, denormalise_text, generate_n_grams
+from reo import load_text, denormalise_text, generate_n_grams
 
 
 def count_ngrams(text, n):
@@ -25,14 +25,7 @@ def main():
                         help="use n-grams of this size (default 2)")
     args = parser.parse_args()
 
-    raw = []
-    for fn in args.textfile:
-        f = open(fn)
-        raw.append(f.read())
-        f.close()
-
-    text = normalise_text('\n\n'.join(raw), args.diphthongs,
-                          args.expand_macrons)
+    text = load_text(args.textfile, args.diphthongs, not args.expand_macrons)
 
     ngrams = count_ngrams(text, args.n_gram_size)
     for bigram, n in ngrams.most_common():

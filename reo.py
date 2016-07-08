@@ -65,14 +65,14 @@ def remove_english(text):
     return ' '.join(good_words)
 
 
-def normalise_text(text, diphthongs, expand_macrons):
+def normalise_text(text, diphthongs, macrons):
     text = unicodedata.normalize('NFC', text)
     text = text.lower()
     text = re.sub(r'[^\wāēōūī]+', ' ', text)
     text = re.sub(r'ng', 'ŋ', text)
     text = re.sub(r'wh', 'f', text)
     text = remove_english(text)
-    if expand_macrons:
+    if not macrons:
         text = demacronise(text)
     if diphthongs:
         for k, v in DIPHTHONGS.items():
@@ -95,3 +95,13 @@ def demacronise(text):
             .replace('ī', 'ii')
             .replace('ō', 'oo')
             .replace('ū', 'uu'))
+
+
+def load_text(filenames, diphthongs=False, macrons=False):
+    raw = []
+    for fn in filenames:
+        f = open(fn)
+        raw.append(f.read())
+        f.close()
+
+    return normalise_text('\n\n'.join(raw), diphthongs, macrons)
