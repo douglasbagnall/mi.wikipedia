@@ -54,8 +54,22 @@ Remove the `<doc>` tags:
 This one is quite simple, though it contains a number of English phrases.
 
 ```
-wget -O TeoNgak.xml http://nzetc.victoria.ac.nz//tm/scholarly/tei-TeoNgak.html
+wget http://nzetc.victoria.ac.nz//tm/scholarly/tei-TeoNgak.html
 ./extract-nzetc-text TeoNgak.xml > nga-kōrero-a-reweti-kohere-mā.txt
+```
+
+## Te Ngutu Kura spelling dictionary
+
+This is a dictionary compiled by
+[Karaitiana Taiuru](http://www.taiuru.maori.nz/) and made available
+under the
+[CC-BY license](https://creativecommons.org/licenses/by/3.0/). It is
+essentially just a word list, designed for spell-checking software. As
+such it is not much help in finding the natural frequencies of various
+n-grams, but it does ensure exposure to a range of words.
+
+```
+wget http://www.taiuru.maori.nz/tnk/aspell/mi_NZ.dic
 ```
 
 ## count-ngrams and notes
