@@ -83,6 +83,8 @@ n-grams, but it does ensure exposure to a range of words.
 wget http://www.taiuru.maori.nz/tnk/aspell/mi_NZ.dic
 ```
 
+A shorter list can be found at https://github.com/Taipo/MaoriDiceware.
+
 ## count-ngrams and notes
 
 The `count-ngrams` script calculates some very simple statistics about
