@@ -1,4 +1,4 @@
-20449  te   te
+20318  te   te
 10940  ki   ki
 10641  ta   ta
 10220  ŋa   nga
@@ -9,49 +9,48 @@
  7107  ko   ko
  6769  na   na
  6472  ar   ar
- 6449  re   re
  6150  hi   hi
- 5850  he   he
+ 6033  re   re
  5790  ah   ah
  5318  aŋ   ang
  5282  an   an
  5161  ma   ma
+ 5121  he   he
  4992  ti   ti
  4823  ri   ri
- 4694  ua   ua
+ 4692  ua   ua
  4628  tu   tu
- 4581  ei   ei
  4580  ro   ro
- 4554  ia   ia
+ 4547  ia   ia
  4254  to   to
- 4138  ne   ne
  3989  fa   wha
  3685  nu   nu
- 3433  ke   ke
  3116  oa   oa
  3097  rā   rā
  3084  ŋā   ngā
  3034  ha   ha
  3005  ho   ho
- 2912  it   it
+ 2848  it   it
  2840  or   or
  2761  er   er
  2650  ku   ku
  2636  no   no
  2619  tä   tau
+ 2556  ke   ke
  2428  pu   pu
- 2385  me   me
- 2262  ir   ir
+ 2415  nė   nei
+ 2357  me   me
  2222  hu   hu
  2211  oh   oh
- 2209  ui   ui
+ 2207  ui   ui
  2205  āt   āt
- 2205  ur   ur
+ 2192  ur   ur
  2167  pa   pa
  2155  ru   ru
  2121  ok   ok
- 2074  in   in
  2071  wa   wa
+ 2052  in   in
+ 2015  ir   ir
  1988  ap   ap
  1928  on   on
  1918  am   am
@@ -60,16 +59,17 @@
  1793  ŋi   ngi
  1761  ea   ea
  1749  tē   tē
- 1729  ik   ik
+ 1722  ne   ne
+ 1718  ik   ik
  1692  mo   mo
  1654  mā   mā
  1440  āh   āh
  1439  wā   wā
  1424  en   en
  1422  mȧ   mai
- 1393  iŋ   ing
- 1386  wȧ   wai
  1386  ān   ān
+ 1386  wȧ   wai
+ 1377  iŋ   ing
  1291  nō   nō
  1286  tū   tū
  1258  iw   iw
@@ -80,39 +80,41 @@
  1167  ut   ut
  1149  eh   eh
  1144  ēt   ēt
- 1133  ih   ih
  1120  po   po
- 1083  fe   whe
+ 1098  ih   ih
  1080  kä   kau
+ 1079  fe   whe
  1068  kō   kō
  1057  āk   āk
  1031  ŋo   ngo
  1010  ek   ek
   995  wi   wi
-  982  uk   uk
+  981  uk   uk
   981  et   et
   971  ni   ni
   969  kȧ   kai
   966  tö   tou
-  909  oŋ   ong
   909  mu   mu
+  909  oŋ   ong
   904  ōn   ōn
+  877  kė   kei
   862  ōr   ōr
   852  år   aor
   848  tæ   tae
   805  ār   ār
   797  tȧ   tai
   794  pi   pi
-  790  pe   pe
   783  rä   rau
   781  fi   whi
+  776  pe   pe
   764  uŋ   ung
   756  hā   hā
   755  tō   tō
   740  āo   āo
   714  eŋ   eng
+  700  hė   hei
   698  hæ   hae
-  696  uh   uh
+  687  uh   uh
   683  up   up
   680  ær   aer
   668  nā   nā
@@ -121,9 +123,9 @@
   652  hä   hau
   641  om   om
   638  āu   āu
-  623  we   we
   621  aa   aa
   620  fā   whā
+  615  we   we
   612  eo   eo
   599  ȧt   ait
   579  un   un
@@ -141,15 +143,16 @@
   423  ȧr   air
   417  ät   aut
   415  ēr   ēr
+  412  rė   rei
   397  āŋ   āng
-  386  io   io
+  385  io   io
   382  pȧ   pai
   376  āw   āw
   375  āi   āi
   350  kī   kī
   342  fȧ   whai
-  331  ip   ip
   324  äŋ   aung
+  320  ip   ip
   319  ām   ām
   315  äm   aum
   312  ii   ii
@@ -160,17 +163,18 @@
   301  kå   kao
   299  åt   aot
   289  ew   ew
-  287  āp   āp
   287  ȧp   aip
+  287  āp   āp
   283  ȧn   ain
   283  ȧh   aih
   280  öt   out
   273  pī   pī
   271  ōt   ōt
   256  æa   aea
+  247  ėr   eir
   246  nä   nau
-  240  im   im
   239  kē   kē
+  238  im   im
   238  pö   pou
   219  hē   hē
   218  rö   rou
@@ -178,8 +182,8 @@
   214  ep   ep
   214  wæ   wae
   210  pæ   pae
-  209  ȧk   aik
   209  pē   pē
+  209  ȧk   aik
   192  ræ   rae
   190  tī   tī
   186  hȯ   hoi
@@ -188,7 +192,7 @@
   173  ōk   ōk
   172  rȧ   rai
   172  īp   īp
-  167  um   um
+  163  um   um
   162  kœ   koe
   162  hȧ   hai
   161  hō   hō
@@ -196,23 +200,24 @@
   157  mœ   moe
   152  ōp   ōp
   152  ūt   ūt
-  152  if   iwh
   151  æŋ   aeng
-  146  iu   iu
+  151  if   iwh
+  144  iu   iu
   143  hö   hou
   141  tȯ   toi
   140  äk   auk
   137  ŋȧ   ngai
   134  wī   wī
   130  tå   tao
-  124  ue   ue
+  126  tė   tei
   122  kö   kou
+  120  ue   ue
   120  rō   rō
   118  ȯt   oit
   111  īf   īwh
   111  ör   our
-  110  īh   īh
   110  ön   oun
+  110  īh   īh
   106  ȧm   aim
   104  ȧŋ   aing
   103  īŋ   īng
@@ -228,64 +233,67 @@
    77  eȯ   eoi
    76  rū   rū
    75  ȧf   aiwh
-   74  ēh   ēh
    74  åŋ   aong
+   74  ēh   ēh
    71  īw   īw
    70  hœ   hoe
    68  īm   īm
    66  äā   auā
+   64  ėt   eit
    62  mæ   mae
-   58  ūh   ūh
-   58  aæ   aae
    58  ȯh   oih
    58  æw   aew
+   58  ūh   ūh
+   58  aæ   aae
    57  īr   īr
    55  kū   kū
-   53  eu   eu
    53  ūf   ūwh
    52  hū   hū
    52  pä   pau
-   51  ie   ie
    50  rȯ   roi
    50  ōf   ōwh
-   48  æt   aet
    48  rī   rī
+   48  æt   aet
    47  ōu   ōu
    46  īn   īn
    45  mī   mī
+   45  ie   ie
    44  ūw   ūw
    43  pȯ   poi
+   42  uȧ   uai
    42  ūŋ   ūng
    42  ūk   ūk
-   42  uȧ   uai
    41  på   pao
    40  ōi   ōi
    39  äe   aue
-   39  äf   auwh
    39  ow   ow
+   39  äf   auwh
    38  ȧi   aii
-   38  ēŋ   ēng
    38  rå   rao
-   37  nȯ   noi
+   38  ēŋ   ēng
    37  īt   īt
    37  öa   oua
    37  hå   hao
+   37  nȯ   noi
    36  ån   aon
-   34  ŋȯ   ngoi
+   35  ėh   eih
    34  ȧå   aiao
    34  ȧo   aio
+   34  ŋȯ   ngoi
    33  ūn   ūn
    33  nȧ   nai
-   32  nū   nū
-   32  fo   who
    32  ȧw   aiw
+   32  fo   who
    32  åa   aoa
+   32  nū   nū
    31  œŋ   oeng
-   30  aū   aū
    30  uä   uau
+   30  aū   aū
+   29  hë   heu
+   29  ŋe   nge
    29  fä   whau
    29  ūā   ūā
-   29  ŋe   nge
+   28  mė   mei
    28  uu   uu
    27  kæ   kae
    27  æh   aeh
@@ -295,126 +303,151 @@
    25  rē   rē
    25  ēk   ēk
    24  ŋä   ngau
-   24  åp   aop
-   24  öm   oum
-   24  ȯk   oik
    24  nī   nī
-   23  ök   ouk
-   23  œm   oem
-   23  uā   uā
+   24  åp   aop
+   24  ȯk   oik
+   24  öm   oum
    23  wē   wē
+   23  ök   ouk
+   23  uā   uā
+   23  œm   oem
    22  ef   ewh
+   22  ėn   ein
    22  ēp   ēp
-   20  tœ   toe
    20  īk   īk
+   20  tœ   toe
    18  oā   oā
    18  ȯr   oir
    18  iā   iā
-   17  æk   aek
    17  äw   auw
+   17  æk   aek
    16  äo   auo
-   16  uw   uw
    16  ää   auau
+   16  uw   uw
+   16  ėŋ   eing
    15  ee   ee
-   14  iå   iao
-   14  ēm   ēm
-   14  åh   aoh
-   14  ōŋ   ōng
-   14  ūa   ūa
    14  ŋå   ngao
    14  uo   uo
+   14  ōŋ   ōng
+   14  iå   iao
+   14  ēm   ēm
+   14  ūa   ūa
    14  åm   aom
+   14  åh   aoh
    14  wå   wao
-   13  uå   uao
+   13  ŋō   ngō
+   13  ër   eur
    13  ȯn   oin
    13  åk   aok
-   13  ŋō   ngō
+   13  uå   uao
+   13  pė   pei
+   12  mȯ   moi
    12  ēf   ēwh
    12  āe   āe
    12  få   whao
-   12  mȯ   moi
    12  nœ   noe
+   11  ėp   eip
    11  ȧā   aiā
+   11  ėk   eik
    10  oȧ   oai
    10  œā   oeā
    10  æp   aep
-    8  åf   aowh
-    8  nå   nao
+    9  ëh   euh
     8  mē   mē
+    8  wė   wei
+    8  nå   nao
     8  ōa   ōa
-    7  ȯm   oim
+    8  åf   aowh
     7  ōä   ōau
+    7  ȧȧ   aiai
+    7  uī   uī
     7  œh   oeh
+    7  ȯm   oim
+    7  ėa   eia
     7  ȧū   aiū
     7  œr   oer
-    7  ȧȧ   aiai
     7  īi   īi
-    7  uī   uī
+    6  ūi   ūi
     6  öh   ouh
     6  ȯp   oip
+    6  oå   oao
     6  æn   aen
     6  eā   eā
-    6  oå   oao
-    6  ūi   ūi
-    5  næ   nae
-    5  ȧä   aiau
-    5  ŋē   ngē
+    6  ėe   eie
+    5  të   teu
     5  rœ   roe
-    5  œk   oek
-    5  äī   auī
     5  ȯw   oiw
-    5  eå   eao
-    5  iȯ   ioi
     5  ŋæ   ngae
-    5  öp   oup
+    5  äī   auī
     5  äæ   auae
-    4  ȧu   aiu
-    4  ȯŋ   oing
-    4  œt   oet
-    4  ēi   ēi
+    5  iȯ   ioi
+    5  œk   oek
+    5  ȧä   aiau
+    5  næ   nae
+    5  öp   oup
+    5  eå   eao
+    5  ŋē   ngē
+    4  wo   wo
     4  æf   aewh
     4  ōw   ōw
-    4  fu   whu
-    4  wo   wo
     4  nö   nou
+    4  ȯŋ   oing
+    4  ȧu   aiu
+    4  fë   wheu
+    4  œt   oet
+    4  rë   reu
+    4  ēi   ēi
+    4  ëm   eum
+    4  fu   whu
+    3  iȧ   iai
+    3  åu   aou
+    3  ëe   eue
+    3  mū   mū
+    3  ŋū   ngū
+    3  ēw   ēw
+    3  äē   auē
     3  uæ   uae
     3  fē   whē
-    3  åu   aou
-    3  ēw   ēw
-    3  æm   aem
-    3  mū   mū
-    3  äē   auē
-    3  iȧ   iai
     3  æä   aeau
-    3  ŋū   ngū
-    2  ūe   ūe
-    2  fī   whī
-    2  uō   uō
-    2  oä   oau
-    2  ȧe   aie
-    2  wä   wau
-    2  nē   nē
-    2  īu   īu
-    2  aō   aō
+    3  æm   aem
+    2  ėu   eiu
     2  ȯo   oio
+    2  nē   nē
+    2  oä   oau
+    2  ëi   eui
+    2  uō   uō
+    2  wä   wau
+    2  īu   īu
+    2  ėm   eim
+    2  aō   aō
+    2  fī   whī
+    2  ȧe   aie
     2  ūī   ūī
-    1  äu   auu
-    1  fö   whou
-    1  īe   īe
-    1  ŋī   ngī
+    2  ëa   eua
+    2  ūe   ūe
     1  æi   aei
-    1  ūo   ūo
     1  œä   oeau
     1  ūå   ūao
-    1  ōā   ōā
-    1  öf   ouwh
-    1  iū   iū
+    1  ėo   eio
     1  ȯf   oiwh
-    1  ȯe   oie
-    1  pœ   poe
     1  åw   aow
+    1  në   neu
+    1  pë   peu
+    1  uë   ueu
+    1  ėf   eiwh
+    1  fö   whou
+    1  ëk   euk
+    1  ōā   ōā
+    1  īe   īe
+    1  äu   auu
+    1  ūo   ūo
+    1  öf   ouwh
+    1  ȯe   oie
     1  öŋ   oung
-Total 2-grams: 416
+    1  pœ   poe
+    1  iū   iū
+    1  ŋī   ngī
+Total 2-grams: 449
 
 These 2-grams do not occur in mi-wp-min-500-text-only.txt or nga-kōrero-a-reweti-kohere-mā.txt
        ae   ae
@@ -423,39 +456,52 @@ These 2-grams do not occur in mi-wp-min-500-text-only.txt or nga-kōrero-a-rewet
        au   au
        aä   aau
        aå   aao
+       aë   aeu
        aö   aou
        aā   aā
        aē   aē
+       aė   aei
        aī   aī
        aœ   aoe
        aȧ   aai
        aȯ   aoi
+       ei   ei
+       eu   eu
        eä   eau
        eæ   eae
+       eë   eeu
        eö   eou
        eē   eē
+       eė   eei
        eī   eī
        eō   eō
        eœ   eoe
        eū   eū
        eȧ   eai
+       fė   whei
        fō   whō
        fœ   whoe
        fū   whū
        fȯ   whoi
        iä   iau
        iæ   iae
+       ië   ieu
        iö   iou
        iē   iē
+       iė   iei
        iī   iī
        iō   iō
        iœ   ioe
+       kë   keu
+       më   meu
        oe   oe
        oi   oi
        ou   ou
        oæ   oae
+       oë   oeu
        oö   oou
        oē   oē
+       oė   oei
        oī   oī
        oō   oō
        oœ   ooe
@@ -463,17 +509,21 @@ These 2-grams do not occur in mi-wp-min-500-text-only.txt or nga-kōrero-a-rewet
        oȯ   ooi
        uö   uou
        uē   uē
+       uė   uei
        uœ   uoe
        uū   uū
        uȯ   uoi
        wu   wu
+       wë   weu
        wö   wou
        wō   wō
        wœ   woe
        wū   wū
        wȯ   woi
        äå   auao
+       äë   aueu
        äö   auou
+       äė   auei
        äō   auō
        äœ   auoe
        äū   auū
@@ -485,9 +535,11 @@ These 2-grams do not occur in mi-wp-min-500-text-only.txt or nga-kōrero-a-rewet
        åä   aoau
        åå   aoao
        åæ   aoae
+       åë   aoeu
        åö   aoou
        åā   aoā
        åē   aoē
+       åė   aoei
        åī   aoī
        åō   aoō
        åœ   aooe
@@ -499,15 +551,39 @@ These 2-grams do not occur in mi-wp-min-500-text-only.txt or nga-kōrero-a-rewet
        æu   aeu
        æå   aeao
        ææ   aeae
+       æë   aeeu
        æö   aeou
        æā   aeā
        æē   aeē
+       æė   aeei
        æī   aeī
        æō   aeō
        æœ   aeoe
        æū   aeū
        æȧ   aeai
        æȯ   aeoi
+       ëf   euwh
+       ën   eun
+       ëo   euo
+       ëp   eup
+       ët   eut
+       ëu   euu
+       ëw   euw
+       ëä   euau
+       ëå   euao
+       ëæ   euae
+       ëë   eueu
+       ëö   euou
+       ëā   euā
+       ëē   euē
+       ëė   euei
+       ëī   euī
+       ëŋ   eung
+       ëō   euō
+       ëœ   euoe
+       ëū   euū
+       ëȧ   euai
+       ëȯ   euoi
        öe   oue
        öi   oui
        öo   ouo
@@ -516,9 +592,11 @@ These 2-grams do not occur in mi-wp-min-500-text-only.txt or nga-kōrero-a-rewet
        öä   ouau
        öå   ouao
        öæ   ouae
+       öë   oueu
        öö   ouou
        öā   ouā
        öē   ouē
+       öė   ouei
        öī   ouī
        öō   ouō
        öœ   ouoe
@@ -529,9 +607,11 @@ These 2-grams do not occur in mi-wp-min-500-text-only.txt or nga-kōrero-a-rewet
        āä   āau
        āå   āao
        āæ   āae
+       āë   āeu
        āö   āou
        āā   āā
        āē   āē
+       āė   āei
        āī   āī
        āō   āō
        āœ   āoe
@@ -545,36 +625,60 @@ These 2-grams do not occur in mi-wp-min-500-text-only.txt or nga-kōrero-a-rewet
        ēä   ēau
        ēå   ēao
        ēæ   ēae
+       ēë   ēeu
        ēö   ēou
        ēā   ēā
        ēē   ēē
+       ēė   ēei
        ēī   ēī
        ēō   ēō
        ēœ   ēoe
        ēū   ēū
        ēȧ   ēai
        ēȯ   ēoi
+       ėi   eii
+       ėw   eiw
+       ėä   eiau
+       ėå   eiao
+       ėæ   eiae
+       ėë   eieu
+       ėö   eiou
+       ėā   eiā
+       ėē   eiē
+       ėė   eiei
+       ėī   eiī
+       ėō   eiō
+       ėœ   eioe
+       ėū   eiū
+       ėȧ   eiai
+       ėȯ   eioi
        īo   īo
        īä   īau
        īå   īao
        īæ   īae
+       īë   īeu
        īö   īou
        īā   īā
        īē   īē
+       īė   īei
        īī   īī
        īō   īō
        īœ   īoe
        īū   īū
        īȧ   īai
        īȯ   īoi
+       ŋë   ngeu
        ŋö   ngou
+       ŋė   ngei
        ŋœ   ngoe
        ōe   ōe
        ōo   ōo
        ōå   ōao
        ōæ   ōae
+       ōë   ōeu
        ōö   ōou
        ōē   ōē
+       ōė   ōei
        ōī   ōī
        ōō   ōō
        ōœ   ōoe
@@ -591,8 +695,10 @@ These 2-grams do not occur in mi-wp-min-500-text-only.txt or nga-kōrero-a-rewet
        œw   oew
        œå   oeao
        œæ   oeae
+       œë   oeeu
        œö   oeou
        œē   oeē
+       œė   oeei
        œī   oeī
        œō   oeō
        œœ   oeoe
@@ -602,16 +708,20 @@ These 2-grams do not occur in mi-wp-min-500-text-only.txt or nga-kōrero-a-rewet
        ūu   ūu
        ūä   ūau
        ūæ   ūae
+       ūë   ūeu
        ūö   ūou
        ūē   ūē
+       ūė   ūei
        ūō   ūō
        ūœ   ūoe
        ūū   ūū
        ūȧ   ūai
        ūȯ   ūoi
        ȧæ   aiae
+       ȧë   aieu
        ȧö   aiou
        ȧē   aiē
+       ȧė   aiei
        ȧī   aiī
        ȧō   aiō
        ȧœ   aioe
@@ -621,9 +731,11 @@ These 2-grams do not occur in mi-wp-min-500-text-only.txt or nga-kōrero-a-rewet
        ȯä   oiau
        ȯå   oiao
        ȯæ   oiae
+       ȯë   oieu
        ȯö   oiou
        ȯā   oiā
        ȯē   oiē
+       ȯė   oiei
        ȯī   oiī
        ȯō   oiō
        ȯœ   oioe
