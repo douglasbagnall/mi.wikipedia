@@ -10,8 +10,12 @@ for macrons in macrons+ expanded+-m; do
         d_switch=${diphthongs/*+/}
         d_name=${diphthongs/+*/}
         for n in 2 3; do
-            fn=notes/$n-gram-$m_name-$d_name.txt
-            ./count-ngrams -n $n $m_switch $d_switch $texts > $fn
+            for b in '-word-boundaries+-b' '+'; do
+                b_switch=${b/*+/}
+                b_name=${b/+*/}
+                fn=notes/$n-gram-$m_name-$d_name$b_name.txt
+                ./count-ngrams -n $n $m_switch $d_switch $b_switch $texts > $fn
+            done
         done
     done
 done
