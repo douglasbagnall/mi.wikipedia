@@ -1,0 +1,148 @@
+50132  a»   a»
+38242  i»   i»
+36184  «t   «t
+36164  e»   e»
+24944  «k   «k
+22184  te   te
+20797  o»   o»
+17796  aa   aa
+16904  ta   ta
+13615  ka   ka
+13573  «a   «a
+13484  ŋa   nga
+11687  ra   ra
+11654  «i   «i
+11520  «m   «m
+11415  u»   u»
+11286  ki   ki
+ 9936  at   at
+ 9798  «h   «h
+ 9287  ma   ma
+ 8659  ko   ko
+ 8640  «r   «r
+ 8463  ak   ak
+ 8113  «o   «o
+ 7728  na   na
+ 7549  ai   ai
+ 7266  ar   ar
+ 7223  ah   ah
+ 7177  au   au
+ 6645  an   an
+ 6473  re   re
+ 6249  hi   hi
+ 6138  «ŋ   «ng
+ 6132  to   to
+ 6065  he   he
+ 5914  tu   tu
+ 5852  «e   «e
+ 5713  aŋ   ang
+ 5550  ua   ua
+ 5537  «p   «p
+ 5380  «f   «wh
+ 5337  ha   ha
+ 5282  ia   ia
+ 5228  «n   «n
+ 5186  oo   oo
+ 5177  ti   ti
+ 5112  wa   wa
+ 5013  fa   wha
+ 4971  ro   ro
+ 4870  ri   ri
+ 4586  ei   ei
+ 4524  or   or
+ 4106  ne   ne
+ 4033  pa   pa
+ 3957  no   no
+ 3846  er   er
+ 3717  nu   nu
+ 3671  ke   ke
+ 3631  it   it
+ 3546  ho   ho
+ 3449  «w   «w
+ 3303  ee   ee
+ 3200  oa   oa
+ 3198  ur   ur
+ 2918  pu   pu
+ 2850  on   on
+ 2759  oh   oh
+ 2757  ir   ir
+ 2705  ku   ku
+ 2699  mo   mo
+ 2599  en   en
+ 2491  ao   ao
+ 2395  ot   ot
+ 2388  me   me
+ 2379  in   in
+ 2372  ae   ae
+ 2321  ui   ui
+ 2306  ok   ok
+ 2275  ap   ap
+ 2265  hu   hu
+ 2234  am   am
+ 2230  ru   ru
+ 2166  uu   uu
+ 2159  et   et
+ 2056  ea   ea
+ 2006  ut   ut
+ 1981  ik   ik
+ 1934  ou   ou
+ 1834  po   po
+ 1794  ŋi   ngi
+ 1633  aw   aw
+ 1599  iŋ   ing
+ 1584  ih   ih
+ 1552  ii   ii
+ 1363  iw   iw
+ 1304  up   up
+ 1257  eh   eh
+ 1186  uk   uk
+ 1130  uŋ   ung
+ 1128  wi   wi
+ 1078  ŋo   ngo
+ 1070  fe   whe
+ 1067  pi   pi
+ 1056  ek   ek
+  995  ni   ni
+  987  pe   pe
+  968  oŋ   ong
+  933  eŋ   eng
+  912  mu   mu
+  841  uh   uh
+  841  oi   oi
+  802  un   un
+  796  ip   ip
+  783  fi   whi
+  752  af   awh
+  740  «u   «u
+  734  om   om
+  709  mi   mi
+  688  eo   eo
+  682  op   op
+  644  we   we
+  595  um   um
+  494  em   em
+  428  oe   oe
+  424  io   io
+  418  im   im
+  338  if   iwh
+  323  ew   ew
+  245  ep   ep
+  194  uf   uwh
+  181  of   owh
+  168  ue   ue
+  160  iu   iu
+   92  ŋu   ngu
+   77  uw   uw
+   55  ie   ie
+   52  eu   eu
+   39  ow   ow
+   38  ef   ewh
+   33  ŋe   nge
+   33  uo   uo
+   13  fo   who
+    4  fu   whu
+Total 2-grams: 143
+
+These 2-grams do not occur in mi-wp-min-500-text-only.txt or nga-kōrero-a-reweti-kohere-mā.txt
+       wo   wo
+       wu   wu

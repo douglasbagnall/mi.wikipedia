@@ -1,0 +1,517 @@
+50132  a»   a»
+36184  «t   «t
+34753  e»   e»
+29489  i»   i»
+24944  «k   «k
+22054  te   te
+20418  o»   o»
+15973  aa   aa
+13304  ŋa   nga
+12513  ta   ta
+11654  «i   «i
+11520  «m   «m
+11286  ki   ki
+11218  ka   ka
+11210  «a   «a
+10503  ra   ra
+ 9936  at   at
+ 9798  «h   «h
+ 8640  «r   «r
+ 8463  ak   ak
+ 8160  ko   ko
+ 8099  «o   «o
+ 7436  na   na
+ 7266  ar   ar
+ 7223  ah   ah
+ 6801  ma   ma
+ 6797  u»   u»
+ 6645  an   an
+ 6249  hi   hi
+ 6138  «ŋ   «ng
+ 6057  re   re
+ 5914  tu   tu
+ 5842  «e   «e
+ 5713  aŋ   ang
+ 5537  «p   «p
+ 5380  «f   «wh
+ 5336  he   he
+ 5228  «n   «n
+ 5177  ti   ti
+ 5097  oo   oo
+ 5006  to   to
+ 4870  ri   ri
+ 4698  ro   ro
+ 4604  fa   wha
+ 4447  ia   ia
+ 4363  ȧ»   ai»
+ 4354  ua   ua
+ 4156  ė»   ei»
+ 3905  no   no
+ 3788  ha   ha
+ 3717  nu   nu
+ 3501  wa   wa
+ 3449  «w   «w
+ 3349  pa   pa
+ 3299  ee   ee
+ 3268  ä»   au»
+ 3191  or   or
+ 3156  er   er
+ 3147  ho   ho
+ 3106  oa   oa
+ 2918  pu   pu
+ 2848  it   it
+ 2794  ke   ke
+ 2743  oh   oh
+ 2705  ku   ku
+ 2619  tä   tau
+ 2594  on   on
+ 2593  en   en
+ 2445  ur   ur
+ 2415  nė   nei
+ 2360  me   me
+ 2347  mo   mo
+ 2293  ok   ok
+ 2275  ap   ap
+ 2265  hu   hu
+ 2234  am   am
+ 2230  ru   ru
+ 2135  uu   uu
+ 2108  et   et
+ 2096  ot   ot
+ 2074  ui   ui
+ 2069  ir   ir
+ 2062  in   in
+ 1794  ŋi   ngi
+ 1752  ea   ea
+ 1735  ik   ik
+ 1690  ne   ne
+ 1633  aw   aw
+ 1553  po   po
+ 1515  ii   ii
+ 1421  mȧ   mai
+ 1382  wȧ   wai
+ 1333  år   aor
+ 1331  ö»   ou»
+ 1329  iw   iw
+ 1320  «ȧ   «ai
+ 1308  ut   ut
+ 1232  iŋ   ing
+ 1221  eh   eh
+ 1206  ih   ih
+ 1128  wi   wi
+ 1100  kä   kau
+ 1096  æ»   ae»
+ 1067  pi   pi
+ 1066  fe   whe
+ 1044  ŋo   ngo
+ 1037  äa   aua
+ 1034  ek   ek
+ 1021  uk   uk
+  995  ni   ni
+  973  pe   pe
+  969  kȧ   kai
+  965  tö   tou
+  912  mu   mu
+  894  oŋ   ong
+  877  kė   kei
+  848  tæ   tae
+  840  up   up
+  794  tȧ   tai
+  793  uŋ   ung
+  783  fi   whi
+  783  rä   rau
+  752  af   awh
+  750  eŋ   eng
+  745  uh   uh
+  740  «u   «u
+  740  aå   aao
+  720  om   om
+  709  mi   mi
+  700  hė   hei
+  698  hæ   hae
+  683  ær   aer
+  658  op   op
+  652  hä   hau
+  638  aä   aau
+  636  we   we
+  624  är   aur
+  611  un   un
+  608  eo   eo
+  601  ȧt   ait
+  560  «å   «ao
+  520  må   mao
+  492  ip   ip
+  483  mä   mau
+  476  «ä   «au
+  468  em   em
+  459  äp   aup
+  421  ȧr   air
+  420  ät   aut
+  417  ȧa   aia
+  412  rė   rei
+  382  io   io
+  381  pȧ   pai
+  379  å»   ao»
+  375  aȧ   aai
+  348  ȯa   oia
+  343  ȧŋ   aing
+  342  fȧ   whai
+  336  äŋ   aung
+  319  äm   aum
+  315  œ»   oe»
+  303  im   im
+  301  kå   kao
+  299  åt   aot
+  287  ȧp   aip
+  285  ȧh   aih
+  281  ȧn   ain
+  278  öt   out
+  265  ew   ew
+  261  if   iwh
+  259  æa   aea
+  256  ån   aon
+  249  ėr   eir
+  248  um   um
+  246  nä   nau
+  245  äi   aui
+  238  pö   pou
+  235  ep   ep
+  234  ȯ»   oi»
+  218  rö   rou
+  215  kȯ   koi
+  213  wæ   wae
+  211  ȧk   aik
+  210  pæ   pae
+  192  ræ   rae
+  186  hȯ   hoi
+  183  mö   mou
+  173  of   owh
+  171  rȧ   rai
+  162  hȧ   hai
+  162  kœ   koe
+  157  mœ   moe
+  154  uf   uwh
+  152  æŋ   aeng
+  147  iu   iu
+  143  hö   hou
+  141  tȯ   toi
+  141  äk   auk
+  137  ŋȧ   ngai
+  130  tå   tao
+  126  tė   tei
+  122  ue   ue
+  122  kö   kou
+  118  ȯt   oit
+  117  ör   our
+  110  ön   oun
+  106  ȧm   aim
+   92  ŋu   ngu
+   81  än   aun
+   81  äh   auh
+   77  eȯ   eoi
+   75  ȧf   aiwh
+   74  åŋ   aong
+   70  aæ   aae
+   70  hœ   hoe
+   69  åa   aoa
+   64  ėt   eit
+   62  mæ   mae
+   60  uw   uw
+   58  ȯh   oih
+   58  æw   aew
+   52  pä   pau
+   50  rȯ   roi
+   48  æt   aet
+   47  oö   oou
+   46  ie   ie
+   43  pȯ   poi
+   42  äe   aue
+   42  uȧ   uai
+   41  på   pao
+   40  oȯ   ooi
+   39  äf   auwh
+   39  uä   uau
+   38  ow   ow
+   38  rå   rao
+   38  öa   oua
+   37  hå   hao
+   37  ȧi   aii
+   37  nȯ   noi
+   36  œa   oea
+   35  ėh   eih
+   34  ȧo   aio
+   34  ef   ewh
+   34  ȧå   aiao
+   34  ŋȯ   ngoi
+   33  ŋe   nge
+   33  nȧ   nai
+   31  äu   auu
+   31  œŋ   oeng
+   29  ȧw   aiw
+   29  fä   whau
+   29  æh   aeh
+   29  hë   heu
+   28  mė   mei
+   27  kæ   kae
+   26  fæ   whae
+   24  öm   oum
+   24  åp   aop
+   24  ȯk   oik
+   24  ŋä   ngau
+   23  ėn   ein
+   23  ök   ouk
+   23  œm   oem
+   20  tœ   toe
+   19  ë»   eu»
+   18  ȯr   oir
+   18  ėŋ   eing
+   17  æk   aek
+   17  äw   auw
+   17  uo   uo
+   16  åh   aoh
+   16  äo   auo
+   16  ää   auau
+   14  uå   uao
+   14  iå   iao
+   14  ŋå   ngao
+   14  åm   aom
+   14  wå   wao
+   13  pė   pei
+   13  ȯn   oin
+   13  åk   aok
+   12  mȯ   moi
+   12  nœ   noe
+   12  ër   eur
+   12  få   whao
+   12  fo   who
+   11  ȧu   aiu
+   11  ėk   eik
+   11  ėp   eip
+   11  «ö   «ou
+   10  æp   aep
+   10  oȧ   oai
+    9  oä   oau
+    9  ëh   euh
+    8  åf   aowh
+    8  «ë   «eu
+    8  nå   nao
+    8  wė   wei
+    7  ȧȧ   aiai
+    7  ȯm   oim
+    7  œr   oer
+    7  ėa   eia
+    7  «æ   «ae
+    7  œh   oeh
+    6  ėe   eie
+    6  ȯŋ   oing
+    6  öh   ouh
+    6  ȯp   oip
+    6  æn   aen
+    6  oå   oao
+    5  iȯ   ioi
+    5  eå   eao
+    5  œk   oek
+    5  ȯw   oiw
+    5  næ   nae
+    5  äæ   auae
+    5  öp   oup
+    5  rœ   roe
+    5  ŋæ   ngae
+    5  ȧä   aiau
+    4  fë   wheu
+    4  ëm   eum
+    4  fu   whu
+    4  të   teu
+    4  rë   reu
+    4  eė   eei
+    4  æf   aewh
+    3  nö   nou
+    3  æo   aeo
+    3  uæ   uae
+    3  ëe   eue
+    3  iȧ   iai
+    3  æä   aeau
+    3  œt   oet
+    3  aö   aou
+    3  æm   aem
+    2  «ė   «ei
+    2  ëa   eua
+    2  ȯo   oio
+    2  ėm   eim
+    2  ėu   eiu
+    2  «œ   «oe
+    2  åo   aoo
+    2  ëi   eui
+    2  wä   wau
+    2  ȧe   aie
+    1  ėo   eio
+    1  ëk   euk
+    1  në   neu
+    1  pë   peu
+    1  œä   oeau
+    1  öŋ   oung
+    1  «ȯ   «oi
+    1  ȯf   oiwh
+    1  fö   whou
+    1  åw   aow
+    1  uë   ueu
+    1  öf   ouwh
+    1  ėf   eiwh
+    1  ȯe   oie
+    1  aė   aei
+Total 2-grams: 361
+
+These 2-grams do not occur in mi-wp-min-500-text-only.txt or nga-kōrero-a-reweti-kohere-mā.txt
+       ae   ae
+       ai   ai
+       ao   ao
+       au   au
+       aë   aeu
+       aœ   aoe
+       aȯ   aoi
+       ei   ei
+       eu   eu
+       eä   eau
+       eæ   eae
+       eë   eeu
+       eö   eou
+       eœ   eoe
+       eȧ   eai
+       fė   whei
+       fœ   whoe
+       fȯ   whoi
+       iä   iau
+       iæ   iae
+       ië   ieu
+       iö   iou
+       iė   iei
+       iœ   ioe
+       kë   keu
+       më   meu
+       oe   oe
+       oi   oi
+       ou   ou
+       oæ   oae
+       oë   oeu
+       oė   oei
+       oœ   ooe
+       pœ   poe
+       uö   uou
+       uė   uei
+       uœ   uoe
+       uȯ   uoi
+       wo   wo
+       wu   wu
+       wë   weu
+       wö   wou
+       wœ   woe
+       wȯ   woi
+       äå   auao
+       äë   aueu
+       äö   auou
+       äė   auei
+       äœ   auoe
+       äȧ   auai
+       äȯ   auoi
+       åe   aoe
+       åi   aoi
+       åu   aou
+       åä   aoau
+       åå   aoao
+       åæ   aoae
+       åë   aoeu
+       åö   aoou
+       åė   aoei
+       åœ   aooe
+       åȧ   aoai
+       åȯ   aooi
+       æe   aee
+       æi   aei
+       æu   aeu
+       æå   aeao
+       ææ   aeae
+       æë   aeeu
+       æö   aeou
+       æė   aeei
+       æœ   aeoe
+       æȧ   aeai
+       æȯ   aeoi
+       ëf   euwh
+       ën   eun
+       ëo   euo
+       ëp   eup
+       ët   eut
+       ëu   euu
+       ëw   euw
+       ëä   euau
+       ëå   euao
+       ëæ   euae
+       ëë   eueu
+       ëö   euou
+       ëė   euei
+       ëŋ   eung
+       ëœ   euoe
+       ëȧ   euai
+       ëȯ   euoi
+       öe   oue
+       öi   oui
+       öo   ouo
+       öu   ouu
+       öw   ouw
+       öä   ouau
+       öå   ouao
+       öæ   ouae
+       öë   oueu
+       öö   ouou
+       öė   ouei
+       öœ   ouoe
+       öȧ   ouai
+       öȯ   ouoi
+       ėi   eii
+       ėw   eiw
+       ėä   eiau
+       ėå   eiao
+       ėæ   eiae
+       ėë   eieu
+       ėö   eiou
+       ėė   eiei
+       ėœ   eioe
+       ėȧ   eiai
+       ėȯ   eioi
+       ŋë   ngeu
+       ŋö   ngou
+       ŋė   ngei
+       ŋœ   ngoe
+       œe   oee
+       œf   oewh
+       œi   oei
+       œn   oen
+       œo   oeo
+       œp   oep
+       œu   oeu
+       œw   oew
+       œå   oeao
+       œæ   oeae
+       œë   oeeu
+       œö   oeou
+       œė   oeei
+       œœ   oeoe
+       œȧ   oeai
+       œȯ   oeoi
+       ȧæ   aiae
+       ȧë   aieu
+       ȧö   aiou
+       ȧė   aiei
+       ȧœ   aioe
+       ȧȯ   aioi
+       ȯi   oii
+       ȯu   oiu
+       ȯä   oiau
+       ȯå   oiao
+       ȯæ   oiae
+       ȯë   oieu
+       ȯö   oiou
+       ȯė   oiei
+       ȯœ   oioe
+       ȯȧ   oiai
+       ȯȯ   oioi
