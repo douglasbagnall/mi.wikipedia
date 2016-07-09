@@ -1,128 +1,128 @@
-22198  te   te
+22184  te   te
 17796  aa   aa
-16914  ta   ta
-13617  ka   ka
+16904  ta   ta
+13615  ka   ka
 13484  ŋa   nga
-11692  ra   ra
-11290  ki   ki
- 9982  at   at
- 9300  ma   ma
- 8674  ko   ko
- 8489  ak   ak
- 7729  na   na
- 7561  ai   ai
- 7277  ar   ar
- 7230  ah   ah
- 7178  au   au
- 6668  an   an
- 6474  re   re
- 6252  hi   hi
- 6136  to   to
- 6069  he   he
+11687  ra   ra
+11286  ki   ki
+ 9936  at   at
+ 9287  ma   ma
+ 8659  ko   ko
+ 8463  ak   ak
+ 7728  na   na
+ 7549  ai   ai
+ 7266  ar   ar
+ 7223  ah   ah
+ 7177  au   au
+ 6645  an   an
+ 6473  re   re
+ 6249  hi   hi
+ 6132  to   to
+ 6065  he   he
  5914  tu   tu
- 5715  aŋ   ang
- 5552  ua   ua
- 5339  ha   ha
- 5284  ia   ia
- 5193  oo   oo
- 5182  ti   ti
- 5126  wa   wa
- 5018  fa   wha
- 4973  ro   ro
- 4871  ri   ri
+ 5713  aŋ   ang
+ 5550  ua   ua
+ 5337  ha   ha
+ 5282  ia   ia
+ 5186  oo   oo
+ 5177  ti   ti
+ 5112  wa   wa
+ 5013  fa   wha
+ 4971  ro   ro
+ 4870  ri   ri
  4586  ei   ei
- 4554  or   or
- 4140  ne   ne
- 4036  pa   pa
- 3980  no   no
- 3863  er   er
+ 4524  or   or
+ 4106  ne   ne
+ 4033  pa   pa
+ 3957  no   no
+ 3846  er   er
  3717  nu   nu
- 3672  ke   ke
- 3666  it   it
- 3565  ho   ho
- 3304  ee   ee
- 3202  ur   ur
+ 3671  ke   ke
+ 3631  it   it
+ 3546  ho   ho
+ 3303  ee   ee
  3200  oa   oa
- 2919  pu   pu
- 2868  on   on
- 2761  oh   oh
- 2760  ir   ir
+ 3198  ur   ur
+ 2918  pu   pu
+ 2850  on   on
+ 2759  oh   oh
+ 2757  ir   ir
  2705  ku   ku
- 2701  mo   mo
- 2620  en   en
+ 2699  mo   mo
+ 2599  en   en
  2491  ao   ao
- 2418  ot   ot
- 2416  in   in
- 2393  me   me
+ 2395  ot   ot
+ 2388  me   me
+ 2379  in   in
  2372  ae   ae
- 2322  ui   ui
- 2307  ok   ok
+ 2321  ui   ui
+ 2306  ok   ok
  2275  ap   ap
- 2274  hu   hu
- 2237  am   am
- 2231  ru   ru
- 2177  et   et
+ 2265  hu   hu
+ 2234  am   am
+ 2230  ru   ru
  2166  uu   uu
- 2068  ea   ea
- 2016  ut   ut
- 1982  ik   ik
- 1940  ou   ou
- 1839  po   po
+ 2159  et   et
+ 2056  ea   ea
+ 2006  ut   ut
+ 1981  ik   ik
+ 1934  ou   ou
+ 1834  po   po
  1794  ŋi   ngi
- 1634  aw   aw
- 1604  iŋ   ing
+ 1633  aw   aw
+ 1599  iŋ   ing
  1584  ih   ih
- 1553  ii   ii
- 1366  iw   iw
- 1305  up   up
+ 1552  ii   ii
+ 1363  iw   iw
+ 1304  up   up
  1257  eh   eh
- 1187  uk   uk
- 1131  uŋ   ung
- 1129  wi   wi
- 1086  fe   whe
+ 1186  uk   uk
+ 1130  uŋ   ung
+ 1128  wi   wi
  1078  ŋo   ngo
+ 1070  fe   whe
  1067  pi   pi
- 1057  ek   ek
-  999  pe   pe
-  997  oŋ   ong
+ 1056  ek   ek
   995  ni   ni
-  934  eŋ   eng
+  987  pe   pe
+  968  oŋ   ong
+  933  eŋ   eng
   912  mu   mu
-  842  uh   uh
   841  oi   oi
+  841  uh   uh
   802  un   un
   796  ip   ip
   783  fi   whi
   752  af   awh
-  739  om   om
-  711  mi   mi
-  689  eo   eo
-  684  op   op
-  646  we   we
-  601  um   um
+  734  om   om
+  709  mi   mi
+  688  eo   eo
+  682  op   op
+  644  we   we
+  595  um   um
   494  em   em
-  429  oe   oe
-  427  io   io
-  421  im   im
-  350  ew   ew
-  339  if   iwh
-  246  ep   ep
-  242  of   owh
+  428  oe   oe
+  424  io   io
+  418  im   im
+  338  if   iwh
+  323  ew   ew
+  245  ep   ep
   194  uf   uwh
+  181  of   owh
   168  ue   ue
   160  iu   iu
-   93  ŋu   ngu
+   92  ŋu   ngu
    77  uw   uw
    55  ie   ie
-   53  eu   eu
-   44  ow   ow
+   52  eu   eu
+   39  ow   ow
    38  ef   ewh
-   34  ŋe   nge
-   33  fo   who
+   33  ŋe   nge
    33  uo   uo
-    4  wo   wo
+   13  fo   who
     4  fu   whu
-Total 2-grams: 124
+Total 2-grams: 123
 
 These 2-grams do not occur in mi-wp-min-500-text-only.txt or nga-kōrero-a-reweti-kohere-mā.txt
+       wo   wo
        wu   wu

@@ -6,9 +6,9 @@
  3008  fak   whak
  2619  tau   tau
  2415  nei   nei
- 2305  ara   ara
- 2261  tah   tah
+ 2304  ara   ara
  2256  raŋ   rang
+ 2254  tah   tah
  1906  atu   atu
  1869  ere   ere
  1656  taŋ   tang
@@ -16,14 +16,14 @@
  1625  aha   aha
  1548  aŋi   angi
  1483  aki   aki
- 1422  mai   mai
+ 1421  mai   mai
  1405  ŋat   ngat
- 1386  wai   wai
+ 1382  wai   wai
  1320  kat   kat
  1281  iti   iti
- 1270  mat   mat
+ 1269  mat   mat
  1267  ari   ari
- 1250  ama   ama
+ 1249  ama   ama
  1232  tak   tak
  1200  ori   ori
  1185  aro   aro
@@ -31,11 +31,11 @@
  1119  ore   ore
  1110  ura   ura
  1089  ēta   ēta
- 1080  kau   kau
- 1074  awa   awa
+ 1079  kau   kau
+ 1073  awa   awa
  1062  mah   mah
  1054  ira   ira
- 1037  rer   rer
+ 1036  rer   rer
  1035  kia   kia
  1018  uŋa   unga
  1017  hok   hok
@@ -43,7 +43,7 @@
   971  oki   oki
   970  enu   enu
   969  kai   kai
-  966  tou   tou
+  965  tou   tou
   943  ika   ika
   939  ake   ake
   913  āto   āto
@@ -52,18 +52,18 @@
   877  kei   kei
   871  eŋa   enga
   865  ōna   ōna
-  862  fen   when
   862  nua   nua
   857  apa   apa
   852  aor   aor
   849  āhi   āhi
   848  tae   tae
-  833  are   are
+  846  fen   when
+  832  are   are
   815  tēn   tēn
-  809  ero   ero
-  808  kar   kar
-  802  ton   ton
-  797  tai   tai
+  808  ero   ero
+  807  kar   kar
+  801  ton   ton
+  794  tai   tai
   789  anō   anō
   785  onu   onu
   784  ŋar   ngar
@@ -76,20 +76,20 @@
   750  uri   uri
   749  kua   kua
   747  āne   āne
-  741  iki   iki
+  740  iki   iki
   737  tir   tir
   735  oko   oko
   728  tēt   tēt
   725  wāh   wāh
-  721  tia   tia
+  720  tia   tia
   719  roa   roa
-  716  ati   ati
   716  oro   oro
-  711  man   man
-  709  uta   uta
+  712  ati   ati
+  704  uta   uta
+  700  man   man
   700  hei   hei
   698  hae   hae
-  686  kor   kor
+  685  kor   kor
   680  aer   aer
   677  kōr   kōr
   671  hia   hia
@@ -99,23 +99,23 @@
   650  tea   tea
   646  kur   kur
   642  ahu   ahu
-  639  ate   ate
   639  oho   oho
+  635  ate   ate
   633  rot   rot
   630  uru   uru
   622  ina   ina
-  620  ato   ato
+  619  ato   ato
   616  rua   rua
   607  tin   tin
   600  aua   aua
-  599  ait   ait
   599  oŋa   onga
   597  ite   ite
-  594  ino   ino
+  596  ait   ait
   594  mea   mea
+  593  ino   ino
   593  tam   tam
   592  rāt   rāt
-  590  hua   hua
+  588  hua   hua
   582  kap   kap
   581  tok   tok
   576  aur   aur
@@ -142,41 +142,41 @@
   519  eke   eke
   518  mao   mao
   517  kam   kam
-  516  ako   ako
+  515  ako   ako
   510  upu   upu
   504  āra   āra
-  504  kit   kit
-  495  her   her
+  503  kit   kit
   495  aru   aru
   493  iho   iho
+  493  her   her
   490  tōn   tōn
   487  keh   keh
   484  ŋāt   ngāt
   483  mau   mau
   482  āke   āke
-  481  āor   āor
   481  tān   tān
+  481  āor   āor
   480  kaa   kaa
   479  āna   āna
   479  pāk   pāk
   474  one   one
   467  uhi   uhi
-  462  par   par
+  461  par   par
   459  aup   aup
-  459  far   whar
-  455  era   era
+  458  far   whar
+  454  era   era
   449  noa   noa
   448  ehā   ehā
   447  raw   raw
   436  rar   rar
   435  fit   whit
-  434  rak   rak
+  433  rak   rak
   433  tan   tan
   428  kiw   kiw
-  427  ora   ora
+  426  ora   ora
   426  oha   oha
-  423  air   air
   421  uku   uku
+  421  air   air
   420  ihi   ihi
   417  aut   aut
   416  utu   utu
@@ -184,34 +184,34 @@
   412  rei   rei
   404  wak   wak
   399  ŋit   ngit
-  398  put   put
+  397  put   put
   394  ruŋ   rung
-  393  eti   eti
-  393  puk   puk
   393  āka   āka
+  393  puk   puk
+  393  eti   eti
   392  āua   āua
   390  oti   oti
   388  eka   eka
   384  rah   rah
   382  ērā   ērā
-  382  pai   pai
+  381  pai   pai
   377  hor   hor
-  377  toŋ   tong
-  373  pap   pap
-  373  oma   oma
+  376  toŋ   tong
   373  tuh   tuh
+  373  pap   pap
+  370  oma   oma
   370  tap   tap
   367  mak   mak
   366  ini   ini
   364  kot   kot
-  360  arā   arā
   360  iha   iha
+  360  arā   arā
   358  tat   tat
-  358  ter   ter
   357  uka   uka
   356  hur   hur
   348  toh   toh
   347  aia   aia
+  347  ter   ter
   343  ōhi   ōhi
   342  fai   whai
   341  māt   māt
@@ -221,52 +221,52 @@
   332  pun   pun
   331  rit   rit
   326  iwā   iwā
-  325  rir   rir
   325  aku   aku
+  325  rir   rir
   324  auŋ   aung
   323  ohi   ohi
   322  hak   hak
   321  itā   itā
   320  ota   ota
   318  roŋ   rong
-  317  uma   uma
-  315  aum   aum
   315  āwa   āwa
-  314  koh   koh
+  315  aum   aum
   314  otu   otu
+  314  koh   koh
   313  māo   māo
   312  tur   tur
+  312  uma   uma
   312  oŋo   ongo
   311  rān   rān
-  310  ohu   ohu
   310  oia   oia
+  310  ohu   ohu
   302  ote   ote
   301  kao   kao
   299  aot   aot
   296  pak   pak
-  295  ono   ono
+  294  ono   ono
   292  ute   ute
-  291  ram   ram
   291  kaŋ   kang
+  290  ram   ram
   287  aip   aip
-  283  ain   ain
-  283  oan   oan
   283  aih   aih
+  283  oan   oan
+  281  ain   ain
   280  hit   hit
-  280  out   out
   279  ehe   ehe
   277  tuk   tuk
+  277  out   out
   269  nak   nak
   268  hek   hek
   267  aho   aho
   265  tāŋ   tāng
-  264  ear   ear
-  262  kin   kin
-  262  ret   ret
   262  hoa   hoa
+  262  ret   ret
+  261  kin   kin
   260  rāu   rāu
-  259  aea   aea
+  260  ear   ear
   259  pir   pir
+  259  aea   aea
   258  ona   ona
   258  upo   upo
   258  mār   mār
@@ -274,28 +274,28 @@
   257  atū   atū
   257  tit   tit
   256  ure   ure
-  255  nat   nat
   254  mot   mot
-  254  rat   rat
+  254  nat   nat
   253  oke   oke
   252  hui   hui
-  249  tor   tor
+  252  rat   rat
   249  ria   ria
+  249  tor   tor
   247  eir   eir
   246  nau   nau
-  246  wan   wan
   246  kir   kir
   246  ran   ran
   244  rew   rew
+  243  wan   wan
   242  wah   wah
   241  kii   kii
   239  āiŋ   āing
-  239  āhu   āhu
   239  pat   pat
+  239  āhu   āhu
   239  kom   kom
   238  pou   pou
-  237  ene   ene
   237  aar   aar
+  237  ene   ene
   236  mur   mur
   234  uar   uar
   233  fān   whān
@@ -311,114 +311,114 @@
   217  ipu   ipu
   216  eri   eri
   215  koi   koi
-  214  tāo   tāo
   214  wae   wae
   214  kan   kan
+  214  tāo   tāo
   213  mok   mok
+  212  tāt   tāt
   212  mut   mut
   212  afi   awhi
-  212  tāt   tāt
-  210  pae   pae
-  210  ima   ima
-  210  tām   tām
   210  ani   ani
-  209  aik   aik
+  210  pae   pae
+  210  tām   tām
+  210  ima   ima
+  208  aik   aik
   208  āre   āre
-  207  uto   uto
   207  itu   itu
+  207  uto   uto
   206  kāw   kāw
   204  amu   amu
   203  upa   upa
   200  koa   koa
-  199  tūr   tūr
   199  ŋah   ngah
   199  ano   ano
+  199  tūr   tūr
   198  kāh   kāh
-  198  huŋ   hung
+  197  huŋ   hung
   196  rek   rek
   194  ehi   ehi
-  193  āma   āma
   193  pua   pua
+  193  āma   āma
+  192  tēr   tēr
   192  rae   rae
   192  kon   kon
-  192  tēr   tēr
   191  māu   māu
   189  hio   hio
-  187  ete   ete
   186  hoi   hoi
   184  taf   tawh
-  183  uki   uki
-  183  mou   mou
-  183  wet   wet
   183  rāf   rāwh
+  183  uki   uki
+  183  wet   wet
+  183  mou   mou
   182  kak   kak
   181  ewe   ewe
-  179  ŋia   ngia
   179  amā   amā
+  179  ŋia   ngia
   178  tup   tup
   178  kōh   kōh
+  177  ete   ete
   177  mua   mua
   175  apū   apū
   174  rem   rem
-  174  oru   oru
+  173  oru   oru
   173  nan   nan
   172  ito   ito
-  172  rai   rai
-  171  mit   mit
+  171  ēnā   ēnā
   171  āho   āho
   171  faŋ   whang
-  171  ēnā   ēnā
+  171  mit   mit
+  171  rai   rai
   171  hik   hik
-  171  iwa   iwa
-  170  kāo   kāo
   170  ŋan   ngan
-  169  mōh   mōh
+  170  kāo   kāo
   169  ten   ten
+  169  mōh   mōh
   169  apo   apo
   168  omi   omi
-  167  uha   uha
+  168  iwa   iwa
   167  kāt   kāt
+  167  uha   uha
   165  ane   ane
-  163  rap   rap
   163  weh   weh
-  162  hai   hai
+  163  rap   rap
   162  koe   koe
   162  hap   hap
+  162  hai   hai
   160  eha   eha
   157  moe   moe
   157  hiŋ   hing
   157  pur   pur
-  156  pea   pea
+  155  pea   pea
   154  afa   awha
-  152  ipi   ipi
   152  iat   iat
+  152  ipi   ipi
   152  uke   uke
   151  aeŋ   aeng
   149  rom   rom
-  148  hon   hon
   148  iko   iko
-  147  āui   āui
   147  uti   uti
-  145  mih   mih
+  147  āui   āui
+  147  hon   hon
   145  riŋ   ring
   145  aŋo   ango
-  144  war   war
+  145  mih   mih
   144  unu   unu
   143  hou   hou
   142  nih   nih
-  141  ire   ire
   141  toi   toi
-  140  ian   ian
+  141  ire   ire
+  140  war   war
   140  auk   auk
-  140  min   min
-  140  pot   pot
+  139  pot   pot
+  139  min   min
   139  rār   rār
   138  awe   awe
-  138  kop   kop
-  138  haw   haw
   138  oka   oka
+  138  kop   kop
+  138  ian   ian
   137  ŋai   ngai
   137  opu   opu
+  137  haw   haw
   136  puh   puh
   135  ena   ena
   132  ūra   ūra
@@ -426,99 +426,99 @@
   131  pāt   pāt
   131  uro   uro
   130  rih   rih
+  130  naw   naw
   130  tao   tao
   130  māh   māh
-  130  naw   naw
-  129  tet   tet
-  129  per   per
-  129  eto   eto
   129  ror   ror
+  128  tet   tet
+  128  eto   eto
+  128  per   per
   128  mon   mon
+  127  mer   mer
   127  reh   reh
   127  uak   uak
-  127  mer   mer
-  126  tei   tei
   126  ket   ket
   126  oni   oni
-  122  irā   irā
-  122  fāt   whāt
+  126  tei   tei
   122  kou   kou
+  122  fāt   whāt
+  122  irā   irā
   121  aat   aat
   119  ame   ame
   119  tip   tip
-  119  wer   wer
-  118  reŋ   reng
+  118  wer   wer
   118  oit   oit
-  117  ātu   ātu
+  118  reŋ   reng
   117  ōte   ōte
   117  inu   inu
-  116  wat   wat
-  116  iia   iia
+  117  ātu   ātu
+  115  iia   iia
   115  pon   pon
   115  ŋāk   ngāk
   115  pok   pok
   115  ānu   ānu
-  114  ewa   ewa
   114  opa   opa
+  114  ewa   ewa
   114  teh   teh
-  114  our   our
-  114  pen   pen
   113  hir   hir
+  113  pen   pen
   113  pār   pār
+  113  wat   wat
   112  rea   rea
-  112  han   han
+  111  our   our
   111  aak   aak
-  110  īpī   īpī
+  111  han   han
   110  ahe   ahe
+  110  īpī   īpī
   110  rur   rur
-  110  oun   oun
   110  pīp   pīp
-  109  itū   itū
+  110  oun   oun
   109  api   api
-  108  ihu   ihu
+  109  itū   itū
   108  eme   eme
+  108  ihu   ihu
   107  tūp   tūp
   106  aim   aim
   106  ifa   iwha
   105  āia   āia
+  105  pīf   pīwh
   105  fir   whir
   105  nuk   nuk
-  105  pīf   pīwh
   104  aiŋ   aing
-  104  rop   rop
-  104  pik   pik
   104  rāk   rāk
   104  ipa   ipa
-  103  īfa   īwha
+  104  pik   pik
+  104  rop   rop
   103  fer   wher
-  102  ōra   ōra
+  103  īfa   īwha
   102  nān   nān
   102  tāu   tāu
+  102  ōra   ōra
   101  opi   opi
   100  kih   kih
-  100  ope   ope
    99  iap   iap
    98  tuŋ   tung
+   98  ope   ope
    98  hat   hat
    98  omo   omo
    97  pit   pit
    96  kīŋ   kīng
-   96  hut   hut
    96  kaf   kawh
-   96  fat   what
+   95  hut   hut
    95  epa   epa
    95  īŋi   īngi
-   94  kut   kut
    94  fār   whār
+   94  kut   kut
    94  tut   tut
-   93  faf   whawh
-   93  ŋon   ngon
-   93  aui   aui
    93  āku   āku
+   93  ŋon   ngon
    93  ifi   iwhi
+   93  aui   aui
+   93  faf   whawh
+   92  fat   what
    91  uiŋ   uing
-   90  fan   whan
    90  nit   nit
+   90  fan   whan
    89  tāk   tāk
    89  ehu   ehu
    88  uhu   uhu
@@ -528,14 +528,14 @@
    86  ihe   ihe
    85  utū   utū
    84  ior   ior
-   83  rin   rin
-   83  hea   hea
    83  pan   pan
+   83  rin   rin
    83  pep   pep
-   82  auh   auh
+   82  hea   hea
    82  upō   upō
-   81  ōti   ōti
    81  nar   nar
+   81  ōti   ōti
+   81  auh   auh
    81  wir   wir
    81  hem   hem
    81  aah   aah
@@ -543,1340 +543,1329 @@
    80  ofe   owhe
    80  hop   hop
    80  inā   inā
-   79  ren   ren
    79  heo   heo
    79  pēr   pēr
+   79  ren   ren
    78  kea   kea
-   78  uia   uia
    78  teŋ   teng
+   78  uia   uia
    78  ōha   ōha
-   77  ōpū   ōpū
    77  eoi   eoi
+   77  ōpū   ōpū
    77  uit   uit
-   76  naŋ   nang
    76  rim   rim
-   76  āte   āte
    76  atā   atā
-   75  ūma   ūma
-   75  aif   aiwh
-   75  taa   taa
+   76  naŋ   nang
+   76  āte   āte
    75  tūt   tūt
-   74  pēn   pēn
+   75  aif   aiwh
+   75  ūma   ūma
+   75  taa   taa
    74  aoŋ   aong
+   74  pēn   pēn
    74  ape   ape
-   73  rio   rio
    73  imi   imi
    73  āpu   āpu
    73  emu   emu
    73  pup   pup
-   72  opo   opo
-   72  tot   tot
    72  ipo   ipo
-   72  ūta   ūta
+   72  opo   opo
    72  amo   amo
+   72  ūta   ūta
    72  mem   mem
-   71  ami   ami
+   72  tot   tot
+   72  rio   rio
    71  iah   iah
-   70  hoe   hoe
-   70  umā   umā
-   70  iot   iot
-   70  tim   tim
    70  ōku   ōku
+   70  ami   ami
+   70  umā   umā
    70  pek   pek
+   70  tim   tim
+   70  hoe   hoe
    69  uah   uah
-   69  mān   mān
-   69  rōp   rōp
+   69  iot   iot
    69  noŋ   nong
-   68  meh   meh
+   69  rōp   rōp
+   69  mān   mān
    68  ufa   uwha
-   68  koŋ   kong
-   68  ken   ken
-   68  pāp   pāp
-   68  tīm   tīm
    68  īma   īma
+   68  tīm   tīm
+   68  meh   meh
    68  maŋ   mang
-   67  etu   etu
-   67  oat   oat
+   68  pāp   pāp
+   68  ken   ken
    67  nāw   nāw
+   67  oat   oat
+   67  etu   etu
    66  auā   auā
-   65  hot   hot
-   65  mom   mom
-   65  oar   oar
    65  eni   eni
-   65  hāh   hāh
    65  pūt   pūt
-   65  nun   nun
+   65  oar   oar
+   65  mom   mom
+   65  hāh   hāh
+   65  hot   hot
    65  kuk   kuk
+   65  nun   nun
    64  ŋap   ngap
+   64  rof   rowh
    64  tih   tih
    64  eit   eit
-   64  rof   rowh
-   63  īwī   īwī
    63  wīw   wīw
+   63  īwī   īwī
    63  fif   whiwh
    63  pōt   pōt
-   63  not   not
    63  iak   iak
    63  upe   upe
-   63  kiŋ   king
-   62  rip   rip
    62  tāp   tāp
-   62  niu   niu
    62  mae   mae
-   62  pān   pān
-   62  rok   rok
+   62  niu   niu
    62  pah   pah
+   62  rok   rok
    62  nek   nek
+   62  rip   rip
+   62  pān   pān
+   61  ŋār   ngār
    61  iar   iar
    61  nāi   nāi
-   61  ŋār   ngār
+   61  kiŋ   king
    60  ruh   ruh
    60  hip   hip
    59  uih   uih
-   59  huk   huk
-   59  hom   hom
    59  nia   nia
-   58  kui   kui
+   59  hom   hom
+   59  huk   huk
    58  oih   oih
-   58  aew   aew
-   58  epe   epe
    58  aae   aae
+   58  kui   kui
+   58  epe   epe
+   58  aew   aew
    57  kōk   kōk
    57  ōri   ōri
    56  tem   tem
-   56  fet   whet
    56  nōh   nōh
+   56  fet   whet
    55  tīp   tīp
-   55  tun   tun
    55  ūri   ūri
+   55  tun   tun
    54  kek   kek
-   54  heŋ   heng
    54  ruk   ruk
+   54  koŋ   kong
+   54  heŋ   heng
    53  pōr   pōr
    53  ufe   uwhe
-   52  moh   moh
-   52  pau   pau
-   52  oaŋ   oang
-   52  tuf   tuwh
    52  iku   iku
+   52  moh   moh
+   52  tuf   tuwh
+   52  oaŋ   oang
+   52  pau   pau
    51  emo   emo
    51  pia   pia
    51  kāp   kāp
    51  rut   rut
-   50  tum   tum
    50  iru   iru
+   50  hām   hām
+   50  roi   roi
+   50  tum   tum
+   50  ike   ike
+   50  eru   eru
    50  tūf   tūwh
    50  āri   āri
-   50  roi   roi
-   50  ike   ike
-   50  hām   hām
-   50  eru   eru
+   49  ūpu   ūpu
    49  īpu   īpu
    49  huh   huh
-   49  ūpu   ūpu
-   49  uir   uir
    49  ōhu   ōhu
+   49  uir   uir
    48  hoh   hoh
    48  aet   aet
    48  āpā   āpā
-   48  iao   iao
    48  āur   āur
-   47  peh   peh
+   48  iao   iao
    47  kār   kār
    47  nah   nah
-   47  āpi   āpi
+   47  peh   peh
    47  koo   koo
-   47  īha   īha
    47  tōr   tōr
-   46  neh   neh
-   46  hun   hun
+   47  āpi   āpi
+   47  īha   īha
    46  uau   uau
+   46  neh   neh
    46  ūfa   ūwha
+   46  hun   hun
+   45  ŋāp   ngāp
+   45  kok   kok
    45  āpa   āpa
    45  afe   awhe
-   45  kok   kok
-   45  mir   mir
-   45  ŋāp   ngāp
-   44  ŋih   ngih
    44  pōh   pōh
    44  top   top
    44  hen   hen
-   44  tom   tom
+   44  ŋih   ngih
    44  tāh   tāh
+   44  mir   mir
+   43  fin   whin
    43  poi   poi
    43  ŋak   ngak
+   43  tom   tom
    43  āmu   āmu
-   43  fin   whin
-   42  uai   uai
-   42  hōh   hōh
    42  āfe   āwhe
-   42  naa   naa
-   42  keŋ   keng
-   42  ion   ion
+   42  not   not
    42  uni   uni
-   41  ipe   ipe
-   41  pao   pao
-   41  hue   hue
+   42  uai   uai
+   42  naa   naa
+   42  hōh   hōh
+   42  keŋ   keng
    41  umu   umu
+   41  hue   hue
+   41  pao   pao
    41  īhi   īhi
+   41  ipe   ipe
    40  kōt   kōt
    40  mia   mia
    40  poa   poa
    40  uāu   uāu
    40  ekē   ekē
-   39  auf   auwh
-   39  tōk   tōk
-   39  hoŋ   hong
-   39  mam   mam
+   40  ion   ion
    39  pāŋ   pāng
-   39  aue   aue
+   39  tōk   tōk
    39  āhe   āhe
-   39  uin   uin
-   38  ōia   ōia
-   38  rao   rao
-   38  wik   wik
+   39  auf   auwh
+   39  aue   aue
+   39  mam   mam
+   38  uin   uin
+   38  ōta   ōta
    38  iaŋ   iang
    38  kun   kun
-   38  ōta   ōta
-   38  aii   aii
-   37  wān   wān
+   38  wik   wik
+   38  ōia   ōia
+   38  rao   rao
    37  uer   uer
+   37  aŋā   angā
+   37  noi   noi
+   37  āoa   āoa
+   37  tūm   tūm
+   37  aii   aii
    37  kum   kum
-   37  hao   hao
    37  oua   oua
    37  kio   kio
-   37  āoa   āoa
-   37  noi   noi
-   37  aŋā   angā
-   37  tūm   tūm
-   36  ēte   ēte
-   36  āmi   āmi
-   36  āŋi   āngi
+   37  wān   wān
+   37  hao   hao
    36  uam   uam
+   36  rāo   rāo
+   36  uŋu   ungu
    36  ōka   ōka
    36  ahē   ahē
+   36  āmi   āmi
    36  āmo   āmo
-   36  uŋu   ungu
-   36  rāo   rāo
    36  kōp   kōp
+   36  ēte   ēte
    36  aon   aon
-   35  uan   uan
-   35  rep   rep
-   35  mīh   mīh
-   35  eih   eih
-   35  oot   oot
-   35  āwā   āwā
+   36  āŋi   āngi
    35  paŋ   pang
    35  iam   iam
+   35  uan   uan
+   35  oot   oot
+   35  eih   eih
+   35  mīh   mīh
+   35  rep   rep
+   35  āwā   āwā
    34  ūpo   ūpo
-   34  eat   eat
-   34  ūtu   ūtu
-   34  ŋoi   ngoi
-   34  fāi   whāi
    34  āki   āki
-   34  fia   whia
    34  eki   eki
-   34  pet   pet
-   34  net   net
    34  aio   aio
-   34  ron   ron
+   34  ūtu   ūtu
+   34  fāi   whāi
+   34  fia   whia
+   34  ŋoi   ngoi
    33  wea   wea
+   33  ron   ron
    33  neŋ   neng
-   33  māk   māk
-   33  tūh   tūh
-   33  puŋ   pung
-   33  mōn   mōn
    33  nai   nai
-   32  rup   rup
+   33  mōn   mōn
+   33  puŋ   pung
+   33  tūh   tūh
+   33  māk   māk
+   32  ūŋa   ūnga
    32  umo   umo
    32  ōfi   ōwhi
-   32  aiw   aiw
-   32  ūŋa   ūnga
+   32  ŋoh   ngoh
+   32  kōm   kōm
    32  aoa   aoa
    32  āpe   āpe
-   32  ŋoh   ngoh
-   32  nik   nik
    32  uhe   uhe
-   32  kōm   kōm
+   32  rup   rup
+   32  nik   nik
    31  nut   nut
-   31  nen   nen
-   31  oeŋ   oeng
    31  huf   huwh
    31  pūm   pūm
+   31  nen   nen
+   31  oeŋ   oeng
    31  ahā   ahā
-   31  him   him
-   30  ūpe   ūpe
-   30  poh   poh
-   30  pāh   pāh
    30  fāŋ   whāng
    30  uaf   uawh
    30  afā   awhā
-   30  oŋi   ongi
+   30  ūpe   ūpe
    30  ahī   ahī
-   29  mor   mor
-   29  fau   whau
-   29  new   new
-   29  ōne   ōne
-   29  tūw   tūw
-   29  heu   heu
+   30  poh   poh
+   30  pāh   pāh
+   30  oŋi   ongi
+   30  net   net
    29  iŋi   ingi
+   29  heu   heu
+   29  fau   whau
+   29  ōne   ōne
+   29  aiw   aiw
+   29  ōmo   ōmo
    29  mōm   mōm
    29  pēh   pēh
-   29  ōmo   ōmo
-   28  epo   epo
-   28  ham   ham
-   28  hōi   hōi
-   28  hāk   hāk
-   28  āni   āni
-   28  tāf   tāwh
+   29  tūw   tūw
+   29  mor   mor
    28  mei   mei
    28  nif   niwh
+   28  hōi   hōi
+   28  tāf   tāwh
+   28  hāk   hāk
+   28  him   him
    28  oak   oak
+   28  epo   epo
+   28  āni   āni
+   28  ham   ham
    28  tep   tep
-   27  ipā   ipā
-   27  kae   kae
-   27  uho   uho
-   27  āpo   āpo
-   27  aeh   aeh
-   27  ēŋa   ēnga
    27  māŋ   māng
+   27  aeh   aeh
    27  riw   riw
+   27  ēŋa   ēnga
    27  oea   oea
-   27  fek   whek
    27  ākā   ākā
+   27  eat   eat
+   27  ipā   ipā
    27  ōki   ōki
-   26  nōn   nōn
+   27  fek   whek
+   27  kae   kae
+   27  āpo   āpo
+   26  taw   taw
+   26  pet   pet
+   26  kik   kik
    26  ife   iwhe
-   26  īna   īna
-   26  mek   mek
-   26  win   win
    26  ŋik   ngik
-   26  fae   whae
+   26  uho   uho
+   26  ŋaŋ   ngang
+   26  nōn   nōn
+   26  win   win
+   26  īna   īna
    26  nūp   nūp
    26  pōk   pōk
-   26  ŋaŋ   ngang
-   26  taw   taw
-   26  kik   kik
-   25  wit   wit
-   25  wāt   wāt
+   26  fae   whae
    25  pōf   pōwh
-   25  kuh   kuh
+   25  kīa   kīa
+   25  wāt   wāt
+   25  pue   pue
+   25  wit   wit
    25  ofa   owha
    25  ōro   ōro
-   25  pue   pue
-   25  kīa   kīa
+   25  kuh   kuh
+   25  hoŋ   hong
    25  hāp   hāp
+   25  mek   mek
    25  ātā   ātā
-   24  oum   oum
-   24  pui   pui
-   24  ūna   ūna
-   24  oik   oik
-   24  hēh   hēh
    24  hār   hār
-   24  eku   eku
-   24  ewi   ewi
    24  ēhē   ēhē
-   24  kuu   kuu
-   24  ŋau   ngau
+   24  oik   oik
+   24  pui   pui
+   24  ewi   ewi
    24  aop   aop
+   24  ŋau   ngau
    24  uaw   uaw
+   24  hēh   hēh
+   24  oum   oum
    24  pūk   pūk
-   23  eko   eko
-   23  ŋer   nger
-   23  awi   awi
-   23  pūr   pūr
-   23  pin   pin
-   23  ēra   ēra
+   24  eku   eku
+   24  ūna   ūna
+   24  kuu   kuu
+   23  uor   uor
+   23  tāi   tāi
+   23  ouk   ouk
+   23  nem   nem
+   23  āfa   āwha
    23  fiu   whiu
    23  uwa   uwa
+   23  ēra   ēra
    23  tār   tār
-   23  āfa   āwha
-   23  uor   uor
-   23  ume   ume
-   23  oem   oem
-   23  tāi   tāi
    23  ein   ein
-   23  ouk   ouk
-   23  nuh   nuh
-   23  nem   nem
+   23  oem   oem
+   23  eko   eko
+   23  awi   awi
    23  akā   akā
+   23  ume   ume
+   23  pūr   pūr
    23  ūte   ūte
-   22  ēhe   ēhe
+   23  pin   pin
+   23  nuh   nuh
    22  efa   ewha
-   22  ūwe   ūwe
-   22  nīh   nīh
-   22  ūho   ūho
-   22  umi   umi
-   22  ōpa   ōpa
-   22  emi   emi
-   22  epu   epu
-   22  ŋun   ngun
-   22  hāŋ   hāng
-   22  ōhē   ōhē
-   22  ime   ime
-   22  ūpa   ūpa
-   22  ŋip   ngip
-   22  awā   awā
-   22  tūā   tūā
-   22  hōt   hōt
    22  waw   waw
+   22  ūho   ūho
+   22  awā   awā
+   22  ōpa   ōpa
+   22  tūā   tūā
+   22  ime   ime
+   22  ŋer   nger
+   22  epu   epu
+   22  ūpa   ūpa
+   22  ūwe   ūwe
+   22  umi   umi
    22  āko   āko
-   21  aŋu   angu
+   22  nīh   nīh
+   22  hāŋ   hāng
+   22  ŋun   ngun
+   22  ŋip   ngip
+   22  hōt   hōt
+   22  ēhe   ēhe
+   22  ōhē   ōhē
+   22  emi   emi
+   21  āwe   āwe
+   21  ŋāi   ngāi
    21  tāw   tāw
-   21  pīh   pīh
-   21  kaū   kaū
-   21  hōr   hōr
    21  owa   owa
+   21  ŋoŋ   ngong
+   21  imo   imo
+   21  aŋu   angu
+   21  ŋom   ngom
    21  atō   atō
+   21  kaū   kaū
+   21  rāh   rāh
+   21  pīh   pīh
    21  īra   īra
    21  nio   nio
-   21  āwe   āwe
-   21  ŋoŋ   ngong
-   21  ŋom   ngom
-   21  ŋāi   ngāi
-   21  imo   imo
-   21  rāh   rāh
-   20  nea   nea
-   20  hēt   hēt
-   20  kim   kim
-   20  iur   iur
-   20  for   whor
-   20  iit   iit
-   20  eon   eon
-   20  waa   waa
-   20  une   une
-   20  het   het
-   20  uŋi   ungi
-   20  tii   tii
-   20  tōt   tōt
-   20  ŋāw   ngāw
+   21  hōr   hōr
    20  toe   toe
+   20  hēt   hēt
+   20  iit   iit
+   20  iur   iur
    20  ooh   ooh
-   19  kem   kem
-   19  apā   apā
-   19  tui   tui
-   19  kof   kowh
-   19  apō   apō
-   19  iwe   iwe
-   19  ūwa   ūwa
-   19  pōn   pōn
-   19  inī   inī
-   19  nap   nap
-   19  hāw   hāw
+   20  waa   waa
+   20  ŋāw   ngāw
+   20  tii   tii
+   20  uŋi   ungi
+   20  eon   eon
+   20  tōt   tōt
+   20  kim   kim
+   20  une   une
    19  tūŋ   tūng
-   19  nep   nep
-   19  ōru   ōru
-   19  piw   piw
+   19  hāw   hāw
    19  mup   mup
+   19  het   het
+   19  nap   nap
+   19  pōn   pōn
+   19  iwe   iwe
    19  ōkā   ōkā
-   19  ōma   ōma
-   19  ŋut   ngut
-   19  tiŋ   ting
-   19  num   num
-   19  rii   rii
+   19  ūwa   ūwa
    19  rūn   rūn
+   19  apā   apā
+   19  kem   kem
+   19  apō   apō
+   19  ōru   ōru
+   19  inī   inī
+   19  nep   nep
+   19  tui   tui
+   19  rii   rii
+   19  ŋut   ngut
+   19  piw   piw
+   19  kof   kowh
+   19  num   num
    19  hūr   hūr
-   18  ier   ier
-   18  hep   hep
+   19  ōma   ōma
+   18  tīr   tīr
+   18  tīt   tīt
    18  rie   rie
-   18  āro   āro
-   18  neo   neo
-   18  ufā   uwhā
-   18  wek   wek
+   18  oir   oir
+   18  nue   nue
    18  īho   īho
+   18  āro   āro
+   18  hep   hep
+   18  ier   ier
    18  mām   mām
    18  īro   īro
-   18  nue   nue
-   18  tīr   tīr
-   18  oir   oir
-   18  tīt   tīt
+   18  ufā   uwhā
+   18  neo   neo
    18  ŋoā   ngoā
-   17  hāt   hāt
-   17  iok   iok
-   17  orā   orā
-   17  uap   uap
-   17  mio   mio
-   17  aek   aek
-   17  hōn   hōn
-   17  uko   uko
-   17  iom   iom
-   17  ŋur   ngur
-   17  auw   auw
-   17  ŋaw   ngaw
-   17  ŋof   ngowh
+   18  wek   wek
    17  pom   pom
-   17  ōhā   ōhā
+   17  mio   mio
+   17  nea   nea
+   17  ŋur   ngur
+   17  uko   uko
+   17  ŋof   ngowh
+   17  aek   aek
+   17  tiŋ   ting
+   17  auw   auw
    17  imu   imu
-   16  pām   pām
-   16  hah   hah
-   16  rum   rum
-   16  rīh   rīh
-   16  paw   paw
-   16  oku   oku
+   17  hōn   hōn
+   17  iom   iom
+   17  ōhā   ōhā
+   17  iok   iok
+   17  uap   uap
+   17  ŋaw   ngaw
+   17  hāt   hāt
+   17  orā   orā
    16  tif   tiwh
-   16  waŋ   wang
-   16  ānō   ānō
-   16  hup   hup
-   16  raf   rawh
-   16  ūhi   ūhi
    16  eiŋ   eing
-   16  āŋe   ānge
-   16  fio   whio
-   16  met   met
-   16  itō   itō
-   16  ikō   ikō
+   16  waŋ   wang
+   16  rīh   rīh
+   16  oku   oku
    16  auo   auo
-   16  aaŋ   aang
-   16  ōpi   ōpi
    16  ēti   ēti
-   15  pīr   pīr
-   15  rui   rui
-   15  pōp   pōp
+   16  hup   hup
+   16  itō   itō
+   16  hah   hah
+   16  ūhi   ūhi
+   16  āŋe   ānge
+   16  ānō   ānō
+   16  ōpi   ōpi
+   16  ikō   ikō
+   16  pām   pām
+   16  fio   whio
+   16  raf   rawh
+   16  aaŋ   aang
+   16  paw   paw
+   15  ūpā   ūpā
+   15  kōf   kōwh
+   15  mim   mim
+   15  pip   pip
+   15  rum   rum
    15  tōp   tōp
    15  riu   riu
-   15  ōpu   ōpu
-   15  mim   mim
+   15  rui   rui
+   15  pōp   pōp
    15  tuā   tuā
-   15  ōho   ōho
-   15  mōk   mōk
-   15  āpō   āpō
-   15  kōf   kōwh
    15  ōmi   ōmi
+   15  āpō   āpō
+   15  ōpu   ōpu
+   15  mōk   mōk
+   15  met   met
    15  iui   iui
-   15  ūpā   ūpā
-   15  pip   pip
-   14  peŋ   peng
-   14  iāt   iāt
-   14  hum   hum
-   14  kūm   kūm
-   14  fea   whea
-   14  kip   kip
-   14  rif   riwh
-   14  ruf   ruwh
+   15  pīr   pīr
+   15  ōho   ōho
    14  pof   powh
-   14  aoh   aoh
-   14  okī   okī
-   14  amī   amī
-   14  hīr   hīr
-   14  hiw   hiw
-   14  aom   aom
-   14  wāw   wāw
    14  ēhi   ēhi
-   14  wen   wen
-   14  wao   wao
-   14  ŋif   ngiwh
+   14  wāw   wāw
    14  īni   īni
+   14  hīr   hīr
+   14  rif   riwh
+   14  kip   kip
+   14  aom   aom
+   14  okī   okī
+   14  aoh   aoh
+   14  hiw   hiw
+   14  kūm   kūm
+   14  amī   amī
+   14  ruf   ruwh
+   14  wao   wao
+   14  iāt   iāt
+   14  fea   whea
    14  ŋao   ngao
+   14  ŋif   ngiwh
    14  akī   akī
-   13  erē   erē
-   13  oor   oor
-   13  pif   piwh
-   13  uŋā   ungā
-   13  oin   oin
-   13  ofi   owhi
-   13  hēŋ   hēng
-   13  īre   īre
-   13  aok   aok
-   13  kīn   kīn
-   13  hēr   hēr
-   13  tiu   tiu
-   13  raa   raa
    13  haa   haa
-   13  hih   hih
-   13  kīh   kīh
-   13  how   how
+   13  wen   wen
    13  ŋiā   ngiā
+   13  pif   piwh
+   13  pei   pei
+   13  erē   erē
+   13  hēr   hēr
+   13  kīn   kīn
+   13  raa   raa
+   13  ŋān   ngān
+   13  hih   hih
+   13  uŋā   ungā
+   13  kīh   kīh
+   13  oin   oin
+   13  uao   uao
+   13  tiu   tiu
+   13  hēŋ   hēng
+   13  aok   aok
+   13  ŋuŋ   ngung
+   13  peŋ   peng
+   13  ofi   owhi
    13  ner   ner
    13  ōto   ōto
-   13  uao   uao
-   13  ŋān   ngān
-   13  pei   pei
-   13  ŋuŋ   ngung
    13  iir   iir
-   13  eur   eur
-   12  āuŋ   āung
-   12  kēt   kēt
-   12  noe   noe
-   12  ōhe   ōhe
-   12  ean   ean
-   12  pop   pop
-   12  rōr   rōr
-   12  hāu   hāu
-   12  fao   whao
-   12  ōke   ōke
-   12  kāf   kāwh
-   12  ōme   ōme
-   12  hēk   hēk
-   12  uāk   uāk
-   12  pēf   pēwh
-   12  nor   nor
-   12  hii   hii
-   12  kōa   kōa
-   12  eŋi   engi
-   12  pūh   pūh
-   12  īta   īta
-   12  ōpō   ōpō
+   13  īre   īre
    12  ofā   owhā
+   12  hii   hii
+   12  kēt   kēt
+   12  hēk   hēk
+   12  pūh   pūh
+   12  uāk   uāk
+   12  ean   ean
+   12  pēf   pēwh
    12  rūr   rūr
-   12  uiu   uiu
-   12  hīn   hīn
-   12  moi   moi
-   12  ome   ome
-   12  epi   epi
+   12  pop   pop
+   12  kōa   kōa
+   12  ōme   ōme
+   12  kāf   kāwh
+   12  ōke   ōke
+   12  ōpō   ōpō
+   12  noe   noe
    12  pāu   pāu
-   11  eho   eho
-   11  tōu   tōu
-   11  eik   eik
-   11  uaŋ   uang
-   11  owe   owe
+   12  epi   epi
+   12  eŋi   engi
+   12  īta   īta
+   12  eur   eur
+   12  fao   whao
+   12  hāu   hāu
+   12  ōhe   ōhe
+   12  āuŋ   āung
+   12  rōr   rōr
+   12  uiu   uiu
+   12  moi   moi
+   12  hīn   hīn
+   11  nor   nor
    11  kēh   kēh
-   11  ŋam   ngam
    11  aiā   aiā
    11  upā   upā
-   11  ikā   ikā
-   11  poo   poo
-   11  ōtu   ōtu
-   11  eip   eip
-   11  ēŋi   ēngi
-   11  ēki   ēki
-   11  ūre   ūre
-   11  men   men
-   11  mep   mep
-   11  ŋim   ngim
-   11  ūmo   ūmo
    11  īti   īti
-   11  maw   maw
-   11  row   row
-   11  ēpi   ēpi
    11  māf   māwh
+   11  ūre   ūre
+   11  ēpi   ēpi
+   11  ōtu   ōtu
+   11  eho   eho
+   11  ēki   ēki
+   11  ŋim   ngim
+   11  ŋam   ngam
+   11  tōu   tōu
+   11  ēŋi   ēngi
+   11  ikā   ikā
+   11  ūmo   ūmo
+   11  eik   eik
    11  ūru   ūru
-   10  ūŋi   ūngi
-   10  orō   orō
-   10  ārō   ārō
-   10  hōŋ   hōng
-   10  wēp   wēp
-   10  āru   āru
-   10  kep   kep
-   10  oah   oah
-   10  etū   etū
-   10  nok   nok
-   10  ēke   ēke
-   10  upū   upū
-   10  erā   erā
-   10  tōh   tōh
-   10  iai   iai
-   10  ēre   ēre
-   10  rūm   rūm
-   10  ūka   ūka
-   10  ōŋo   ōngo
+   11  eip   eip
+   11  mep   mep
+   11  row   row
+   11  maw   maw
+   10  ome   ome
    10  erū   erū
-   10  aep   aep
-   10  mōr   mōr
-   10  ōpo   ōpo
-   10  eŋo   engo
-   10  oeā   oeā
+   10  orō   orō
+   10  iai   iai
+   10  tōh   tōh
+   10  ūŋi   ūngi
    10  wēt   wēt
+   10  ōpo   ōpo
+   10  ēke   ēke
+   10  hōŋ   hōng
+   10  ūka   ūka
+   10  āru   āru
+   10  ōŋo   ōngo
+   10  etū   etū
+   10  how   how
    10  oai   oai
+   10  ēre   ēre
+   10  oeā   oeā
+   10  rūm   rūm
+   10  wēp   wēp
+   10  upū   upū
    10  ōfa   ōwha
-   10  oon   oon
-    9  ŋaa   ngaa
-    9  pūw   pūw
-    9  ŋio   ngio
-    9  uen   uen
-    9  moo   moo
-    9  map   map
-    9  ŋop   ngop
+   10  erā   erā
+   10  mōr   mōr
+   10  oah   oah
+   10  ārō   ārō
+   10  nok   nok
+   10  kep   kep
+   10  eŋo   engo
+   10  aep   aep
     9  weŋ   weng
-    9  ūrā   ūrā
-    9  tef   tewh
-    9  oop   oop
-    9  non   non
-    9  euh   euh
-    9  mōu   mōu
-    9  tio   tio
-    9  ēhu   ēhu
-    9  aūp   aūp
-    9  nie   nie
-    9  āmā   āmā
-    9  rēr   rēr
-    9  īko   īko
-    9  pēk   pēk
-    9  iŋā   ingā
-    9  āfā   āwhā
-    9  ītī   ītī
-    9  kuŋ   kung
-    9  iuk   iuk
-    9  otū   otū
-    9  ūtū   ūtū
-    9  uaū   uaū
-    9  uet   uet
-    9  maa   maa
-    9  keo   keo
     9  ueh   ueh
-    8  aap   aap
-    8  uae   uae
-    8  ūki   ūki
+    9  uen   uen
+    9  iŋā   ingā
+    9  ūrā   ūrā
+    9  maa   maa
+    9  oop   oop
+    9  ūtū   ūtū
+    9  keo   keo
+    9  īko   īko
+    9  ŋaa   ngaa
+    9  uaū   uaū
+    9  pūw   pūw
+    9  map   map
+    9  rēr   rēr
+    9  pēk   pēk
+    9  ītī   ītī
+    9  oor   oor
+    9  oon   oon
+    9  uet   uet
+    9  āmā   āmā
+    9  mōu   mōu
+    9  ŋio   ngio
+    9  ŋop   ngop
+    9  aūp   aūp
+    9  iuk   iuk
+    9  tef   tewh
+    9  owe   owe
+    9  non   non
+    9  nie   nie
+    9  otū   otū
+    9  euh   euh
+    9  āfā   āwhā
+    9  poo   poo
+    9  ēhu   ēhu
+    9  kuŋ   kung
+    9  hum   hum
+    9  uaŋ   uang
     8  ēme   ēme
-    8  iih   iih
-    8  hoo   hoo
     8  wei   wei
-    8  ipō   ipō
-    8  akō   akō
-    8  nāk   nāk
-    8  ōfe   ōwhe
-    8  fāf   whāwh
-    8  amō   amō
-    8  mum   mum
-    8  ūhā   ūhā
-    8  eam   eam
-    8  kāŋ   kāng
-    8  ūkō   ūkō
-    8  mīt   mīt
-    8  rēm   rēm
-    8  wem   wem
-    8  rue   rue
-    8  nao   nao
     8  hie   hie
-    8  ŋot   ngot
-    8  āhā   āhā
-    8  ŋor   ngor
+    8  fāf   whāwh
+    8  ōfe   ōwhe
+    8  iih   iih
     8  aof   aowh
-    8  eor   eor
-    7  ūto   ūto
-    7  puā   puā
-    7  uea   uea
-    7  run   run
-    7  imā   imā
-    7  īia   īia
-    7  nim   nim
+    8  wem   wem
+    8  nāk   nāk
+    8  ūkō   ūkō
+    8  amō   amō
+    8  kāŋ   kāng
+    8  men   men
+    8  uae   uae
+    8  rēm   rēm
+    8  ŋor   ngor
+    8  ūhā   ūhā
+    8  ŋot   ngot
+    8  mum   mum
+    8  eam   eam
+    8  ipō   ipō
+    8  mīt   mīt
+    8  āhā   āhā
+    8  nao   nao
+    8  aap   aap
+    8  akō   akō
+    8  rue   rue
+    8  ūki   ūki
+    7  hoo   hoo
+    7  kīi   kīi
     7  ōmu   ōmu
-    7  īwa   īwa
-    7  oim   oim
-    7  oeh   oeh
-    7  wāk   wāk
-    7  rōf   rōwh
-    7  etā   etā
-    7  onā   onā
-    7  kuī   kuī
-    7  ūti   ūti
-    7  pūn   pūn
-    7  arē   arē
-    7  kūa   kūa
-    7  mui   mui
-    7  nāu   nāu
-    7  ēna   ēna
+    7  hēn   hēn
     7  mōt   mōt
-    7  eia   eia
-    7  iaw   iaw
+    7  puā   puā
+    7  wāk   wāk
+    7  faa   whaa
+    7  moo   moo
+    7  aiū   aiū
+    7  oeh   oeh
+    7  ūto   ūto
+    7  eaŋ   eang
+    7  eor   eor
     7  ēfa   ēwha
-    7  hīk   hīk
+    7  pūā   pūā
+    7  rōf   rōwh
+    7  iaw   iaw
+    7  upi   upi
+    7  arē   arē
     7  pūp   pūp
     7  uīn   uīn
-    7  rāw   rāw
-    7  aiū   aiū
-    7  hōm   hōm
-    7  kīi   kīi
-    7  uāw   uāw
-    7  urī   urī
-    7  hēn   hēn
-    7  pōm   pōm
-    7  upi   upi
     7  īpe   īpe
-    7  kee   kee
-    7  eaŋ   eang
-    7  uem   uem
-    7  aaw   aaw
-    7  faa   whaa
-    7  arī   arī
+    7  imā   imā
     7  ōau   ōau
-    7  eep   eep
+    7  run   run
+    7  pōm   pōm
+    7  eia   eia
+    7  īia   īia
+    7  uea   uea
+    7  mui   mui
+    7  uāw   uāw
+    7  kuī   kuī
+    7  tio   tio
+    7  oim   oim
+    7  onā   onā
     7  oer   oer
-    7  pūā   pūā
-    6  aŋō   angō
-    6  pōu   pōu
-    6  too   too
-    6  ouh   ouh
-    6  nin   nin
-    6  rīp   rīp
-    6  kān   kān
-    6  miŋ   ming
-    6  ūke   ūke
-    6  ōur   ōur
-    6  opū   opū
-    6  ŋāh   ngāh
+    7  nāu   nāu
+    7  īwa   īwa
+    7  aaw   aaw
+    7  urī   urī
+    7  pūn   pūn
+    7  arī   arī
+    7  hīk   hīk
+    7  ēna   ēna
+    7  uem   uem
+    7  ūti   ūti
+    7  hōm   hōm
+    7  rāw   rāw
+    7  nim   nim
+    7  kūa   kūa
+    7  etā   etā
     6  okā   okā
-    6  ūāw   ūāw
-    6  ūnu   ūnu
-    6  iua   iua
-    6  oao   oao
-    6  tēp   tēp
-    6  moŋ   mong
-    6  ŋok   ngok
-    6  ūāh   ūāh
-    6  kūk   kūk
+    6  pōu   pōu
     6  eie   eie
-    6  īaŋ   īang
-    6  aūŋ   aūng
-    6  īki   īki
-    6  hew   hew
-    6  ōko   ōko
-    6  nōp   nōp
-    6  kūw   kūw
-    6  ūar   ūar
+    6  kān   kān
+    6  ŋok   ngok
+    6  eep   eep
     6  mii   mii
-    6  ukī   ukī
+    6  rīp   rīp
+    6  hūt   hūt
+    6  īki   īki
+    6  aen   aen
+    6  oao   oao
+    6  ūnu   ūnu
+    6  muk   muk
+    6  nin   nin
+    6  īaŋ   īang
+    6  miŋ   ming
+    6  ūāw   ūāw
+    6  aŋō   angō
+    6  oip   oip
+    6  otō   otō
+    6  ūāh   ūāh
+    6  ōur   ōur
+    6  kee   kee
+    6  aūŋ   aūng
+    6  ouh   ouh
+    6  kūw   kūw
+    6  iik   iik
+    6  too   too
     6  ref   rewh
     6  iār   iār
-    6  iik   iik
-    6  oip   oip
-    6  mop   mop
-    6  roo   roo
-    6  hūt   hūt
-    6  ihā   ihā
-    6  ōtē   ōtē
+    6  opū   opū
+    6  ūar   ūar
+    6  tēp   tēp
+    6  ūke   ūke
+    6  iua   iua
+    6  ŋāh   ngāh
+    6  kūk   kūk
+    6  nōp   nōp
     6  pūa   pūa
-    6  muk   muk
-    6  otō   otō
-    6  aam   aam
-    6  aen   aen
+    6  ihā   ihā
+    6  ukī   ukī
+    6  mop   mop
     6  kāu   kāu
-    5  rōi   rōi
-    5  āit   āit
-    5  rūt   rūt
-    5  auī   auī
-    5  huo   huo
-    5  feo   wheo
-    5  āwi   āwi
+    6  ōko   ōko
+    6  hew   hew
+    6  ōtē   ōtē
+    6  aam   aam
+    6  moŋ   mong
     5  ūpū   ūpū
-    5  eah   eah
-    5  wap   wap
-    5  īri   īri
-    5  hōp   hōp
-    5  ŋiu   ngiu
-    5  ōaŋ   ōang
-    5  pāo   pāo
-    5  now   now
-    5  pēp   pēp
-    5  teu   teu
-    5  uik   uik
-    5  iau   iau
-    5  māi   māi
-    5  īfi   īwhi
-    5  owi   owi
-    5  kiu   kiu
-    5  niw   niw
-    5  nip   nip
-    5  puo   puo
-    5  wia   wia
-    5  ēpa   ēpa
-    5  ŋae   ngae
-    5  pam   pam
-    5  tīk   tīk
-    5  uwe   uwe
-    5  roe   roe
-    5  ahō   ahō
-    5  hūn   hūn
-    5  uwi   uwi
-    5  uiw   uiw
-    5  rāp   rāp
-    5  ūān   ūān
-    5  tōi   tōi
-    5  rōn   rōn
+    5  āwi   āwi
     5  kuw   kuw
     5  īpo   īpo
-    5  oek   oek
-    5  ūkū   ūkū
-    5  ēfe   ēwhe
-    5  oiw   oiw
-    5  oup   oup
-    5  ŋōr   ngōr
-    5  eok   eok
-    5  oŋō   ongō
-    5  pim   pim
-    5  mēn   mēn
-    5  eao   eao
+    5  uwe   uwe
+    5  now   now
+    5  pēp   pēp
     5  ŋaf   ngawh
-    5  īno   īno
+    5  pāo   pāo
+    5  ŋiu   ngiu
+    5  ŋae   ngae
+    5  oiw   oiw
+    5  owi   owi
+    5  roo   roo
     5  ioi   ioi
-    5  īto   īto
     5  nae   nae
-    5  puw   puw
+    5  tōi   tōi
+    5  ūkū   ūkū
+    5  oup   oup
+    5  īri   īri
+    5  huo   huo
+    5  oŋō   ongō
+    5  māi   māi
+    5  niw   niw
+    5  tīk   tīk
+    5  oek   oek
+    5  eah   eah
+    5  rōn   rōn
+    5  auī   auī
+    5  eao   eao
+    5  iau   iau
+    5  rūt   rūt
+    5  hūn   hūn
+    5  ūān   ūān
     5  riā   riā
+    5  roe   roe
+    5  uwi   uwi
+    5  ahō   ahō
+    5  ēpa   ēpa
+    5  ōaŋ   ōang
+    5  īto   īto
+    5  wia   wia
+    5  ēfe   ēwhe
+    5  uiw   uiw
+    5  hōp   hōp
+    5  īfi   īwhi
+    5  uik   uik
+    5  rōi   rōi
+    5  eok   eok
+    5  āit   āit
+    5  puw   puw
+    5  nip   nip
+    5  īno   īno
+    5  mēn   mēn
+    5  puo   puo
+    5  pim   pim
+    5  wap   wap
+    5  feo   wheo
+    5  kiu   kiu
+    5  ŋōr   ngōr
+    5  rāp   rāp
+    4  ūmā   ūmā
+    4  rīn   rīn
+    4  aiu   aiu
+    4  rīr   rīr
+    4  keā   keā
+    4  ŋin   ngin
+    4  eop   eop
+    4  ātī   ātī
+    4  uon   uon
+    4  hāf   hāwh
+    4  kūh   kūh
+    4  atī   atī
+    4  tūk   tūk
+    4  feu   wheu
+    4  hōk   hōk
+    4  tew   tew
+    4  oŋe   onge
+    4  teu   teu
+    4  oiŋ   oing
+    4  muh   muh
+    4  kēm   kēm
+    4  nūk   nūk
+    4  wam   wam
+    4  īŋa   īnga
+    4  pef   pewh
+    4  hīt   hīt
+    4  ūfe   ūwhe
+    4  tīw   tīw
+    4  epū   epū
+    4  īŋo   īngo
+    4  urā   urā
+    4  ŋii   ngii
+    4  aef   aewh
+    4  ēha   ēha
+    4  pam   pam
+    4  ioh   ioh
+    4  ūko   ūko
+    4  ōni   ōni
+    4  ūah   ūah
     4  reu   reu
     4  ūme   ūme
-    4  ūah   ūah
-    4  pef   pewh
-    4  nōk   nōk
-    4  ūmā   ūmā
-    4  urā   urā
-    4  rēi   rēi
-    4  eām   eām
-    4  oŋe   onge
-    4  epū   epū
-    4  ioh   ioh
-    4  tīw   tīw
-    4  ŋii   ngii
-    4  ūko   ūko
-    4  hūh   hūh
-    4  ukā   ukā
-    4  ēha   ēha
-    4  uaa   uaa
-    4  aef   aewh
-    4  rīr   rīr
-    4  oet   oet
-    4  muh   muh
-    4  hāf   hāwh
-    4  ūfe   ūwhe
     4  māe   māe
-    4  tew   tew
-    4  piu   piu
-    4  ŋāŋ   ngāng
-    4  atī   atī
-    4  rīn   rīn
-    4  nou   nou
-    4  iut   iut
-    4  īŋa   īnga
-    4  eop   eop
-    4  ōni   ōni
-    4  tūk   tūk
-    4  ūrū   ūrū
-    4  hōk   hōk
-    4  uon   uon
-    4  tōm   tōm
     4  aan   aan
+    4  uaa   uaa
+    4  eām   eām
     4  ōno   ōno
-    4  ŋir   ngir
-    4  kūh   kūh
-    4  hīt   hīt
-    4  keā   keā
-    4  feu   wheu
-    4  kēm   kēm
-    4  pīt   pīt
-    4  āum   āum
-    4  wam   wam
-    4  ŋin   ngin
-    4  ūha   ūha
-    4  iof   iowh
-    4  wīr   wīr
-    4  oiŋ   oing
-    4  nūk   nūk
-    4  anā   anā
-    4  īŋo   īngo
-    4  eum   eum
-    4  mik   mik
     4  eau   eau
     4  akū   akū
-    4  aiu   aiu
-    4  ātī   ātī
-    3  tue   tue
-    3  ōrā   ōrā
-    3  ree   ree
-    3  iip   iip
-    3  rōm   rōm
-    3  efi   ewhi
-    3  āeo   āeo
-    3  ēpe   ēpe
-    3  fāk   whāk
-    3  puf   puwh
-    3  rūh   rūh
+    4  tōm   tōm
+    4  piu   piu
+    4  mik   mik
+    4  ūha   ūha
+    4  ukā   ukā
+    4  ŋāŋ   ngāng
+    4  pīt   pīt
+    4  rēi   rēi
+    4  iut   iut
+    4  āum   āum
+    4  eum   eum
+    4  ūrū   ūrū
+    4  wīr   wīr
+    4  ŋir   ngir
+    4  nōk   nōk
+    4  iof   iowh
+    4  hūh   hūh
+    4  anā   anā
     3  ohū   ohū
-    3  ēpu   ēpu
-    3  ārū   ārū
-    3  nōu   nōu
-    3  ūfā   ūwhā
-    3  āea   āea
-    3  tīn   tīn
-    3  ieh   ieh
-    3  tīf   tīwh
-    3  mūr   mūr
-    3  ūne   ūne
-    3  rēw   rēw
-    3  āer   āer
-    3  ūhe   ūhe
-    3  āik   āik
-    3  ŋiw   ngiw
-    3  ŋēt   ngēt
-    3  wāp   wāp
-    3  kīk   kīk
-    3  nom   nom
-    3  ēwe   ēwe
-    3  kāe   kāe
-    3  eak   eak
-    3  emā   emā
-    3  kow   kow
-    3  poŋ   pong
-    3  rīw   rīw
-    3  pum   pum
-    3  iue   iue
-    3  irī   irī
-    3  uim   uim
-    3  rīf   rīwh
-    3  ūhū   ūhū
-    3  tow   tow
-    3  hōu   hōu
-    3  eoŋ   eong
-    3  fiŋ   whing
-    3  ipū   ipū
-    3  ŋum   ngum
-    3  aem   aem
-    3  tuw   tuw
-    3  wom   wom
-    3  tēh   tēh
-    3  eue   eue
-    3  kōn   kōn
-    3  eer   eer
-    3  kūi   kūi
     3  haf   hawh
-    3  ūār   ūār
-    3  ūwā   ūwā
-    3  kēŋ   kēng
+    3  tīn   tīn
+    3  mūr   mūr
+    3  kāe   kāe
+    3  oet   oet
+    3  pum   pum
+    3  nōu   nōu
+    3  rūf   rūwh
+    3  ēmu   ēmu
+    3  ēpe   ēpe
     3  īkī   īkī
     3  nām   nām
-    3  auē   auē
-    3  āut   āut
-    3  ēmu   ēmu
-    3  rūf   rūwh
-    3  uio   uio
-    3  iuŋ   iung
-    3  utā   utā
+    3  efi   ewhi
+    3  ieh   ieh
+    3  hōu   hōu
+    3  ōrā   ōrā
     3  rīk   rīk
+    3  eer   eer
+    3  ūfā   ūwhā
+    3  puf   puwh
+    3  iue   iue
     3  mōf   mōwh
-    3  ueŋ   ueng
-    3  pīŋ   pīng
-    3  aou   aou
-    3  aŋū   angū
+    3  āer   āer
     3  kūr   kūr
+    3  rēw   rēw
+    3  ārū   ārū
+    3  auē   auē
+    3  kow   kow
+    3  tow   tow
+    3  eoŋ   eong
+    3  uim   uim
+    3  ēpu   ēpu
+    3  fiŋ   whing
+    3  nom   nom
+    3  ueŋ   ueng
+    3  ŋēt   ngēt
+    3  pīŋ   pīng
+    3  ūwā   ūwā
+    3  ŋiw   ngiw
+    3  iuŋ   iung
+    3  emā   emā
     3  ukō   ukō
-    2  fot   whot
-    2  ooŋ   oong
-    2  arō   arō
-    2  āŋā   āngā
-    2  pīk   pīk
-    2  nee   nee
-    2  arū   arū
-    2  rām   rām
-    2  iek   iek
-    2  ūaw   ūaw
-    2  fēt   whēt
-    2  hūm   hūm
-    2  ekō   ekō
-    2  ŋoo   ngoo
-    2  ūer   ūer
-    2  nōt   nōt
-    2  ōnā   ōnā
-    2  ētē   ētē
-    2  fāe   whāe
-    2  puō   puō
-    2  pii   pii
-    2  omō   omō
-    2  eua   eua
-    2  ākū   ākū
-    2  āih   āih
-    2  aūr   aūr
-    2  fut   whut
-    2  wāe   wāe
-    2  pūi   pūi
-    2  tūa   tūa
-    2  tēk   tēk
-    2  aūk   aūk
-    2  ōmā   ōmā
-    2  uip   uip
-    2  kōi   kōi
-    2  eŋe   enge
-    2  ēir   ēir
-    2  rōh   rōh
-    2  irū   irū
-    2  nop   nop
-    2  kām   kām
-    2  ūia   ūia
-    2  iāk   iāk
-    2  huw   huw
-    2  fīt   whīt
-    2  ufi   uwhi
-    2  maō   maō
-    2  oŋu   ongu
-    2  pāw   pāw
-    2  oio   oio
-    2  foa   whoa
-    2  tūn   tūn
-    2  ēku   ēku
-    2  eot   eot
-    2  afo   awho
-    2  ōwa   ōwa
-    2  ahū   ahū
-    2  mōp   mōp
-    2  eiu   eiu
-    2  tee   tee
-    2  pīn   pīn
-    2  aōr   aōr
-    2  ōŋu   ōngu
-    2  ōwe   ōwe
-    2  hūe   hūe
-    2  mue   mue
-    2  ākī   ākī
-    2  ārā   ārā
-    2  ēiŋ   ēing
-    2  āhū   āhū
-    2  wau   wau
-    2  meo   meo
-    2  etī   etī
-    2  ēmi   ēmi
-    2  ook   ook
-    2  oau   oau
-    2  ehū   ehū
-    2  epō   epō
-    2  āeh   āeh
-    2  ēni   ēni
-    2  āme   āme
-    2  waf   wawh
-    2  uut   uut
+    3  āea   āea
+    3  irī   irī
+    3  ūhe   ūhe
+    3  tēh   tēh
+    3  ēwe   ēwe
+    3  aem   aem
+    3  fāk   whāk
+    3  kūi   kūi
+    3  kōn   kōn
+    3  ūhū   ūhū
+    3  kēŋ   kēng
+    3  āik   āik
+    3  ree   ree
+    3  wāp   wāp
+    3  aou   aou
+    3  eue   eue
+    3  nou   nou
+    3  kīk   kīk
+    3  ŋum   ngum
+    3  rīw   rīw
+    3  aŋū   angū
+    3  tue   tue
+    3  iip   iip
+    3  tuw   tuw
+    3  poŋ   pong
+    3  rōm   rōm
+    3  uio   uio
+    3  āeo   āeo
+    3  ipū   ipū
+    3  āut   āut
+    3  rīf   rīwh
+    3  ūne   ūne
+    3  ūār   ūār
+    3  rūh   rūh
+    3  utā   utā
+    3  tīf   tīwh
     2  afē   awhē
-    2  nir   nir
-    2  aaf   aawh
-    2  ōiŋ   ōing
-    2  iet   iet
-    2  akē   akē
-    2  epā   epā
-    2  ōkō   ōkō
+    2  ōwe   ōwe
+    2  arō   arō
+    2  foa   whoa
+    2  wau   wau
     2  kuo   kuo
-    2  hēm   hēm
-    2  rūī   rūī
-    2  eeh   eeh
-    2  tie   tie
-    2  eim   eim
-    2  īhe   īhe
-    2  tiw   tiw
-    2  wew   wew
-    2  āoh   āoh
-    2  fik   whik
-    2  fām   whām
-    2  ŋeh   ngeh
-    2  rāŋ   rāng
-    2  upī   upī
-    2  onī   onī
-    2  ŋue   ngue
-    2  uun   uun
+    2  ēiŋ   ēing
     2  oŋā   ongā
-    2  kie   kie
-    2  wiw   wiw
-    2  āŋu   āngu
-    2  ŋōn   ngōn
-    2  ūhu   ūhu
-    2  weā   weā
+    2  wew   wew
+    2  aōr   aōr
+    2  iet   iet
+    2  pūi   pūi
+    2  akē   akē
+    2  ŋue   ngue
     2  mēr   mēr
-    2  ūpi   ūpi
-    2  nup   nup
-    2  pāi   pāi
-    2  iop   iop
-    2  eem   eem
-    2  rōt   rōt
+    2  āoh   āoh
+    2  huw   huw
+    2  tiw   tiw
+    2  ūaw   ūaw
+    2  maō   maō
+    2  fāe   whāe
+    2  uun   uun
+    2  āhū   āhū
+    2  fēt   whēt
     2  ōtō   ōtō
-    2  eui   eui
-    2  aie   aie
-    2  iup   iup
-    2  ium   ium
+    2  āŋā   āngā
+    2  ākī   ākī
+    2  ooŋ   oong
+    2  upī   upī
+    2  fut   whut
+    2  aūr   aūr
+    2  āih   āih
+    2  nir   nir
+    2  eot   eot
+    2  eŋe   enge
+    2  pāi   pāi
+    2  epā   epā
+    2  oŋu   ongu
+    2  waf   wawh
+    2  omō   omō
+    2  rām   rām
+    2  iāk   iāk
+    2  arū   arū
+    2  nee   nee
+    2  ōmā   ōmā
+    2  ōiŋ   ōing
+    2  tie   tie
+    2  iek   iek
+    2  pīn   pīn
+    2  ēni   ēni
+    2  oau   oau
+    2  aaf   aawh
+    2  mōp   mōp
+    2  ūia   ūia
+    2  fīt   whīt
+    2  fām   whām
+    2  eeh   eeh
+    2  ēmi   ēmi
+    2  pāw   pāw
     2  īfā   īwhā
-    1  ōtī   ōtī
-    1  opā   opā
-    1  wām   wām
-    1  ŋui   ngui
-    1  nāh   nāh
-    1  īhī   īhī
-    1  ōut   ōut
-    1  ēka   ēka
-    1  uŋo   ungo
+    2  meo   meo
+    2  āme   āme
+    2  ūer   ūer
+    2  ōnā   ōnā
+    2  tūa   tūa
+    2  ēku   ēku
+    2  eim   eim
+    2  iop   iop
+    2  īhe   īhe
+    2  ium   ium
+    2  nup   nup
+    2  āeh   āeh
+    2  ētē   ētē
+    2  eak   eak
+    2  eua   eua
+    2  fot   whot
+    2  ūpi   ūpi
+    2  kōi   kōi
+    2  āŋu   āngu
+    2  ahū   ahū
+    2  fik   whik
+    2  tūn   tūn
+    2  etī   etī
+    2  rōt   rōt
+    2  mue   mue
+    2  wiw   wiw
+    2  puō   puō
+    2  hūm   hūm
+    2  rōh   rōh
+    2  afo   awho
+    2  iup   iup
+    2  ekō   ekō
+    2  epō   epō
+    2  uip   uip
+    2  tēk   tēk
+    2  pīk   pīk
+    2  ŋeh   ngeh
+    2  onī   onī
+    2  hūe   hūe
+    2  wāe   wāe
+    2  ōŋu   ōngu
+    2  eui   eui
+    2  eem   eem
+    2  nōt   nōt
+    2  aie   aie
+    2  ŋōn   ngōn
+    2  oio   oio
+    2  weā   weā
+    2  aūk   aūk
+    2  new   new
+    2  ōwa   ōwa
+    2  kie   kie
+    2  rāŋ   rāng
+    2  ākū   ākū
+    2  hēm   hēm
+    2  nop   nop
+    2  eiu   eiu
+    2  ārā   ārā
+    2  ehū   ehū
+    2  kām   kām
+    2  tee   tee
+    2  pii   pii
+    2  ufi   uwhi
+    2  rūī   rūī
+    2  ēir   ēir
+    2  ŋoo   ngoo
+    2  ūhu   ūhu
+    2  uut   uut
+    2  irū   irū
+    2  ōkō   ōkō
+    1  oie   oie
+    1  ook   ook
+    1  īwe   īwe
+    1  tuu   tuu
+    1  īah   īah
     1  nuf   nuwh
-    1  ouf   ouwh
-    1  ŋeŋ   ngeng
-    1  oof   oowh
+    1  hōa   hōa
+    1  hān   hān
+    1  hāe   hāe
+    1  āuk   āuk
+    1  ōua   ōua
+    1  oaa   oaa
+    1  pūŋ   pūng
+    1  ruw   ruw
+    1  ōut   ōut
+    1  ōtā   ōtā
+    1  fon   whon
     1  foo   whoo
-    1  peu   peu
-    1  ueu   ueu
-    1  fuk   whuk
-    1  wep   wep
-    1  kōŋ   kōng
-    1  hūŋ   hūng
-    1  ouŋ   oung
+    1  hēp   hēp
+    1  āeŋ   āeng
+    1  uoh   uoh
+    1  auu   auu
+    1  kīw   kīw
+    1  īpō   īpō
+    1  oom   oom
+    1  oam   oam
     1  aei   aei
     1  eio   eio
-    1  maf   mawh
-    1  fem   whem
-    1  āŋī   āngī
-    1  fof   whowh
-    1  rōu   rōu
-    1  pūo   pūo
-    1  fou   whou
-    1  kēn   kēn
-    1  tof   towh
-    1  nef   newh
-    1  tuo   tuo
-    1  īhā   īhā
-    1  rōa   rōa
-    1  tūi   tūi
-    1  uŋe   unge
-    1  ŋōk   ngōk
-    1  ihī   ihī
-    1  fāu   whāu
-    1  oam   oam
-    1  tīa   tīa
-    1  kīt   kīt
-    1  hīh   hīh
-    1  ūat   ūat
-    1  īpō   īpō
-    1  hōa   hōa
-    1  pūŋ   pūng
-    1  pow   pow
-    1  ōua   ōua
-    1  huu   huu
-    1  ōŋā   ōngā
-    1  omā   omā
-    1  tōa   tōa
-    1  āeŋ   āeng
-    1  atē   atē
-    1  teo   teo
-    1  pōw   pōw
-    1  īah   īah
-    1  māp   māp
-    1  ākō   ākō
-    1  īek   īek
-    1  kūp   kūp
-    1  oap   oap
-    1  ūpō   ūpō
-    1  hif   hiwh
-    1  wiŋ   wing
-    1  fon   whon
-    1  iin   iin
-    1  anī   anī
     1  naf   nawh
-    1  uoh   uoh
-    1  āun   āun
-    1  aŋē   angē
-    1  ŋiŋ   nging
-    1  piŋ   ping
-    1  heh   heh
-    1  mip   mip
-    1  ūmu   ūmu
-    1  ooo   ooo
-    1  tuu   tuu
-    1  īkā   īkā
-    1  ŋāu   ngāu
-    1  ofo   owho
-    1  tīe   tīe
-    1  opī   opī
-    1  ruw   ruw
-    1  eaw   eaw
-    1  ruo   ruo
-    1  fēk   whēk
-    1  peo   peo
-    1  wio   wio
-    1  oāt   oāt
-    1  ōat   ōat
-    1  ākē   ākē
-    1  ifā   iwhā
-    1  kōw   kōw
-    1  uāt   uāt
-    1  ānā   ānā
-    1  kīw   kīw
-    1  efe   ewhe
-    1  ūok   ūok
-    1  hūk   hūk
-    1  eāt   eāt
-    1  aow   aow
-    1  wāi   wāi
-    1  uāh   uāh
-    1  ēma   ēma
-    1  ukū   ukū
-    1  īwe   īwe
-    1  ūiŋ   ūing
-    1  kēk   kēk
-    1  ŋēn   ngēn
-    1  uām   uām
-    1  hāo   hāo
-    1  iow   iow
+    1  pōw   pōw
     1  tīh   tīh
-    1  uhū   uhū
-    1  ūin   ūin
-    1  hāe   hāe
-    1  oaa   oaa
-    1  awē   awē
-    1  nēh   nēh
-    1  orī   orī
-    1  oie   oie
-    1  nūh   nūh
-    1  iiŋ   iing
+    1  pōŋ   pōng
     1  ūku   ūku
-    1  muā   muā
-    1  euk   euk
-    1  ekā   ekā
-    1  uhā   uhā
-    1  woo   woo
-    1  poe   poe
-    1  ikī   ikī
-    1  oom   oom
-    1  ūao   ūao
-    1  iep   iep
-    1  eif   eiwh
     1  rūp   rūp
-    1  uok   uok
-    1  eŋu   engu
-    1  mīr   mīr
-    1  hīp   hīp
-    1  īne   īne
-    1  hīa   hīa
-    1  enā   enā
-    1  ōan   ōan
-    1  wii   wii
-    1  ōkū   ōkū
-    1  ōtū   ōtū
-    1  tōŋ   tōng
-    1  hān   hān
-    1  uek   uek
-    1  iaf   iawh
-    1  tōā   tōā
-    1  omu   omu
-    1  ŋāf   ngāwh
-    1  kīr   kīr
-    1  ōtā   ōtā
-    1  erō   erō
-    1  ēkē   ēkē
-    1  mie   mie
-    1  iāf   iāwh
-    1  paf   pawh
-    1  niŋ   ning
-    1  ewē   ewē
-    1  auu   auu
-    1  ifo   iwho
-    1  uhī   uhī
-    1  iūr   iūr
-    1  iii   iii
-    1  āuk   āuk
-    1  aūm   aūm
-    1  wih   wih
-    1  pie   pie
-    1  fui   whui
-    1  rēh   rēh
-    1  aŋe   ange
-    1  ētā   ētā
-    1  iāh   iāh
+    1  fuk   whuk
+    1  ēma   ēma
     1  afu   awhu
-    1  ōrī   ōrī
-    1  neu   neu
+    1  ōŋā   ōngā
+    1  ēka   ēka
+    1  orī   orī
+    1  wām   wām
+    1  iii   iii
+    1  hīa   hīa
+    1  ūat   ūat
+    1  tuo   tuo
+    1  aūm   aūm
+    1  huu   huu
+    1  uek   uek
+    1  anī   anī
+    1  ānā   ānā
+    1  nuŋ   nung
+    1  uāt   uāt
+    1  ōaw   ōaw
+    1  eāt   eāt
+    1  opā   opā
+    1  wio   wio
+    1  āun   āun
+    1  ouŋ   oung
+    1  kōw   kōw
+    1  ueu   ueu
+    1  foŋ   whong
+    1  ōtū   ōtū
+    1  ōŋi   ōngi
+    1  kūp   kūp
+    1  iow   iow
     1  īfe   īwhe
     1  oif   oiwh
-    1  foŋ   whong
-    1  uoa   uoa
-    1  pōŋ   pōng
-    1  ōaw   ōaw
-    1  fāo   whāo
+    1  ekā   ekā
+    1  ōtī   ōtī
+    1  hūŋ   hūng
+    1  ūok   ūok
+    1  ōrī   ōrī
+    1  tōŋ   tōng
+    1  uhū   uhū
+    1  mip   mip
+    1  iāh   iāh
+    1  iin   iin
+    1  wih   wih
+    1  wii   wii
+    1  hāo   hāo
+    1  ifā   iwhā
+    1  piŋ   ping
+    1  atē   atē
+    1  iāf   iāwh
+    1  ūpō   ūpō
+    1  eif   eiwh
+    1  ūiŋ   ūing
+    1  īne   īne
+    1  kēn   kēn
+    1  ofo   owho
+    1  mie   mie
     1  īka   īka
-    1  ōŋi   ōngi
-    1  nuŋ   nung
+    1  hif   hiwh
+    1  ouf   ouwh
+    1  māp   māp
+    1  ōkū   ōkū
+    1  neu   neu
+    1  ēkē   ēkē
+    1  rēh   rēh
+    1  peu   peu
+    1  īhā   īhā
+    1  fui   whui
+    1  omu   omu
+    1  uoa   uoa
+    1  oāt   oāt
+    1  iep   iep
+    1  tōa   tōa
+    1  heh   heh
+    1  muā   muā
+    1  kīt   kīt
+    1  nef   newh
+    1  tūi   tūi
+    1  ifo   iwho
+    1  nūh   nūh
+    1  tōā   tōā
     1  nōw   nōw
-    1  eno   eno
-    1  ēhā   ēhā
+    1  ŋāu   ngāu
+    1  kōŋ   kōng
+    1  ŋeŋ   ngeng
+    1  erō   erō
+    1  uāh   uāh
+    1  aŋē   angē
+    1  fāu   whāu
     1  kew   kew
-    1  hēp   hēp
-Total 3-grams: 1878
+    1  ihī   ihī
+    1  iiŋ   iing
+    1  eno   eno
+    1  tīa   tīa
+    1  peo   peo
+    1  eaw   eaw
+    1  fem   whem
+    1  āŋī   āngī
+    1  wāi   wāi
+    1  aŋe   ange
+    1  paf   pawh
+    1  ōan   ōan
+    1  ikī   ikī
+    1  rōu   rōu
+    1  fof   whowh
+    1  ākē   ākē
+    1  uhī   uhī
+    1  pie   pie
+    1  ewē   ewē
+    1  ākō   ākō
+    1  ūao   ūao
+    1  niŋ   ning
+    1  omā   omā
+    1  tof   towh
+    1  wep   wep
+    1  īek   īek
+    1  hūk   hūk
+    1  iūr   iūr
+    1  oap   oap
+    1  ūmu   ūmu
+    1  ooo   ooo
+    1  tīe   tīe
+    1  uok   uok
+    1  ēhā   ēhā
+    1  kēk   kēk
+    1  enā   enā
+    1  mīr   mīr
+    1  uhā   uhā
+    1  euk   euk
+    1  fēk   whēk
+    1  maf   mawh
+    1  opī   opī
+    1  uŋo   ungo
+    1  īhī   īhī
+    1  rōa   rōa
+    1  awē   awē
+    1  uām   uām
+    1  īkā   īkā
+    1  ŋiŋ   nging
+    1  ōat   ōat
+    1  ŋāf   ngāwh
+    1  hīp   hīp
+    1  hīh   hīh
+    1  ŋōk   ngōk
+    1  ētā   ētā
+    1  nēh   nēh
+    1  aow   aow
+    1  efe   ewhe
+    1  fou   whou
+    1  fāo   whāo
+    1  pūo   pūo
+    1  ruo   ruo
+    1  kīr   kīr
+    1  nāh   nāh
+    1  ukū   ukū
+    1  iaf   iawh
+    1  ūin   ūin
+    1  ŋēn   ngēn
+Total 3-grams: 1867
 
 These 3-grams do not occur in mi-wp-min-500-text-only.txt or nga-kōrero-a-reweti-kohere-mā.txt
        aaa   aaa
@@ -2166,6 +2155,7 @@ These 3-grams do not occur in mi-wp-min-500-text-only.txt or nga-kōrero-a-rewet
        eīŋ   eīng
        eīō   eīō
        eīū   eīū
+       eŋu   engu
        eŋā   engā
        eŋē   engē
        eŋī   engī
@@ -2249,6 +2239,7 @@ These 3-grams do not occur in mi-wp-min-500-text-only.txt or nga-kōrero-a-rewet
        fok   whok
        fom   whom
        fop   whop
+       for   whor
        fow   whow
        foā   whoā
        foē   whoē
@@ -2972,6 +2963,7 @@ These 3-grams do not occur in mi-wp-min-500-text-only.txt or nga-kōrero-a-rewet
        onū   onū
        ooa   ooa
        ooe   ooe
+       oof   oowh
        ooi   ooi
        oou   oou
        oow   oow
@@ -3126,6 +3118,8 @@ These 3-grams do not occur in mi-wp-min-500-text-only.txt or nga-kōrero-a-rewet
        piī   piī
        piō   piō
        piū   piū
+       poe   poe
+       pow   pow
        poā   poā
        poē   poē
        poī   poī
@@ -3273,6 +3267,7 @@ These 3-grams do not occur in mi-wp-min-500-text-only.txt or nga-kōrero-a-rewet
        taī   taī
        taō   taō
        taū   taū
+       teo   teo
        teā   teā
        teē   teē
        teī   teī
@@ -3479,6 +3474,7 @@ These 3-grams do not occur in mi-wp-min-500-text-only.txt or nga-kōrero-a-rewet
        uīŋ   uīng
        uīō   uīō
        uīū   uīū
+       uŋe   unge
        uŋē   ungē
        uŋī   ungī
        uŋō   ungō
@@ -3544,6 +3540,7 @@ These 3-grams do not occur in mi-wp-min-500-text-only.txt or nga-kōrero-a-rewet
        wiā   wiā
        wiē   wiē
        wiī   wiī
+       wiŋ   wing
        wiō   wiō
        wiū   wiū
        woa   woa
@@ -3552,7 +3549,9 @@ These 3-grams do not occur in mi-wp-min-500-text-only.txt or nga-kōrero-a-rewet
        woh   woh
        woi   woi
        wok   wok
+       wom   wom
        won   won
+       woo   woo
        wop   wop
        wor   wor
        wot   wot
@@ -4440,6 +4439,7 @@ These 3-grams do not occur in mi-wp-min-500-text-only.txt or nga-kōrero-a-rewet
        ŋua   ngua
        ŋuf   nguwh
        ŋuh   nguh
+       ŋui   ngui
        ŋuk   nguk
        ŋuo   nguo
        ŋup   ngup

@@ -1,142 +1,142 @@
-20449  te   te
-15035  ta   ta
-12377  ka   ka
-10940  ki   ki
+20435  te   te
+15025  ta   ta
+12375  ka   ka
+10936  ki   ki
 10400  ŋa   nga
- 8595  ra   ra
- 7777  at   at
- 7646  ma   ma
- 7606  ko   ko
- 7432  ak   ak
- 7186  ai   ai
- 7061  na   na
- 6510  au   au
- 6472  ar   ar
- 6449  re   re
- 6150  hi   hi
- 5850  he   he
- 5790  ah   ah
- 5419  ua   ua
- 5381  to   to
- 5318  aŋ   ang
- 5282  an   an
- 5228  ia   ia
- 4992  ti   ti
- 4853  ro   ro
- 4823  ri   ri
+ 8590  ra   ra
+ 7731  at   at
+ 7633  ma   ma
+ 7591  ko   ko
+ 7406  ak   ak
+ 7174  ai   ai
+ 7060  na   na
+ 6509  au   au
+ 6461  ar   ar
+ 6448  re   re
+ 6147  hi   hi
+ 5846  he   he
+ 5783  ah   ah
+ 5417  ua   ua
+ 5377  to   to
+ 5316  aŋ   ang
+ 5259  an   an
+ 5226  ia   ia
+ 4987  ti   ti
+ 4851  ro   ro
+ 4822  ri   ri
  4628  tu   tu
- 4583  ha   ha
  4582  ei   ei
- 4398  fa   wha
- 4138  ne   ne
- 3692  or   or
- 3687  wa   wa
+ 4581  ha   ha
+ 4393  fa   wha
+ 4104  ne   ne
  3685  nu   nu
- 3629  it   it
- 3448  er   er
- 3433  ke   ke
- 3404  ho   ho
+ 3673  wa   wa
+ 3662  or   or
+ 3594  it   it
+ 3432  ke   ke
+ 3431  er   er
+ 3385  ho   ho
  3166  oa   oa
  3097  rā   rā
  3084  ŋā   ngā
- 2892  ur   ur
- 2852  pa   pa
- 2703  ir   ir
- 2689  no   no
+ 2888  ur   ur
+ 2849  pa   pa
+ 2700  ir   ir
+ 2666  no   no
  2650  ku   ku
- 2428  pu   pu
- 2385  me   me
- 2370  in   in
+ 2427  pu   pu
+ 2380  me   me
  2360  ae   ae
- 2302  ui   ui
- 2225  oh   oh
- 2222  hu   hu
+ 2333  in   in
+ 2301  ui   ui
+ 2223  oh   oh
+ 2213  hu   hu
  2205  āt   āt
- 2155  ru   ru
- 2147  ot   ot
- 2134  ok   ok
- 2052  ea   ea
- 2044  mo   mo
+ 2154  ru   ru
+ 2133  ok   ok
+ 2124  ot   ot
+ 2042  mo   mo
+ 2040  ea   ea
  1988  ap   ap
- 1964  on   on
- 1962  ik   ik
- 1918  am   am
- 1893  ou   ou
+ 1961  ik   ik
+ 1946  on   on
+ 1915  am   am
+ 1887  ou   ou
  1879  tā   tā
- 1864  ut   ut
+ 1854  ut   ut
  1793  ŋi   ngi
- 1749  tē   tē
  1749  ao   ao
+ 1749  tē   tē
  1654  mā   mā
- 1501  iŋ   ing
+ 1496  iŋ   ing
  1474  ih   ih
  1440  āh   āh
  1439  wā   wā
- 1430  en   en
- 1402  po   po
+ 1409  en   en
+ 1397  po   po
  1386  ān   ān
- 1295  iw   iw
+ 1292  iw   iw
  1291  nō   nō
  1286  tū   tū
- 1258  aw   aw
+ 1257  aw   aw
  1240  kā   kā
  1190  ēn   ēn
  1184  pā   pā
  1183  eh   eh
- 1147  up   up
- 1145  uk   uk
+ 1146  up   up
  1144  ēt   ēt
- 1089  uŋ   ung
- 1083  fe   whe
+ 1144  uk   uk
+ 1088  uŋ   ung
  1068  kō   kō
+ 1067  fe   whe
  1065  ŋo   ngo
  1057  āk   āk
- 1033  et   et
- 1032  ek   ek
-  995  wi   wi
-  983  oŋ   ong
+ 1031  ek   ek
+ 1015  et   et
+  994  wi   wi
   971  ni   ni
+  954  oŋ   ong
   909  mu   mu
   904  ōn   ōn
-  896  eŋ   eng
+  895  eŋ   eng
   862  ōr   ōr
   805  ār   ār
   801  oi   oi
   794  pi   pi
-  790  pe   pe
-  784  uh   uh
+  783  uh   uh
   781  fi   whi
+  778  pe   pe
   769  un   un
   756  hā   hā
   755  tō   tō
   740  āo   āo
-  689  eo   eo
+  688  eo   eo
   679  aa   aa
   668  nā   nā
-  666  mi   mi
+  664  mi   mi
   657  mō   mō
-  655  om   om
+  650  om   om
   638  āu   āu
   624  ip   ip
-  623  we   we
+  621  we   we
   620  fā   whā
   536  ōh   ōh
-  532  op   op
-  506  um   um
+  530  op   op
+  500  um   um
   491  pū   pū
   480  em   em
   446  af   awh
   437  pō   pō
-  429  oe   oe
-  427  io   io
+  428  oe   oe
+  424  io   io
   415  ēr   ēr
   397  āŋ   āng
   376  āw   āw
   375  āi   āi
-  353  im   im
-  350  ii   ii
   350  kī   kī
-  347  ew   ew
+  350  im   im
+  349  ii   ii
+  320  ew   ew
   319  ām   ām
   310  ūr   ūr
   306  āf   āwh
@@ -144,11 +144,10 @@
   273  pī   pī
   271  ōt   ōt
   239  kē   kē
-  228  if   iwh
-  224  ep   ep
+  227  if   iwh
+  223  ep   ep
   219  hē   hē
   209  pē   pē
-  192  of   owh
   190  tī   tī
   173  ōk   ōk
   172  īp   īp
@@ -160,15 +159,16 @@
   150  iu   iu
   141  uf   uwh
   134  wī   wī
+  131  of   owh
   120  rō   rō
   111  īf   īwh
   110  īh   īh
   103  īŋ   īng
   102  hī   hī
-   96  oo   oo
    95  ūm   ūm
-   90  ŋu   ngu
    89  uā   uā
+   89  ŋu   ngu
+   89  oo   oo
    84  ōm   ōm
    76  rū   rū
    74  ēh   ēh
@@ -179,8 +179,8 @@
    55  kū   kū
    54  ie   ie
    53  ūf   ūwh
-   53  eu   eu
    52  hū   hū
+   52  eu   eu
    50  ōf   ōwh
    48  rī   rī
    47  ōu   ōu
@@ -190,64 +190,63 @@
    42  ūŋ   ūng
    42  ūk   ūk
    40  ōi   ōi
-   40  ow   ow
    38  ēŋ   ēng
    37  īt   īt
-   33  uw   uw
+   35  ow   ow
    33  ūn   ūn
-   33  fo   who
+   33  uw   uw
    32  nū   nū
-   30  aū   aū
    30  uo   uo
+   30  aū   aū
+   29  iā   iā
    29  uu   uu
    29  ūā   ūā
-   29  iā   iā
-   29  ŋe   nge
+   28  ŋe   nge
    27  īa   īa
    26  ef   ewh
-   25  ēk   ēk
    25  rē   rē
+   25  ēk   ēk
    24  nī   nī
    23  wē   wē
    22  ēp   ēp
    20  īk   īk
    18  oā   oā
    16  eā   eā
-   15  ee   ee
    15  ūa   ūa
    15  ōa   ōa
    14  ōŋ   ōng
+   14  ee   ee
    14  ēm   ēm
+   13  fo   who
    13  ŋō   ngō
    12  uī   uī
-   12  āe   āe
    12  ēf   ēwh
-    8  iū   iū
+   12  āe   āe
     8  mē   mē
+    8  iū   iū
     7  īi   īi
     6  ūi   ūi
     5  ŋē   ngē
     4  ēi   ēi
-    4  ōw   ōw
-    4  wo   wo
     4  fu   whu
-    3  fē   whē
-    3  ēw   ēw
-    3  ŋū   ngū
-    3  uē   uē
+    4  ōw   ōw
     3  mū   mū
-    2  ūī   ūī
-    2  nē   nē
-    2  īu   īu
-    2  aō   aō
-    2  ūe   ūe
+    3  uē   uē
+    3  ŋū   ngū
+    3  ēw   ēw
+    3  fē   whē
     2  fī   whī
+    2  aō   aō
+    2  nē   nē
     2  uō   uō
-    1  ōā   ōā
+    2  īu   īu
+    2  ūe   ūe
+    2  ūī   ūī
     1  ūo   ūo
-    1  ŋī   ngī
+    1  ōā   ōā
     1  īe   īe
-Total 2-grams: 249
+    1  ŋī   ngī
+Total 2-grams: 248
 
 These 2-grams do not occur in mi-wp-min-500-text-only.txt or nga-kōrero-a-reweti-kohere-mā.txt
        aā   aā
@@ -267,6 +266,7 @@ These 2-grams do not occur in mi-wp-min-500-text-only.txt or nga-kōrero-a-rewet
        oō   oō
        oū   oū
        uū   uū
+       wo   wo
        wu   wu
        wō   wō
        wū   wū
