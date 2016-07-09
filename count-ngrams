@@ -15,7 +15,7 @@ def count_ngrams(text, n):
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('textfile', nargs='+',
+    parser.add_argument('textfiles', nargs='+',
                         help="read text from these file")
     parser.add_argument('-d', '--diphthongs', action='store_true',
                         help="count diphthongs as single units")
@@ -25,7 +25,8 @@ def main():
                         help="use n-grams of this size (default 2)")
     args = parser.parse_args()
 
-    text = load_text(args.textfile, args.diphthongs, not args.expand_macrons)
+    text = load_text(args.textfiles, args.diphthongs,
+                     not args.expand_macrons)
 
     ngrams = count_ngrams(text, args.n_gram_size)
     for bigram, n in ngrams.most_common():
@@ -38,7 +39,7 @@ def main():
 
     missing = set(possible) - set(ngrams)
     print ("These %d-grams do not occur in %s" %
-           (args.n_gram_size, ' or '.join(args.textfile)))
+           (args.n_gram_size, ' or '.join(args.textfiles)))
     for x in sorted(missing):
         print("       %s   %s" % (x, denormalise_text(x)))
 
