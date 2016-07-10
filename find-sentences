@@ -1,0 +1,102 @@
+#!/usr/bin/python3
+# Copyright Douglas Bagnall <douglas@halo.gen.nz> GPLv3
+
+# 1. find all the reasonable sentences (length, full-stop, no English
+# words).
+
+# 2. work out biphone/triphone coverage of each sentence
+
+# 3 find some set that covers them all.
+
+import re
+import argparse
+import random
+from collections import Counter
+
+from reo import load_raw_text, denormalise_text, generate_n_grams
+from reo import has_english, normalise_text
+
+def find_features(text, word_boundaries=False):
+    text = normalise_text(text, diphthongs=False, macrons=False)
+    if has_english(text):
+        return {}
+
+    # count unigrams first (including diphthongs)
+    features = Counter(normalise_text(text, diphthongs=True, macrons=True))
+
+    words = text.split()
+    for word in words:
+        if word_boundaries:
+            word = '«%s»' % word
+            g2 = word[:2]
+            features[g2] += 1
+            for i in range(2, len(word)):
+                g3 = g2 + word[i]
+                g2 = g3[1:]
+                features[g3] += 1
+                features[g2] += 1
+    return features
+
+
+def find_full_cover(sentences, min_cover=2):
+    revmap = {}
+    smap = list(sentences.items())
+    random.shuffle(smap)
+    for s, features in smap:
+        for f in features:
+            revmap.setdefault(f, []).append((s, features))
+
+    covered = set()
+    selected = set()
+    for v in revmap.values():
+        for sentence, f in v[:min_cover]:
+            selected.add(sentence)
+            covered.update(f)
+
+    return selected
+
+
+
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('textfiles', nargs='+',
+                        help="read text from these file")
+    parser.add_argument('-b', '--word-boundaries', action='store_true',
+                        help="mark the start and end of words")
+    args = parser.parse_args()
+
+    # load text first with no special modifications,
+    # but break on full-stops and paragraph breaks.
+    text = load_raw_text(args.textfiles)
+    text = re.sub(r'\n\n+', '.', text)
+    sentences = {}
+    short = 0
+    english = 0
+    for s in text.split('.'):
+        s = s.strip()
+        if len(s) < 20:
+            short += 1
+            continue
+        features = find_features(s, args.word_boundaries)
+        if not features:
+            english += 1
+            continue
+        sentences[s] = features
+
+    print("found %d sentences" % len(sentences))
+    print("skipped %d short and %d english" % (short, english))
+
+    all_features = Counter()
+    for v in sentences.values():
+        all_features.update(v)
+
+    if False:
+        for f, n in all_features.most_common():
+            print("%6d  %-5s   %-5s" % (n, f, denormalise_text(f)))
+
+    selected = find_full_cover(sentences)
+    print("selected %d sentences" % len(selected))
+
+
+
+main()

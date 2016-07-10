@@ -103,11 +103,15 @@ def demacronise(text):
             .replace('ū', 'uu'))
 
 
-def load_text(filenames, diphthongs=False, macrons=False):
+def load_raw_text(filenames):
     raw = []
     for fn in filenames:
         f = open(fn)
         raw.append(f.read())
         f.close()
+    return '\n\n'.join(raw)
 
-    return normalise_text('\n\n'.join(raw), diphthongs, macrons)
+
+def load_text(filenames, diphthongs=False, macrons=False):
+    text = load_raw_text(filenames)
+    return normalise_text(text, diphthongs, macrons)
