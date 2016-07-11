@@ -17,7 +17,7 @@ import unicodedata
 from reo import load_raw_text, denormalise_text, generate_n_grams
 from reo import has_english, normalise_text, debug
 
-def find_features(text, word_boundaries=False):
+def find_features(text, word_boundaries=False, trigram_mode='none'):
     text = normalise_text(text, diphthongs=False, macrons=False,
                           no_english=False)
 
@@ -28,6 +28,7 @@ def find_features(text, word_boundaries=False):
     features = Counter(normalise_text(text, diphthongs=True, macrons=True))
 
     words = text.split()
+    is_vowel = set('aeiou').__contains__
     for word in words:
         if word_boundaries:
             word = '«%s»' % word
@@ -36,8 +37,18 @@ def find_features(text, word_boundaries=False):
             for i in range(2, len(word)):
                 g3 = g2 + word[i]
                 g2 = g3[1:]
-                features[g3] += 1
                 features[g2] += 1
+
+                if trigram_mode != 'none':
+                    if trigram_mode == 'all':
+                        features[g3] += 1
+                    else:
+                        for x, y in zip(g3, trigram_mode):
+                            if y == 'v' and not is_vowel(x):
+                                break
+                        else:
+                            features[g3] += 1
+
     return features
 
 def sentence_length_value(v):
@@ -75,6 +86,9 @@ def main():
                         help="read text from these file")
     parser.add_argument('-b', '--word-boundaries', action='store_true',
                         help="mark the start and end of words")
+    parser.add_argument('-t', '--trigram_mode', default='none',
+                        choices=['none', 'vvv', '.vv', '.v.', 'all'],
+                        help="use trigrams matching this pattern")
     args = parser.parse_args()
 
     # load text first with no special modifications,
@@ -91,7 +105,7 @@ def main():
         if len(s) < 20:
             short += 1
             continue
-        features = find_features(s, args.word_boundaries)
+        features = find_features(s, args.word_boundaries, args.trigram_mode)
         if not features:
             english += 1
             continue
