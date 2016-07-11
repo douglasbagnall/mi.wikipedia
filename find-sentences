@@ -17,14 +17,14 @@ import unicodedata
 from reo import load_raw_text, denormalise_text, generate_n_grams
 from reo import has_english, normalise_text, debug
 
-def find_features(text, word_boundaries=False, trigram_mode='none'):
+def find_features(text, word_boundaries, trigram_mode):
     text = normalise_text(text, diphthongs=False, macrons=False,
                           no_english=False)
 
     if has_english(text):
         return {}
 
-    # count unigrams first (including diphthongs)
+    # count unigrams first (including diphthongs and macrons).
     features = Counter(normalise_text(text, diphthongs=True, macrons=True))
 
     words = text.split()
@@ -32,22 +32,22 @@ def find_features(text, word_boundaries=False, trigram_mode='none'):
     for word in words:
         if word_boundaries:
             word = '«%s»' % word
-            g2 = word[:2]
+        g2 = word[:2]
+        features[g2] += 1
+        for i in range(2, len(word)):
+            g3 = g2 + word[i]
+            g2 = g3[1:]
             features[g2] += 1
-            for i in range(2, len(word)):
-                g3 = g2 + word[i]
-                g2 = g3[1:]
-                features[g2] += 1
 
-                if trigram_mode != 'none':
-                    if trigram_mode == 'all':
-                        features[g3] += 1
+            if trigram_mode != 'none':
+                if trigram_mode == 'all':
+                    features[g3] += 1
+                else:
+                    for x, y in zip(g3, trigram_mode):
+                        if y == 'v' and not is_vowel(x):
+                            break
                     else:
-                        for x, y in zip(g3, trigram_mode):
-                            if y == 'v' and not is_vowel(x):
-                                break
-                        else:
-                            features[g3] += 1
+                        features[g3] += 1
 
     return features
 
@@ -69,15 +69,34 @@ def find_full_cover(sentences, min_cover=2):
             revmap.setdefault(f, []).append((s, features))
 
     covered = set()
-    selected = set()
+    selected = {}
     for v in revmap.values():
         v.sort(key=sentence_length_value)
         for sentence, f in v[:min_cover]:
-            selected.add(sentence)
+            selected[sentence] = sentences[sentence]
             covered.update(f)
 
     return selected
 
+
+def find_all_sentences(text, word_boundaries=False, trigram_mode='none'):
+    sentences = {}
+    short = 0
+    english = 0
+    for s in text.split('.'):
+        s = s.strip()
+        if len(s) < 20:
+            short += 1
+            continue
+        features = find_features(s, word_boundaries, trigram_mode)
+        if not features:
+            english += 1
+            continue
+        sentences[s] = features
+
+    debug("found %d sentences" % len(sentences))
+    debug("skipped %d short and %d english" % (short, english))
+    return sentences
 
 
 def main():
@@ -87,43 +106,29 @@ def main():
     parser.add_argument('-b', '--word-boundaries', action='store_true',
                         help="mark the start and end of words")
     parser.add_argument('-t', '--trigram_mode', default='none',
-                        choices=['none', 'vvv', '.vv', '.v.', 'all'],
+                        choices=['none', 'vvv', '.vv', '.v.', '...', 'all'],
                         help="use trigrams matching this pattern")
+    parser.add_argument('-i', '--iterations', default=1, type=int,
+                        help="how many times to try reducing sentence set")
+    parser.add_argument('-n', '--n-examples', default=2, type=int,
+                        help=("attempt to include at least this many of "
+                              "each feature"))
     args = parser.parse_args()
 
     # load text first with no special modifications,
     # but break on full-stops and paragraph breaks.
     text = load_raw_text(args.textfiles)
     text = unicodedata.normalize('NFC', text)
-    text = re.sub(r'\n\s*\n+', '.', text)
-    text = re.sub(r'\n\s*', '', text)
-    sentences = {}
-    short = 0
-    english = 0
-    for s in text.split('.'):
-        s = s.strip()
-        if len(s) < 20:
-            short += 1
-            continue
-        features = find_features(s, args.word_boundaries, args.trigram_mode)
-        if not features:
-            english += 1
-            continue
-        sentences[s] = features
+    text = re.sub(r'\n\s*\n+', '. ', text)
+    text = re.sub(r'\n\s*', ' ', text)
 
-    debug("found %d sentences" % len(sentences))
-    debug("skipped %d short and %d english" % (short, english))
+    sentences = find_all_sentences(text, args.word_boundaries,
+                                   args.trigram_mode)
 
-    all_features = Counter()
-    for v in sentences.values():
-        all_features.update(v)
-
-    if False:
-        for f, n in all_features.most_common():
-            debug("%6d  %-5s   %-5s" % (n, f, denormalise_text(f)))
-
-    selected = find_full_cover(sentences)
-    debug("selected %d sentences" % len(selected))
+    selected = sentences
+    for i in range(args.iterations):
+        selected = find_full_cover(selected, args.n_examples)
+        debug("%d: selected %d sentences " % (i + 1, len(selected)))
 
     for s in selected:
         print("%s." % s)
