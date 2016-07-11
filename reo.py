@@ -58,10 +58,11 @@ def generate_n_grams(n, prefix, diphthongs, macrons):
 
 
 has_bad_letter = re.compile('[^aeiouāēīōūfhkmnŋprtw ]').search
-has_bad_cluster = re.compile(r'[fhkmnŋprtw](?:[fhkmnŋprtw]|\b)').search
+has_bad_cluster = re.compile(r'[fhkmnŋprtw][fhkmnŋprtw]').search
+has_bad_end = re.compile(r'[^aeiouāēīōū ]\b').search
 
 def has_english(text):
-    if has_bad_letter(text) or has_bad_cluster(text):
+    if has_bad_letter(text) or has_bad_cluster(text) or has_bad_end(text):
         return True
     return False
 
