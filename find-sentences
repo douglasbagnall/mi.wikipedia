@@ -18,7 +18,9 @@ from reo import load_raw_text, denormalise_text, generate_n_grams
 from reo import has_english, normalise_text, debug
 
 def find_features(text, word_boundaries=False):
-    text = normalise_text(text, diphthongs=False, macrons=False)
+    text = normalise_text(text, diphthongs=False, macrons=False,
+                          no_english=False)
+
     if has_english(text):
         return {}
 

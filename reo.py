@@ -75,13 +75,14 @@ def remove_english(text):
     return ' '.join(good_words)
 
 
-def normalise_text(text, diphthongs, macrons):
+def normalise_text(text, diphthongs, macrons, no_english=True):
     text = unicodedata.normalize('NFC', text)
     text = text.lower()
     text = re.sub(r'[^\wāēōūī]+', ' ', text)
     text = re.sub(r'ng', 'ŋ', text)
     text = re.sub(r'wh', 'f', text)
-    text = remove_english(text)
+    if no_english:
+        text = remove_english(text)
     if not macrons:
         text = demacronise(text)
     if diphthongs:
