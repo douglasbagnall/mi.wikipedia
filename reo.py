@@ -2,6 +2,7 @@
 # Copyright Douglas Bagnall <douglas@halo.gen.nz> GPLv3
 import re
 import unicodedata
+import sys
 
 DIPHTHONGS = {
     'ae': 'æ',
@@ -14,6 +15,9 @@ DIPHTHONGS = {
     'ei': 'ė',
     'eu': 'ë'
 }
+
+def debug(*args, **kwargs):
+    print(*args, file=sys.stderr, **kwargs)
 
 
 def possible_n_grams(n, state='v'):

@@ -15,7 +15,7 @@ from collections import Counter
 import unicodedata
 
 from reo import load_raw_text, denormalise_text, generate_n_grams
-from reo import has_english, normalise_text
+from reo import has_english, normalise_text, debug
 
 def find_features(text, word_boundaries=False):
     text = normalise_text(text, diphthongs=False, macrons=False)
@@ -86,8 +86,8 @@ def main():
             continue
         sentences[s] = features
 
-    print("found %d sentences" % len(sentences))
-    print("skipped %d short and %d english" % (short, english))
+    debug("found %d sentences" % len(sentences))
+    debug("skipped %d short and %d english" % (short, english))
 
     all_features = Counter()
     for v in sentences.values():
@@ -95,11 +95,12 @@ def main():
 
     if False:
         for f, n in all_features.most_common():
-            print("%6d  %-5s   %-5s" % (n, f, denormalise_text(f)))
+            debug("%6d  %-5s   %-5s" % (n, f, denormalise_text(f)))
 
     selected = find_full_cover(sentences)
-    print("selected %d sentences" % len(selected))
+    debug("selected %d sentences" % len(selected))
 
-
+    for s in selected:
+        print("%s." % s)
 
 main()
