@@ -40,6 +40,14 @@ def find_features(text, word_boundaries=False):
                 features[g2] += 1
     return features
 
+def sentence_length_value(v):
+    s, f = v
+    good_length = len(s) > 50 and len(s) < 90
+    shortish_words = max(len(x) for x in s.split()) < 12
+    if good_length:
+        return 0 if shortish_words else 1
+    return 2 if shortish_words else 3
+
 
 def find_full_cover(sentences, min_cover=2):
     revmap = {}
@@ -52,6 +60,7 @@ def find_full_cover(sentences, min_cover=2):
     covered = set()
     selected = set()
     for v in revmap.values():
+        v.sort(key=sentence_length_value)
         for sentence, f in v[:min_cover]:
             selected.add(sentence)
             covered.update(f)
