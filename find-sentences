@@ -20,6 +20,7 @@ def find_features(text, word_boundaries, trigram_mode):
     # count unigrams first (including diphthongs and macrons).
     features = Counter(mangle_text(text, diphthongs=True, macrons=True))
 
+    text = mangle_text(text, diphthongs=False, macrons=False)
     words = text.split()
     is_vowel = set('aeiou').__contains__
     for word in words:
