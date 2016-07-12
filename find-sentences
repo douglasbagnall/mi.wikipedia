@@ -12,14 +12,13 @@ from reo import has_english, normalise_text, debug, mangle_text
 
 
 def find_features(text, word_boundaries, trigram_mode):
-    text = normalise_text(text, diphthongs=False, macrons=False,
-                          no_english=False)
+    text = normalise_text(text)
 
     if has_english(text):
         return {}
 
     # count unigrams first (including diphthongs and macrons).
-    features = Counter(normalise_text(text, diphthongs=True, macrons=True))
+    features = Counter(mangle_text(text, diphthongs=True, macrons=True))
 
     words = text.split()
     is_vowel = set('aeiou').__contains__
