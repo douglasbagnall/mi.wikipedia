@@ -1,21 +1,15 @@
 #!/usr/bin/python3
 # Copyright Douglas Bagnall <douglas@halo.gen.nz> GPLv3
 
-# 1. find all the reasonable sentences (length, full-stop, no English
-# words).
-
-# 2. work out biphone/triphone coverage of each sentence
-
-# 3 find some set that covers them all.
-
 import re
 import argparse
 import random
 from collections import Counter
 import unicodedata
 
-from reo import load_raw_text, denormalise_text, generate_n_grams
-from reo import has_english, normalise_text, debug
+from reo import load_raw_text
+from reo import has_english, normalise_text, debug, mangle_text
+
 
 def find_features(text, word_boundaries, trigram_mode):
     text = normalise_text(text, diphthongs=False, macrons=False,
@@ -50,6 +44,7 @@ def find_features(text, word_boundaries, trigram_mode):
                         features[g3] += 1
 
     return features
+
 
 def sentence_length_value(v):
     s, f = v

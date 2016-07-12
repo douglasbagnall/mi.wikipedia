@@ -16,6 +16,7 @@ DIPHTHONGS = {
     'eu': 'ë'
 }
 
+
 def debug(*args, **kwargs):
     print(*args, file=sys.stderr, **kwargs)
 
@@ -61,10 +62,12 @@ has_bad_letter = re.compile('[^aeiouāēīōūfhkmnŋprtw ]').search
 has_bad_cluster = re.compile(r'[fhkmnŋprtw][fhkmnŋprtw]').search
 has_bad_end = re.compile(r'[^aeiouāēīōū ]\b').search
 
+
 def has_english(text):
     if has_bad_letter(text) or has_bad_cluster(text) or has_bad_end(text):
         return True
     return False
+
 
 def remove_english(text):
     words = text.split()
