@@ -27,8 +27,9 @@ def main():
                         help="mark the start and end of words")
     args = parser.parse_args()
 
-    text = load_text(args.textfiles, args.diphthongs,
-                     not args.expand_macrons)
+    text = load_text(args.textfiles,
+                     diphthongs=args.diphthongs,
+                     macrons=not args.expand_macrons)
 
     if args.word_boundaries:
         words = text.split()
