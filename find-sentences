@@ -75,19 +75,21 @@ def find_full_cover(sentences, min_cover=2):
 
 
 def find_all_sentences(text, word_boundaries=False, trigram_mode='none',
-                       remove_square_brackets=False):
+                       skip_bad=True, remove_square_brackets=False):
     sentences = {}
     short = 0
     english = 0
     for s in text.split('.'):
         s = s.strip()
+        if not s:
+            continue
         if remove_square_brackets:
             s = re.sub(r'\[.+\]', '', s)
-        if len(s) < 20:
+        if len(s) < 20 and skip_bad:
             short += 1
             continue
         features = find_features(s, word_boundaries, trigram_mode)
-        if not features:
+        if not features and skip_bad:
             english += 1
             continue
         sentences[s] = features
@@ -123,7 +125,7 @@ def main():
     text = re.sub(r'\n\s*', ' ', text)
 
     sentences = find_all_sentences(text, args.word_boundaries,
-                                   args.trigram_mode,
+                                   args.trigram_mode, True,
                                    remove_square_brackets=args.remove_square_brackets)
 
     selected = sentences
