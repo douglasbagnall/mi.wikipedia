@@ -48,6 +48,8 @@ def find_features(text, word_boundaries, trigram_mode):
 
 def sentence_length_value(v):
     s, f = v
+    if s is None: # an existing sentence, we never remove it.
+        return -1
     good_length = len(s) > 50 and len(s) < 90
     shortish_words = max(len(x) for x in s.split()) < 12
     if good_length:
@@ -55,8 +57,13 @@ def sentence_length_value(v):
     return 2 if shortish_words else 3
 
 
-def find_full_cover(sentences, min_cover=2):
+def find_full_cover(sentences, min_cover=2, existing={}):
     revmap = {}
+
+    for s, features in existing.items():
+        for f in features:
+            revmap.setdefault(f, []).append((None, features))
+
     smap = list(sentences.items())
     random.shuffle(smap)
     for s, features in smap:
@@ -68,7 +75,8 @@ def find_full_cover(sentences, min_cover=2):
     for v in revmap.values():
         v.sort(key=sentence_length_value)
         for sentence, f in v[:min_cover]:
-            selected[sentence] = sentences[sentence]
+            if sentence is not None:
+                selected[sentence] = sentences[sentence]
             covered.update(f)
 
     return selected
@@ -117,6 +125,8 @@ def main():
                               "each feature"))
     parser.add_argument('-R', '--remove-square-brackets', action='store_true',
                         help="remove short snippets in square brackets")
+    parser.add_argument('-e', '--existing',
+                        help="assume we already have sentences in this file")
     args = parser.parse_args()
 
     if args.file_list:
@@ -137,13 +147,22 @@ def main():
     text = re.sub(r'\n\s*\n+', '. ', text)
     text = re.sub(r'\n\s*', ' ', text)
 
+    existing = {}
+    if args.existing:
+        f = open(args.existing)
+        s = unicodedata.normalize('NFC', f.read())
+        f.close()
+        existing = find_all_sentences(text, args.word_boundaries,
+                                      args.trigram_mode, False,
+                                      remove_square_brackets=args.remove_square_brackets)
+
     sentences = find_all_sentences(text, args.word_boundaries,
                                    args.trigram_mode, True,
                                    remove_square_brackets=args.remove_square_brackets)
 
     selected = sentences
     for i in range(args.iterations):
-        selected = find_full_cover(selected, args.n_examples)
+        selected = find_full_cover(selected, args.n_examples, existing)
         debug("%d: selected %d sentences " % (i + 1, len(selected)))
 
     for s in selected:
