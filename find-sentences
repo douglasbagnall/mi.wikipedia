@@ -101,8 +101,10 @@ def find_all_sentences(text, word_boundaries=False, trigram_mode='none',
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('textfiles', nargs='+',
+    parser.add_argument('textfiles', nargs='*',
                         help="read text from these file")
+    parser.add_argument('-f', '--file-list',
+                        help=("use text files listed in this txt file"))
     parser.add_argument('-b', '--word-boundaries', action='store_true',
                         help="mark the start and end of words")
     parser.add_argument('-t', '--trigram_mode', default='none',
@@ -116,6 +118,17 @@ def main():
     parser.add_argument('-R', '--remove-square-brackets', action='store_true',
                         help="remove short snippets in square brackets")
     args = parser.parse_args()
+
+    if args.file_list:
+        f = open(args.file_list)
+        for line in f:
+            line = line.strip()
+            if line and not line.startswith('#'):
+                args.textfiles.append(line)
+
+    if not args.textfiles:
+        print("no source material provided!")
+        return 1
 
     # load text first with no special modifications,
     # but break on full-stops and paragraph breaks.
