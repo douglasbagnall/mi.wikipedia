@@ -130,3 +130,10 @@ def load_text(filenames, **kwargs):
     text = normalise_text(text)
     text = mangle_text(text, **kwargs)
     return text
+
+
+def partially_normalise_text(text):
+    text = unicodedata.normalize('NFC', text)
+    text = re.sub(r'\n\s*\n+', '. ', text)
+    text = re.sub(r'\n\s*', ' ', text)
+    return text

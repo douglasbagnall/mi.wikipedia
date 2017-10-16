@@ -5,9 +5,8 @@ import re
 import argparse
 import random
 from collections import Counter
-import unicodedata
 
-from reo import load_raw_text
+from reo import load_raw_text, partially_normalise_text
 from reo import has_english, normalise_text, debug, mangle_text
 
 
@@ -143,14 +142,12 @@ def main():
     # load text first with no special modifications,
     # but break on full-stops and paragraph breaks.
     text = load_raw_text(args.textfiles)
-    text = unicodedata.normalize('NFC', text)
-    text = re.sub(r'\n\s*\n+', '. ', text)
-    text = re.sub(r'\n\s*', ' ', text)
+    text = partially_normalise_text(text)
 
     existing = {}
     if args.existing:
         f = open(args.existing)
-        s = unicodedata.normalize('NFC', f.read())
+        s = partially_normalise_text(f.read())
         f.close()
         existing = find_all_sentences(text, args.word_boundaries,
                                       args.trigram_mode, False,
