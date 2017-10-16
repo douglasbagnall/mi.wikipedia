@@ -74,12 +74,15 @@ def find_full_cover(sentences, min_cover=2):
     return selected
 
 
-def find_all_sentences(text, word_boundaries=False, trigram_mode='none'):
+def find_all_sentences(text, word_boundaries=False, trigram_mode='none',
+                       remove_square_brackets=False):
     sentences = {}
     short = 0
     english = 0
     for s in text.split('.'):
         s = s.strip()
+        if remove_square_brackets:
+            s = re.sub(r'\[.+\]', '', s)
         if len(s) < 20:
             short += 1
             continue
@@ -108,6 +111,8 @@ def main():
     parser.add_argument('-n', '--n-examples', default=2, type=int,
                         help=("attempt to include at least this many of "
                               "each feature"))
+    parser.add_argument('-R', '--remove-square-brackets', action='store_true',
+                        help="remove short snippets in square brackets")
     args = parser.parse_args()
 
     # load text first with no special modifications,
@@ -118,7 +123,8 @@ def main():
     text = re.sub(r'\n\s*', ' ', text)
 
     sentences = find_all_sentences(text, args.word_boundaries,
-                                   args.trigram_mode)
+                                   args.trigram_mode,
+                                   remove_square_brackets=args.remove_square_brackets)
 
     selected = sentences
     for i in range(args.iterations):
