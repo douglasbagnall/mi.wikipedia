@@ -3,6 +3,7 @@
 import re
 import unicodedata
 import sys
+from collections import Counter
 
 DIPHTHONGS = {
     'ae': 'æ',
@@ -86,6 +87,43 @@ def normalise_text(text):
     text = re.sub(r'ng', 'ŋ', text)
     text = re.sub(r'wh', 'f', text)
     return text
+
+
+def find_features(text, word_boundaries, trigram_mode):
+    text = normalise_text(text)
+
+    if has_english(text):
+        return {}
+
+    # count unigrams first (including diphthongs and macrons).
+    features = Counter(mangle_text(text, diphthongs=True, macrons=True))
+
+    text = mangle_text(text, diphthongs=False, macrons=False)
+    words = text.split()
+    is_vowel = set('aeiou').__contains__
+    for word in words:
+        if word_boundaries:
+            word = '«%s»' % word
+        if len(word) < 2:
+            continue
+        g2 = word[:2]
+        features[g2] += 1
+        for i in range(2, len(word)):
+            g3 = g2 + word[i]
+            g2 = g3[1:]
+            features[g2] += 1
+
+            if trigram_mode != 'none':
+                if trigram_mode == 'all':
+                    features[g3] += 1
+                else:
+                    for x, y in zip(g3, trigram_mode):
+                        if y == 'v' and not is_vowel(x):
+                            break
+                    else:
+                        features[g3] += 1
+
+    return features
 
 
 def mangle_text(text, diphthongs, macrons, no_english=True):
