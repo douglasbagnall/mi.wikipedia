@@ -1,5 +1,26 @@
+# -*- coding: utf-8 -*-
 # Library functions for manipulating Māori text corpora.
 # Copyright Douglas Bagnall <douglas@halo.gen.nz> GPLv3
+"""Find phonemic features in te reo Māori.
+
+What are these features?
+========================
+
+For a start, there are all the unigrams, counting macronised vowels
+and diphongs as single units. For example, the unigrams in "ko wai
+au?" are 'k', 'o', ' ', 'w', 'ai', ' ', and 'au'. The diphthongs are
+represented by ad-hoc characters ('ä' and 'ȧ' in this case), but don't
+worry about that -- it doesn't matter. The consonants 'wh' and 'ng'
+are represented as 'f' and 'ŋ' respectively.
+
+Next there are all the bigrams, calculated by splitting macrons and
+diphthongs. That is, "ngā hau" would be converted to "ŋaa hau" and
+result in the bigrams 'ŋa', 'aa', 'a ', ' h', 'ha', 'au'.
+
+Finally there are all the trigrams, which would be 'ŋaa', 'aa ',
+'a h', ' ha', 'hau' for "ngā hau".
+
+"""
 import re
 import unicodedata
 import sys
