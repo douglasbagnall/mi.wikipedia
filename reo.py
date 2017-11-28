@@ -116,7 +116,7 @@ def find_features(text, word_boundaries, trigram_mode):
     text = normalise_text(text)
 
     if has_english(text):
-        return {}
+        return Counter()
 
     # count unigrams first (including diphthongs and macrons and spaces).
     features = Counter(mangle_text(text, diphthongs=True, macrons=True))
