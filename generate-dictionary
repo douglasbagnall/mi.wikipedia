@@ -1,0 +1,84 @@
+#!/usr/bin/python3
+# Copyright Dragonfly Data Science GPLv3
+
+import re
+import argparse
+import random
+from collections import Counter
+
+from reo import load_raw_text, partially_normalise_text
+from reo import find_features, debug, has_english
+
+
+def uncommented_lines(filename):
+    with open(filename) as f:
+        for line in f:
+            line = line.strip()
+            if line and not line.startswith('#'):
+                yield line
+
+
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('textfiles', nargs='*',
+                        help="read text from these file")
+    parser.add_argument('-f', '--file-list',
+                        help="use text files listed in this txt file")
+    parser.add_argument('-r', '--rewrite-exceptions',
+                        help="rewrite rules for in this file")
+    parser.add_argument('-p', '--phoneme-mapping', default='mi-phonemes.txt',
+                        help="use this letter-to-symbol mapping")
+
+    args = parser.parse_args()
+
+    if args.file_list:
+        args.textfiles.extend(uncommented_lines(args.file_list))
+
+    rewrite_exceptions = {}
+    if args.rewrite_exceptions:
+        for line in uncommented_lines(args.rewrite_exceptions):
+            k, v = line.split(':', 1)
+            rewrite_exceptions[k.strip().upper()] = v.strip().upper()
+
+    mappings = {}
+    for line in uncommented_lines(args.phoneme_mapping):
+        bits = line.split(None, 1)
+        k = bits[0].upper()
+        v = bits[1] if len(bits) == 2 else ''
+        
+        mappings.setdefault(len(k), {})[k] = v
+
+    lengths = sorted(set(mappings.keys()), reverse=True)
+    print(lengths)
+
+    def phonemes(w):
+        i = 0
+        out = []
+        while i < len(w):
+            for n in lengths:
+                k = w[i: i + n]
+                if k in mappings[n]:
+                    out.append(mappings[n][k])
+                    i += n
+                    break                    
+            else:
+                print("unknown character in %s %s" % (w, w[i]))
+                out.append('__')
+                i += 1    
+                
+        return ' '.join(out)
+
+    words = set()
+
+    text = load_raw_text(args.textfiles)
+    text = partially_normalise_text(text)    
+    text = re.sub(r'[^a-zāēōūī-]+', ' ', text, flags=re.UNICODE)
+    text = text.upper()
+    words = Counter(x for x in text.split() if not has_english(x))
+    max_length = max(len(x) for x in words)
+    
+    for w, n in sorted(words.most_common()):
+        #print("%-6d %-*s %s" % (n, max_length, w, phonemes(w)))
+        print("%-*s %s" % (max_length, w, phonemes(w)))
+
+main()

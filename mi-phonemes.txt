@@ -1,0 +1,66 @@
+# This file maps orthographic characters to phoneme symbols for the
+# purposes of generating a pronunciation model.
+#
+
+# Empty lines and lines starting with "#" are ignored; otherwise each
+# line should contain two words. The first word is an orthographic
+# sequence (usually a single letter), and the second is a phoneme
+# symbol.
+
+# The orthographic symbols are consumed greedily, with the longest
+# string of characteres winning. For example the word "ataata" will
+# result in the symbols "A T AA T A", not "A T A A T A", while "kai"
+# becomes "K AI", not "K A I".
+
+-
+a   A
+aa  AA
+ā   AA
+e   E
+ee  EE
+ē   EE
+# f is used for wh in intermediate representations.
+f   WH
+h   H
+i   I
+ii  II
+ī   II
+k   K
+m   M
+n   N
+ng  NG
+# ŋ is an intermediate variant of ng
+ŋ   NG
+o   O
+oo  OO
+ō   OO
+p   P
+r   R
+t   T
+u   U
+uu  UU
+ū   UU
+w   W
+wh  WH
+
+ae  AE
+ai  AI
+ao  AO
+au  AU
+
+oe  OE
+oi  OI
+ou  OU
+
+# ei and eu:
+# Harlow (A Māori reference grammar, Huia 2015, p.9) lists both as diphthongs
+# Peter Keegan in http://www.maorilanguage.info/mao_phon_desc1.html (at 2017-12-12)
+# lists neither.
+#
+# In personal correspondence, Keegan says
+# "ei & ēi are diphthongs, but not eu, I’ll correct that page, thanks".
+#
+# let's go with corrected Keegan.
+
+ei  EI
+#eu  EU
