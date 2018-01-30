@@ -45,11 +45,10 @@ def main():
         bits = line.split(None, 1)
         k = bits[0].upper()
         v = bits[1] if len(bits) == 2 else ''
-        
+
         mappings.setdefault(len(k), {})[k] = v
 
     lengths = sorted(set(mappings.keys()), reverse=True)
-    print(lengths)
 
     def phonemes(w):
         i = 0
@@ -60,23 +59,25 @@ def main():
                 if k in mappings[n]:
                     out.append(mappings[n][k])
                     i += n
-                    break                    
+                    break
             else:
-                print("unknown character in %s %s" % (w, w[i]))
+                print("unknown character in %s %s" % (w, w[i]),
+                      file=sys.stderr)
                 out.append('__')
-                i += 1    
-                
+                i += 1
+
         return ' '.join(out)
 
     words = set()
 
     text = load_raw_text(args.textfiles)
-    text = partially_normalise_text(text)    
-    text = re.sub(r'[^a-zāēōūī-]+', ' ', text, flags=re.UNICODE)
+    text = partially_normalise_text(text)
     text = text.upper()
+    text = re.sub(r'[^A-ZĀĒŌŪĪ]+', ' ', text, flags=re.UNICODE)
+
     words = Counter(x for x in text.split() if not has_english(x))
     max_length = max(len(x) for x in words)
-    
+
     for w, n in sorted(words.most_common()):
         #print("%-6d %-*s %s" % (n, max_length, w, phonemes(w)))
         print("%-*s %s" % (max_length, w, phonemes(w)))
