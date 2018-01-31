@@ -1,0 +1,11 @@
+# This is a list of words (left column) that won't be read correctly
+# using the greedy left-to-right method, so we replace them with the
+# better spellings in the right column.
+
+# Simple examples are tua-, toko-, taki- prefixes before vowels that
+# would form diphthongs or long vowels if left alone.
+
+tuaono     tua-ono
+tuaiwa     tua-iwa
+tokoono    toko-ono
+tokoiwa    toko-iwa

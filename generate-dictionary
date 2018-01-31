@@ -26,6 +26,7 @@ def main():
     parser.add_argument('-f', '--file-list',
                         help="use text files listed in this txt file")
     parser.add_argument('-r', '--rewrite-exceptions',
+                        default='mi-rewrite-exceptions.txt',
                         help="rewrite rules for in this file")
     parser.add_argument('-p', '--phoneme-mapping', default='mi-phonemes.txt',
                         help="use this letter-to-symbol mapping")
@@ -38,8 +39,8 @@ def main():
     rewrite_exceptions = {}
     if args.rewrite_exceptions:
         for line in uncommented_lines(args.rewrite_exceptions):
-            k, v = line.split(':', 1)
-            rewrite_exceptions[k.strip().upper()] = v.strip().upper()
+            k, v = line.upper().split(None, 1)
+            rewrite_exceptions[k] = v.strip()
 
     mappings = {}
     for line in uncommented_lines(args.phoneme_mapping):
@@ -52,6 +53,7 @@ def main():
     lengths = sorted(set(mappings.keys()), reverse=True)
 
     def phonemes(w):
+        w = rewrite_exceptions.get(w, w)
         i = 0
         out = []
         while i < len(w):
