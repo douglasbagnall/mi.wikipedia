@@ -43167,7 +43167,7 @@ TOKOHURURANGI                                             T O K O H U R U R A NG
 TOKOIHI                                                   T O K OI H I
 TOKOINGOA                                                 T O K OI NG O A
 TOKOITI                                                   T O K OI T I
-TOKOIWA                                                   T O K OI W A
+TOKOIWA                                                   T O K O  I W A
 TOKOKAI                                                   T O K O K AI
 TOKOKAWA                                                  T O K O K A W A
 TOKOMAHA                                                  T O K O M A H A
@@ -43189,7 +43189,7 @@ TOKONGAWA                                                 T O K O NG A W A
 TOKONGAWHA                                                T O K O NG A WH A
 TOKONUI                                                   T O K O N U I
 TOKOOMO                                                   T O K OO M O
-TOKOONO                                                   T O K OO N O
+TOKOONO                                                   T O K O  O N O
 TOKOORA                                                   T O K OO R A
 TOKOPAE                                                   T O K O P AE
 TOKOPAHA                                                  T O K O P A H A
@@ -43827,7 +43827,7 @@ TUAINA                                                    T U AI N A
 TUAITARA                                                  T U AI T A R A
 TUAITI                                                    T U AI T I
 TUAITITANGA                                               T U AI T I T A NG A
-TUAIWA                                                    T U AI W A
+TUAIWA                                                    T U A  I W A
 TUAIWI                                                    T U AI W I
 TUAKA                                                     T U A K A
 TUAKAHA                                                   T U A K A H A
@@ -43892,7 +43892,7 @@ TUANUKU                                                   T U A N U K U
 TUAO                                                      T U AO
 TUAONA                                                    T U AO N A
 TUAONE                                                    T U AO N E
-TUAONO                                                    T U AO N O
+TUAONO                                                    T U A  O N O
 TUAPA                                                     T U A P A
 TUAPAE                                                    T U A P AE
 TUAPAKA                                                   T U A P A K A
