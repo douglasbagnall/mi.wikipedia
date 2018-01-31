@@ -83,7 +83,7 @@ def generate_n_grams(n, prefix, diphthongs, macrons):
 
 has_bad_letter = re.compile('[^aeiouāēīōūfhkmnŋprtw -]', re.UNICODE | re.IGNORECASE).search
 has_bad_cluster = re.compile(r'[fhkmnŋprtw][fhkmnŋprtw]', re.UNICODE | re.IGNORECASE).search
-has_bad_end = re.compile(r'[^aeiouāēīōū ]\b', re.UNICODE | re.IGNORECASE).search
+has_bad_end = re.compile(r'[^aeiouāēīōū\s]\b', re.UNICODE | re.IGNORECASE).search
 
 
 def has_english(text):
