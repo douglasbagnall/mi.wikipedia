@@ -103,7 +103,8 @@ def remove_english(text):
 
 
 def normalise_text(text):
-    text = text.decode('utf8')
+    if hasattr(text, 'decode'):
+        text = text.decode('utf8')
     text = unicodedata.normalize('NFC', text)
     text = text.lower()
     text = re.sub(r'[^\wāēōūī]+', ' ', text, flags=re.UNICODE)
